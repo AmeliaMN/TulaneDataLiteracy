@@ -1,0 +1,49 @@
+---
+title: "Hand-drawn data"
+---
+
+Inspired by the work of [Mona Chalabi](https://www.instagram.com/monachalabi/), [Georgi Lupi and Stefanie Posavec](http://www.dear-data.com/), we're going to make some hand-drawn data visualizations. I have [a piece on DataJournalism.com](https://datajournalism.com/read/longreads/data-visualisation-by-hand) with more description of this idea, aimed at data journalists. 
+
+## Pick a dataset
+
+The first step is to choose a dataset you want to work with. This exercise typically works best with small datasets, unless you want to do a lot of markmaking. Here are two to choose from:
+
+### Tulane class of 2027 admission profile 
+
+Found [here](https://admission.tulane.edu/apply/getting-into-tulane/new-class-profile)
+
+|  Racial & Ethnic Diversity |
+|---------------------------------------|
+| African American or Black: 5% |
+| Asian American: 6% |
+| Hispanic or Latina/o/x: 13% |
+| Indigenous/Native American: \<2% |
+| Two or more races: 6% |
+| |
+| Non-US Citizens: 6% |
+
+### Penguins data
+
+[Data on penguins](https://github.com/allisonhorst/palmerpenguins) from the Palmer Archipelago. If you choose this dataset, do not feel like you have to visualize every variable! Pick one or two, and consider aggregating. 
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+library(palmerpenguins)
+library(dplyr)
+library(knitr)
+set.seed(05212024)
+data(penguins)
+penguins |>
+  slice_sample(n=20) |>
+  kable()
+```
+
+## Sketch
+
+Once you have your chosen dataset, make at least three sketches of different ways you could visualize the data. You don't need to encode the data values, just get the "shape" of the visualization.
+
+## Finalize
+
+After you've made some sketches, pick your favorite of your ideas and flesh it out. Consider the mappings you want to use. 

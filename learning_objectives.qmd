@@ -1,0 +1,27 @@
+---
+title: "Learning objectives for digital/data literacy"
+editor: source
+---
+
+Digital literacy and data literacy are separate skills, although they have many overlapping concepts. 
+
+## Digital literacy
+
+Digital literacy is [one of the indicators](https://sdgs.un.org/goals/goal4#targets_and_indicators) for a target in the Sustainable Development Goals (SDGs) of the United Nations. UNESCO has "built on the European Commission's Digital Competence Framework for Citizens" to develop a new set of goals. 
+
+## Digital humanities
+
+The digital humanities use digital tools toward the goal of advancing humanities knowledge. Sometimes there are specific digital humanities courses, other times digital methods get integrated into courses without that term in the title. 
+
+Syllabi
+
+- Wikiversity has [a list of example DH syllabi](https://en.wikiversity.org/wiki/Digital_Humanities_Syllabus)
+- Miriam Posner has a [DH course website](http://miriamposner.com/classes/dh201w23/) rich with resources
+- Chis Alen Sula provides [links to current and past syllabi for DH and other related courses](http://chrisalensula.org/teaching/)
+- [Humanities Commons](https://hcommons.org/deposits/) is a good place to search for syllabi. (Try "digital humanities" and/or some combination of terms with your discipline name.)
+
+Projects
+- One page Dr. Posner links to is this [Simmons guide to exemplary DH projects](https://simmons.libguides.com/c.php?g=487828&p=3827497)
+- Dr. Posner has links to her students' [past projects](http://miriamposner.com/classes/dh201w23/final-project/last-years-projects/)
+
+"small beginnings help instructors focus on what DH they can teach effectively" [@cordell2016]

@@ -1,0 +1,49 @@
+---
+title: "Wednesday"
+---
+
+| Time  | Topic                                                                                                                                                       |
+|----------------------|--------------------------------------------------|
+| 9:00  | Breakfast, warm-up (what data analysis tools have you used?)                                                                                                |
+| 9:15  | Presentation: [tidy data](slides/07_tidy_data.pdf).                                                                                                         |
+| 9:45  | Activity: [unpacking headlines](unpacking_headlines.qmd).                                                                                                   |
+| 10:15 | Demo: data analysis basics. Example tool: [Excel online](https://www.microsoft365.com/launch/Excel/).                                                       |
+| 10:45 | Break                                                                                                                                                       |
+| 11:00 | Presentation: [text as data](slides/07_tidy_data.pdf). Demo: [Voyant Tools](https://voyant-tools.org/).                                                     |
+| 11:45 | Discussion: most relevant data/wrangling/analysis                                                                                                           |
+| noon  | Lunch                                                                                                                                                       |
+| 12:45 | Activity: [analyze data](analyzing_data.qmd) using [Excel online](https://www.microsoft365.com/launch/Excel/) or [Voyant Tools](https://voyant-tools.org/). |
+|       |                                                                                                                                                             |
+| 1:15  | Share out and discussion                                                                                                                                    |
+| 1:30  | Presentation: [algorithmic accountability](slides/09_algorithms.pdf).                                                                                       |
+| 2:00  | Break                                                                                                                                                       |
+| 2:15  | Discussion: data/digital ethics in disciplines. How can this be integrated into courses?                                                                    |
+| 2:45  | Activity: work on ethics integration into existing course. Look at sample syllabi for ideas.                                                                |
+
+## {{< fa book >}} Resources
+
+#### Tidy data
+
+-   [Tidy data](https://vita.had.co.nz/papers/tidy-data.html), Hadley Wickham
+-   [Open Refine](https://openrefine.org/), for data cleaning
+
+#### Text data
+
+-   [Tulane libguide on text data](https://libguides.tulane.edu/c.php?g=502551&p=10202693)
+-   [St Thomas libguide on text data](https://libguides.stthomas.edu/digital_humanities/text)
+-   [Gendered Language in Teacher Reviews](https://benschmidt.org/profGender), Ben Schmidt
+-   [The trouble with sentiment analysis](https://makingnoiseandhearingthings.com/2022/04/19/the-trouble-with-sentiment-analysis/), Rachel Tatman
+-   [An overview of ethical considerations in TDM](https://berkeley.pressbooks.pub/buildinglltdm/chapter/ethics/), Stacy Reardon; Rachael Samberg; and Timothy Vollmer
+-   [Text processing problems with non-English languages](https://medium.com/krakensystems-blog/text-processing-problems-with-non-english-languages-82822d0945dd), Tena Belinić
+
+#### Data ethics
+
+-   [Global Indigenous Data Alliance](https://www.gida-global.org/)
+-   [Turning Data Around](https://medium.com/memo-random/turning-data-around-7acea1f7479c), Jer Thorp
+-   [Manifesto for data practices](https://datapractices.org/manifesto/)
+-   [Integrated ethics labs](https://integratedethicslabs.org/labs-overview/) for computer and data science
+
+## {{< fa flask >}} Activities
+
+-   [Unpacking headlines](unpacking_headlines.qmd)
+-   [Analyzing data](analyzing_data.qmd)

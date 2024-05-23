@@ -1,0 +1,19 @@
+---
+title: "Datawrapper"
+---
+
+Let's try making some basic data visualizations using [Datawrapper](https://www.datawrapper.de/). I'll do a demo, but it's usually pretty self-explanatory. And, they have [great introductory documentation](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart). To get started, just click "start creating"! Login not required.
+
+You'll need a dataset, probably an Excel or csv file. If you found one yesterday, try that! If not, feel free to use one of these sample datasets:
+
+-   [General Social Survey](https://gss.norc.org/) extract
+
+-   [Palmer penguins](https://github.com/allisonhorst/palmerpenguins) data
+
+-   ([Tidy Tuesday datasets](https://github.com/rfordatascience/tidytuesday) would also work)
+
+One thing that can complicate matters is Datawrapper's expectation of how data will be formatted. However, they have good documentation of the format they expect. For example:
+
+-   [how to create small multiple line charts](https://academy.datawrapper.de/article/384-how-to-create-small-multiple-line-charts)
+
+-   [how to create a stacked bar chart](https://academy.datawrapper.de/article/17-how-to-create-a-stacked-bar-chart)

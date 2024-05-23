@@ -1,0 +1,51 @@
+---
+title: "Thursday"
+---
+
+| Time  | Topic                                                                                                                           |
+|-------------------|-----------------------------------------------------|
+| 9:00  | Breakfast, warm-up                                                                                                              |
+| 9:15  | Presentation: mapping basics                                                                                                    |
+| 9:45  | Activity: reading pre-assigned StoryMaps and discussing connections to disciplines                                              |
+| 10:15 | Presentation: communication. Demo: [StoryMaps](https://storymaps.arcgis.com/).                                                  |
+| 10:45 | Break                                                                                                                           |
+| 11:00 | Presentation: the machinery of the web. Demo: [GitHub Pages](https://pages.github.com/).                                        |
+| 11:30 | Activity: curriculum/syllabus review. Where do students see these skills? Are they necessary?                                   |
+| noon  | Lunch                                                                                                                           |
+| 12:45 | Activity: create a communication using [StoryMaps](https://storymaps.arcgis.com/) or [GitHub Pages](https://pages.github.com/). |
+| 1:15  | Share out and discussion                                                                                                        |
+| 1:30  | Presentation: LLMs. Example tool: [ChatGPT](https://chatgpt.com/) .                                                             |
+| 2:00  | Break                                                                                                                           |
+| 2:15  | Activity: playing with ChatGPT and existing assignments                                                                         |
+| 2:45  | Discussion: how LMMs could be used as learning tools. Discuss syllabus statements.                                              |
+
+## {{< fa book >}} Resources
+
+Maps
+
+-   [All maps of parameter estimates are misleading](http://www.stat.columbia.edu/~gelman/research/published/allmaps.pdf), Gelman and Price
+-   [Surprise Maps: Showing the Unexpected](https://medium.com/@uwdata/surprise-maps-showing-the-unexpected-e92b67398865), UW Interactive Data Lab
+-   How Spatial Polygons Shape Our World (issues of the Modifiable Areal Unit Problem), Amelia McNamara. [30-minute version](https://www.youtube.com/watch?v=wn5larsRHro), [60-minute version](https://www.youtube.com/watch?v=bjFzWElyD3o).
+-   [Is Africa bigger than North America?](https://blocks.roadtolarissa.com/zanarmstrong/raw/caa2da1ea1558cdc3357/index.html) Zan Armstrong.
+
+
+
+Communication
+
+-   [PPDAC -The Data Problem Solving Cycle](https://dataschools.education/about-data-literacy/ppdac-the-data-problem-solving-cycle/). Data Education at Schools
+-   [Markdown complete reference](https://daringfireball.net/projects/markdown/syntax), John Gruber
+
+
+AI
+
+-   [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922) Bender, Gebru, McMillan-Major, Shmitchell.
+-   [Slop is the new name for unwanted AI-generated content](https://simonwillison.net/2024/May/8/slop/), Simon Wilson
+-   [Against automated plagiarism](https://irisvanrooijcogsci.com/2022/12/29/against-automated-plagiarism/), Iris van Rooij
+-   [The environmental impact of the AI revolution is starting to come into focus](https://www.theverge.com/2023/10/10/23911059/ai-climate-impact-google-openai-chatgpt-energy), Justine Calma
+-   [Making an image with generative AI uses as much energy as charging your phone](https://www.technologyreview.com/2023/12/01/1084189/making-an-image-with-generative-ai-uses-as-much-energy-as-charging-your-phone/), Melissa Heikkilä
+
+##   {{< fa flask >}} Activities
+
+- [Reading storymaps](reading_storymaps.qmd)
+- [Making storymaps](making_storymaps.qmd)
+- [GitHub pages](GitHubPages.qmd)

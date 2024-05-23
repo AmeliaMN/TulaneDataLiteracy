@@ -1,0 +1,29 @@
+---
+title: "Monday"
+---
+
+| Time  | Topic                                                                                                                                                                                   |
+|-------------------|-----------------------------------------------------|
+| 9:00  | Breakfast, warm-up  (what do you think of when you think of "data"?)                                                                                                                                                                    |
+| 9:15  | Welcome and [introductions](slides/01_intro.pdf)                                                                                                                                                             |
+| 9:45  | Presentation: [digital humanities across disciplines](slides/02_digital_humanities.pdf). |
+| 10:45 | Break                                                                                                                                                                                   |
+| 11:00 | Activity: [syllabus review](syllabus_review.qmd).                                                      |
+| 11:45 | Share-out and discussion                                                                                                                                                                |
+| noon  | Lunch                                                                                                                                                                                   |
+| 12:45 | Presentation: [What is data?](slides/03_data.pdf)                                                                                                 |
+| 1:30  | Activity: [searching online for relevant data, or retrieving data relevant to discipline/research area](finding_data.qmd)                                                                                 |
+| 2:00  | Break                                                                                                                                                                                   |
+| 2:15  | Discussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?                                             |
+
+## {{< fa book >}} Resources
+
+-   [How Not to Teach Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled/section/31326090-9c70-4c0a-b2b7-74361582977e#ch36), Ryan Cordell
+-   [Tulane Data Literacy libguide](https://libguides.tulane.edu/datalit/defined)
+-   [What *Are* Data? The Many Kinds of Data and Their Implications for Data Re-Use](https://doi.org/10.1111/j.1083-6101.2007.00342.x), Samuel Carlson, Ben Anderson.
+-   [Open for who?](https://medium.com/memo-random/open-for-who-ce698a8de79c#.uxjqzre9b) Jer Thorp.
+
+## {{< fa flask >}} Activities
+
+-   [Syllabus review](syllabus_review.qmd)
+-   [Finding data](finding_data.qmd)

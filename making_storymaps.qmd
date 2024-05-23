@@ -1,0 +1,44 @@
+---
+title: "ArcGIS StoryMaps"
+---
+
+One easy way to create a very professional-looking website without getting bogged down in technical details is by using ArcGIS StoryMaps. ArcGIS is a a Geographic Information Systems (GIS) software, and they developed StoryMaps initially to help people produce content around their maps. But, you don't have to have geographic data to use StoryMaps!
+
+## Try it out
+
+-   Log in to ArcGIS through the [Tulane ArcGIS online portal](https://tulane.maps.arcgis.com/home/index.html) and click "sign in" in the upper right. (Single sign-on with your Tulane account.)
+
+-   Go to [the ArcGIS StoryMaps start page](https://storymaps.arcgis.com/).
+
+-   Click "New story" in the upper right.
+
+ArcGIS has a [nice page with instructions](https://storymaps.arcgis.com/stories/cea22a609a1d4cccb8d54c650b595bc4) for developing your storymap, and Tulane also has [a libguide on how to create one](https://libguides.tulane.edu/arcgis_storymaps).
+
+Your StoryMap will remain in Draft mode until you decide you want to Publish it.
+
+## Making a map
+
+If you *want* to include a map in your StoryMap, you have two options:
+
+1.  An Express Map, generated from within the StoryMap interface. Express maps can't be very data-driven, but they are easy to make. If you have just a few geographic features to show, or you don't have a dataset, use this option.
+2.  A full-blown ArcGIS map. To make one of these, you will need to go back to the main ArcGIS website, [Tulane ArcGIS online portal](https://tulane.maps.arcgis.com/home/index.html) and click "map" at the top of the page. From there, you can add layers to the map by uploading data. For example, you could download [the shapefile for the NORDc facilities](https://portal-nolagis.opendata.arcgis.com/datasets/NOLAGIS::nordc-facilities/explore?location=29.994347%2C-90.039600%2C12.00&showTable=true) or [murals in Montreal](https://open.canada.ca/data/en/dataset/53d2e586-6e7f-4eae-89a1-2cfa7fc29fa0).
+
+## Resources
+
+-   [Tulane libguide on GIS software](https://libguides.tulane.edu/geographicinformationsystems/software)
+
+-   [Tulane libguide to StoryMaps](https://libguides.tulane.edu/arcgis_storymaps)
+
+-   [StoryMap map tour of image](https://www.esri.com/arcgis-blog/products/story-maps/constituent-engagement/media-layers-in-arcgis-storymaps/)
+
+-   Making an ArcGIS choropleth map
+
+    -   Download shapefiles appropriate to your data (e.g., states, parishes)
+
+    -   Upload the shapefiles as a layer
+
+    -   Upload your data as a different layer
+
+    -   [Join the data to the shapefiles](https://learn.arcgis.com/en/projects/join-a-table-to-a-feature-layer-in-arcgis-online/?rsource=https%3A%2F%2Flinks.esri.com%2Fagol-help%2Ftutorial%2Fjoin-features-example)
+
+    -   Use a value from the data to color the map. Here's how-- click the dots next to the layers to get into layer properties, edit layer style, then add a field and choose the attribute. Questions? Ask me

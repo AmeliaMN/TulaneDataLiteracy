@@ -1,0 +1,30 @@
+---
+title: "Tuesday"
+---
+
+| Time  | Topic                                                                                                                                           |
+|----------------------|-------------------------------------------------|
+| 9:00  | Breakfast, warm-up (brainstorm common data visualizations)                                                                                                                             |
+| 9:15  | Presentation: [The Grammar of Graphics](slides/04_grammar_of_graphics.pdf).                                                                                                          |
+| 9:45  | Activity: [unpacking charts](unpacking_charts.qmd)                                                                                                                      |
+| 10:45 | Break                                                                                                                                           |
+| 11:00 | Presentation: [data and art](slides/05_data_art.pdf).                                                                                                                     |
+| 11:30 | Activity: [hand-drawn data](handmade_viz.qmd).                                                                                                                      |
+| noon  | Lunch                                                                                                                                           |
+| 12:45 | Presentation: [tools for data visualization](slides/06_viz_tools.pdf). Demo: [Datawrapper](https://www.datawrapper.de/).                                           |
+| 1:30  | Activity: visualize data from yesterday using paper and pencil or [Datawrapper](datawrapper.qmd).                                   |
+| 2:00  | Break                                                                                                                                           |
+| 2:15  | Activity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element |
+| 2:50  | Share out details of assignments.                                                                                                               |
+
+## {{< fa book >}} Resources
+
+-   Tulane [libguide to data visualization](https://libguides.tulane.edu/dataav)
+-   [Data is Personal. What We Learned from 42 Interviews in Rural America](https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d). Evan Peck.
+-   [The unspoken rules of visualisation (and when to break them)](https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation). Kaiser Fung.
+
+## {{< fa flask >}} Activities
+
+-   [Unpacking charts](unpacking_charts.qmd)
+-   [Handmade viz](handmade_viz.qmd)
+-   [Datawrapper](datawrapper.qmd)

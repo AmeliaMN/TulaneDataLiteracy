@@ -1,0 +1,49 @@
+---
+title: "Finding data"
+---
+
+As the week progresses, we'll have many opportunities to work with data. This is usually more exciting and fruitful if you are working with data you have a vested interest in, and/or some contextual knowledge about.
+
+## Searching for data
+
+If you have an idea of what you're looking for, [Google dataset search](https://toolbox.google.com/datasetsearch) can be a good place to start. It is a particular version of google that just searches for data. It works much like regular google, so you can search for things with or without quotation marks around them, and limit searches with `-`. For example, I often find Figshare results less than useful, so I add `-site:figshare.com` to remove those results.
+
+If you have no idea where to start, the Data is Plural [newsletter](https://www.data-is-plural.com/) and associated [spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit) can help spark ideas. I will often use `Ctrl+F` to search for a word within the spreadsheet, or just scroll through looking for phrases that catch my eye. Newer datasets are at the bottom of the spreadsheet.
+
+More places to look:
+
+-   The FiveThirtyEight [data archive](https://github.com/fivethirtyeight/data)
+
+-   [Data.gov](https://www.data.gov/) has 186,000+ datasets! (Although, many of them can be hard to work with)
+
+-   IRE and NICAR are good resources for the types of data journalists care about. For example, [Energy data sources](https://github.com/InsideEnergy/24-energy-stories-CAR16) and [Chrys Wu's resource page](http://blog.chryswu.com/2016/03/08/nicar16-slides-links-tutorials-resources/).
+
+-   [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday). Dig into the data directory and the different years. If you scroll down you can select the year when the data was posted, and see a listing of the datasets. There's lots of fun stuff here! Animal Crossing, craft beer, Medium articles, and much more.
+
+-   If you are interested in text data, [Project Gutenberg](https://www.gutenberg.org/) has the full text of 70,000 books. There are other sources for text data, like [Hathi Trust](https://www.hathitrust.org/). But, many people who work with text data access it using APIs or by scraping it from the web (out of scope for this week, but I'm happy to talk about these techniques!).
+
+-   Tulane has a number of libguides about data:
+
+    -   [Statistics & Data for the Social Sciences](https://libguides.tulane.edu/socialsciencedata)
+
+    -   [Demographics, Data & Statistics Library Guide](https://libguides.tulane.edu/demog)
+
+    -   [Health Sciences Data and Statistical Portal](https://libguides.tulane.edu/DataSets)
+
+    -   [Business Databases](https://libguides.tulane.edu/busdatabases/data)
+
+If you have data already on your computer somewhere, that's fine, as well. "Rectangular" data is usually the simplest to work with– think anything that could be found in an Excel spreadsheet or csv file. Text data would also work.
+
+## Considering data
+
+When you have found a dataset that interests you, consider:
+
+1.  How [F.A.I.R.](https://libguides.tulane.edu/datacuration/fair) was it?
+2.  Who collected the data? Why?
+3.  When was it collected? Does it still feel relevant?
+4.  Where was it collected? What geographic region or other area does it represent?
+5.  Is it licensed for reuse?
+6.  What are the observational units in the data? How many observational units are there? What level of aggregation is present in the data?
+7.  What are the variables? What are the variable types?
+8.  What might be missing from this dataset?
+9.  Is there a question you think you could answer with the data?

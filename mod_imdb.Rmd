@@ -1,0 +1,111 @@
+---
+---
+
+<!-- ### Guest Lecturer -->
+
+<!-- -   [Alex Keller](https://www.smith.edu/academics/faculty/alexandra-keller), Professor of Film and Media Studies, Director of Film and Media Studies Program -->
+
+<!-- ### Learning Goal -->
+
+<!-- -   To write database queries in SQL -->
+
+<!-- ### Readings -->
+
+<!-- -   Ch. 12 of *Modern Data Science with R* -->
+<!-- -   [Netflix's Secret Special Algorithm Is a Human](http://www.newyorker.com/business/currency/hollywoods-big-data-big-deal), *The New Yorker* -->
+<!-- -   [Netflix's dumbed-down algorithms](http://blogs.reuters.com/felix-salmon/2014/01/03/netflixs-dumbed-down-algorithms/), *Reuters* -->
+<!-- -   [How Netflix Reverse Engineered Hollywood](http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/), *The Atlantic* -->
+<!-- -   [Quantitative analysis of the evolution of novelty in cinema through crowdsourced keywords](http://www.nature.com/articles/srep02758), *Nature* -->
+<!-- -   [Likability-Based Genres: Analysis and Evaluation of the Netflix Dataset](https://umdrive.memphis.edu/aolney/public/publications/olney_cogsci_2010.pdf) -->
+<!-- -   [How racially skewed are the Oscars?](http://www.economist.com/blogs/prospero/2016/01/film-and-race), *The Economist* -->
+
+## Mini-Project
+
+You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.
+
+In groups of three, please choose a topic from the following list [illuminated by Prof. Keller](handouts/keller_movies_f17.pptx):
+
+```{=html}
+<!--
+
+#. Horror and Subgenres: We all know about major [film genres](https://en.wikipedia.org/wiki/Film_genre) like *horror* and *thrillers* (or do we?), but what about subgenres like *slashers*? Prof. Keller discussed thematic subgenres like the "home invasion" horror movie, or the "unhappy ending" romantic comedy. Can you use the IMDB data to make distinctions like these? Are there observations you can make about how these subgenres have evolved over time? Or whether and how where they are set influences them?
+
+    - See `info_type_id = 3` and maybe `info_type_id = 10`
+
+-->
+```
+1.  Westerns over time: The [Western](https://en.wikipedia.org/wiki/Western_(genre)) is a central U.S. genre, not just to Hollywood and mainstream film (think [*Stagecoach*](http://www.imdb.com/title/tt0031971/), 1939 and [*The Searchers*](http://www.imdb.com/title/tt0049730/), 1956), but also to independent film production ([*Brokeback Mountain*](http://www.imdb.com/title/tt0388795/), 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?
+
+    -   See `info_type_id = 3 AND info = 'Western'`
+
+2.  Genre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?
+
+    -   See `info_type_id = 3`
+
+3.  Sequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only [sequels](https://en.wikipedia.org/wiki/Sequel), but also [remakes](https://en.wikipedia.org/wiki/Remake) and [reboots](https://en.wikipedia.org/wiki/Reboot_(fiction)). Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?
+
+    -   See `movie_link` table
+
+4.  Community Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are *missing at random* versus *missing systematically* is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn't recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you "map" these data, look beyond geography.
+
+```{=html}
+<!--
+
+#. Ratings: The [Motion Picture Production Codes](https://en.wikipedia.org/wiki/Motion_Picture_Production_Code) began regulating and enforcing decency guidelines in Hollywood films starting in 1934 was largely a list of prohibitions--things not to show in films. (The Code itself can be found [here](http://www.asu.edu/courses/fms200s/total-readings/MotionPictureProductionCode.pdf))  In 1968, the Motion Picture Association of America implemented a non-prohibitive [rating system](https://en.wikipedia.org/wiki/Motion_Picture_Association_of_America#Film_rating_system) that has evolved to the current system of G, PG, PG-13, R, and NC-17.  What can you say about how taboo subjects like sex, nudity, violence, and obscene language have changed over time, and how those changes have been reflected in box office performance?  If you start with films made before the Production Code was implemented, do you find a steady progression toward more "permissiveness" in U.S. films, or do other patterns emerge?
+
+    - See `info_type_id = 97` and `info_type_id = 67`
+    
+#. [#oscarssowhite](https://twitter.com/search?q=%23OscarsSoWhite&lang=en) was a trending hashtag for the second year in a row in 2016, when not a single person of color was nominated for an acting, writing, or directing Oscar.  [The Oscars](https://en.wikipedia.org/wiki/Academy_Awards) are a subjective assessment of excellence in motion pictures, and the subjectivity comes from a small number of people (the Academy members).  Here is one way the controversy has been unpacked: 
+
+    - First, there were no nominations.  
+    - Second, there are disproportionately fewer people of color working in Hollywood than there are in the US.  
+    - Third, those disproportionately minoritized minorities [often don't get access to the prestige projects](http://www.nytimes.com/interactive/2016/02/24/arts/hollywood-diversity-inclusion.html) the Academy likes to nominate.  
+    - Fourth, when there are people of color nominated, they might have patterns in what they're nominated for (this could also be true about the larger pool of nominees).  One [NY Times article](http://www.nytimes.com/2016/02/21/movies/what-does-the-academy-value-in-a-black-performance.html?_r=0) offered that women of color are always nominated for roles of a very limited variety.
+
+    Cheryl Boone Isaacs, the head of the Academy of Motion Pictures has changed the way people are inducted into the Academy to increase its diversity.  There are unintended negative consequences to this that have to do with kicking out inactive members rather than retaining them for life as they long have.  There are, for example, older white lesbians (another category that feels bias in Hollywood) who can't get jobs in film, so they are working in TV.  They are now being ejected for inactivity.
+
+    How could the IMDB database help see other contours to this debate?  What can it *not* tell us?  What do other awards bodies (SAG, DGA, Golden Globes, Independent Spirit Awards, BAFTA) tell us about their diversity vs. the Academy?
+
+-->
+```
+Your project will use data stored in the IMDB to address **one** of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.
+
+Be extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb---it just carries out instructions. You are smart---it's your job to translate your ideas into a syntax that the computer can understand. **Know your data!!!**
+
+## Data
+
+Data are available through the `imdb` database located on `scidb.smith.edu`. Please see me for login instructions, or use the special functions built into the `mdsr` pacakge.
+
+```{r, eval= FALSE, message=FALSE}
+library(mdsr)
+library(RMySQL)
+db <- dbConnect_scidb(dbname = "imdb")
+db %>%
+  dbGetQuery("SELECT * FROM kind_type;")
+```
+
+## Rubric
+
+There are 14 points available on this Mini-Project.
+
+### Baseline
+
+-   +1 for having an `.Rmd` that compiles without errors
+-   +1 for including a problem statement (what are you trying to figure out?)
+-   +1 for using data from more than one table in your analysis
+-   +1 for readable, well-documented code (i.e. appropriate comments, using line breaks, breaking code up into logical chunks, following a style guide)
+-   +1 unnecessary messages from R are hidden from being displayed in the HTML
+
+### Average
+
+-   +1 for joining multiple tables using SQL
+-   +1 for using precise SQL queries (i.e. requesting only the columns you need, rather than requesting everything and filtering in R)
+-   +1 for using efficient SQL queries (i.e. making use of an index column to speed things up, and including a comment indicating this)
+-   +1 for using a data graphic to articulate your findings
+-   +1 for including relevant external information to your analysis (e.g. important cultural context that the reader might not have, historical events that could be related to what you found, etc.)
+
+### Advanced
+
+-   +1 for using a GitHub repository and including a link to it at the bottom of your submission
+-   +1 for including a (well-supported!) alternate hypothesis / explanation for what you found
+-   +0--2 WOW factor: awarded at the professors’ discretion for submissions that are exceptionally compelling

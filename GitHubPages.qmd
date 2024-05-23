@@ -1,0 +1,55 @@
+---
+title: "Markdown and GitHub pages"
+---
+
+A free way to host a website that requires only a small amount of coding is GitHub pages. In order to use GitHub, you need an account (free!) and people can register for an account with more features based on their [educator](https://github.com/edu/teachers)/[student](https://education.github.com/pack) status.
+
+I showed some examples of sites built using GitHub pages:
+
+-   Chris Prener's [biscale](https://chris-prener.github.io/biscale/) R package documentation ([source code](https://github.com/chris-prener/biscale/blob/main/README.md?plain=1)– Markdown)
+
+-   Everest Pipkin's [image scrubber](https://everestpipkin.github.io/image-scrubber/) ([source code](https://github.com/everestpipkin/image-scrubber/blob/main/index.html)– HTML)
+
+-   Brent Pearson's [STAT 490 final project](https://stat490.github.io/final-BrentAPearson/) (source code in a private repo)
+
+-   Kurtis Pykes [portfolio page](https://github.com/kurtispykes) ([source code](https://github.com/kurtispykes/kurtispykes/blob/main/README.md?plain=1)– Markdown)
+
+-   Cassandra Hamilton [portfolio page](https://github.com/cassandrahamilton) ([source code](https://github.com/cassandrahamilton/cassandrahamilton/blob/main/README.md?plain=1)– Markdown)
+
+-   Jonathan Soma's [data studio projects page](https://github.com/jsoma/data-studio-projects-2024) (meta!) ([source code](https://github.com/jsoma/data-studio-projects-2024/blob/main/README.md?plain=1)– HTML/Markdown)
+
+    -   Laura Kukkonen's [homepage](https://lauramiina.github.io/) ([source code](https://github.com/LauraMiina/lauramiina.github.io/blob/main/index.html)– HTML) and [ASMR project](https://lauramiina.github.io/asmr-project/) ([source code](https://github.com/LauraMiina/asmr-project/blob/main/docs/index.html)— HTML)
+
+    -   Radhika Rukmangadhan's [homepage](https://radhika3558.github.io/) ([source code](https://github.com/radhika3558/radhika3558.github.io/blob/main/index.html)– HTML) and [rainy weekends](https://radhika3558.github.io/rainy-weekends/) project ([source code](https://github.com/radhika3558/rainy-weekends/blob/main/index.html)– HTML)
+
+-   Miriam Posner's students also make [project pages](http://miriamposner.com/classes/dh201w23/final-project/last-years-projects/), also mostly in HTML
+
+Feel free to look through these examples for ideas and inspiration. It's also okay to "fork" (copy) the repo so you have something to start with, although be sure to check for any licensing.
+
+# Try it out
+
+-   Make a [GitHub](https://github.com/) account. Jenny Bryan has [suggestions on choosing a username](https://happygitwithr.com/github-acct). My GitHub username is AmeliaMN (a reference to my home state and last name, McNamara). I use AmeliaMN across all social media, so it's easy to find me. You may or may not want this!
+
+-   Follow [the instructions](https://pages.github.com/) to create a GitHub page. There are two types:
+
+    -   User or organization site. This would be your homepage, like the ones Kurtis Pykes, Cassandra Hamilton, Laura Kukkonen and Radhika Rukmangadhan have. (Check the URLs of those sites– mostly `githubusername.github.io` or `github.com/githubusername`.)
+
+    -   Project site. This would be a page for a specific project, like the ones Chris Prener, Everest Pipkin, Brent Pearson, and others made. (Check the URLs of those sites– mostly `githubusername.github.io/projectname`.)
+
+-   As the documentation says,
+
+    -   To make a user site: "Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.
+
+        If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right."
+
+    -   "Head over to GitHub.com and create a new repository, or go to an existing one."
+
+-   "create a new repository" means to click on this green button
+
+![](Screenshot%202024-05-16%20at%202.10.44%20PM.png){fig-align="center" width="247"}
+
+-   The instructions say you need a git client, but this isn't really true. For a simple website, you can edit right on the web! To do this, click "creating a new file."
+
+![](Screenshot%202024-05-16%20at%202.08.40%20PM.png){fig-align="center"}
+
+In that document, you can write Markdown. Reference the slides or the [Markdown complete reference](https://daringfireball.net/projects/markdown/syntax).

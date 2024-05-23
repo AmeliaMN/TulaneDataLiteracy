@@ -1,0 +1,81 @@
+---
+title: "Syllabus review"
+---
+
+## Task
+
+Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.
+
+-   How did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?
+
+-   Are there objectives in the course that align with the data literacy competencies from [the Tulane libguide](https://libguides.tulane.edu/datalit/defined)? Those were:
+
+    -   Databases and Data Formats
+
+    -   Discovery and Acquisition of Data
+
+    -   Data Management and Organization
+
+    -   Data Conversion and Interoperability
+
+    -   Quality Assurance
+
+    -   Metadata
+
+    -   Data Curation and Reuse
+
+    -   Data Preservation
+
+    -   Data Analytics
+
+    -   Data Visualization
+
+    -   Ethics
+
+-   Are there elements of the course you could/should emulate? For example
+
+    -   Policies
+
+    -   Order of topics
+
+    -   Pacing of material
+
+    -   Number of assignments, mixture of high- and low-stakes assignments
+
+    -   Readings– number of readings, mixture of academic and popular audience work, specific reading assignments
+
+-   Not all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.
+
+## Syllabi to review
+
+Here are a few suggested sample syllabi to examine, from least to most technical (["do humanities students need to know how to code?"](https://digitalpedagogy.hcommons.org/keyword/Code)):
+
+-   PSYCG1514: [Research Methods and Design](https://teachpsych.org/resources/Documents/otrp/syllabi/KJ20RMgrad.pdf) (PDF download). [Kate Jansen](https://facultyprofiles.midwestern.edu/349-kate-jansen/about), Midwestern University. (no code)
+
+-   DH285: [Introduction to Digital Humanities](https://introdh2022.commons.msu.edu/). [Kristen Mapes](http://kristenmapes.com/), Michigan State University. (no code: Flourish, Ondo)
+
+-   DGHM150: [Archaeology in a Digital Age](https://lalieberman.net/digital-archaeology/). [Leigh Anne Lieberman](https://lalieberman.net/), Claremont McKenna. (no code?)
+
+-   DH201: [Introduction to Digital Humanities](http://miriamposner.com/classes/dh201w23/). [Miriam Posner](https://www.miriamposner.com/about.html), UCLA. (low code, has a little HTML/CSS/p5.js exploration)
+
+-   ENG790: [Quantitative Literary Analysis: Theory and Practice](https://github.com/emory-qtm/2023-quant-lit/blob/main/docs/QLS-Spring2023.pdf). [Lauren Klein](http://english.emory.edu/home/people/bios/klein-lauren.html) and [Ben Miller](https://writingprogram.emory.edu/people/bios/Miller-Ben.html), Emory University. (limited programming but does use Python)
+
+-   IS312: [Reading and Writing Data](https://canvas.illinois.edu/courses/21941/assignments/syllabus). [Ryan Cordell](https://ryancordell.org/), University of Illinois Urbana-Champaign. (R or Python programming)
+
+-   BUS607: [Data-Driven Decision-Making](https://learn.saylor.org/course/BUS607). Saylor Academy. (limited programming in R)
+
+-   STAT336: [Data Communication and Visualization](https://ameliamn.github.io/STAT336/). [Amelia McNamara](https://www.amelia.mn/), University of St Thomas. (programming in R)
+
+-   LING334: [Introduction to Computational Linguistics](https://faculty.wcas.northwestern.edu/robvoigt/courses/2024_winter/ling334/). [Rob Voigt](https://faculty.wcas.northwestern.edu/robvoigt/), Northwestern University. (programming in Python)
+
+If none of those speak to you, here are a few more places to look for syllabi:
+
+-   The Society for the Teaching of Psychology [Project Syllabus](https://teachpsych.org/otrp/syllabi/index.php/) collection.
+
+-   Humanities Commons [CORE](https://hcommons.org/deposits/?facets%5Bgenre_facet%5D%5B%5D=Syllabus) (narrow search to "Syllabus")
+
+-   [Digital Pedagogy in the Humanities](https://digitalpedagogy.hcommons.org/search/type/Syllabus)
+
+-   [Saylor Academy](https://learn.saylor.org/) (lots of business classes) I don't know anything about this site, but it seems relatively legit.
+
+You can also feel free to pull examples from your own syllabi! We have a wealth of knowledge in this room, let's leverage it.

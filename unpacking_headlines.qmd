@@ -1,0 +1,35 @@
+---
+title: "Unpacking headlines"
+---
+
+Like yesterday's exercise with charts, I want us to practice thinking about the data behind a headline. For your assigned headline, consider:
+
+-   What observational units were used in the data that underlies the headline? People? Counties? Years? Trees?
+
+-   What might the original dataset have looked like? Try drawing out a few rows of the data. (For this exercise, you will definitely need to make something up based on the headline!)
+
+-   Maybe consider some of the ["what's going on in this graph?" guiding questions](https://www.nytimes.com/2021/07/28/learning/introduction-to-whats-going-on-in-this-graph.html), like What do you notice? What do you wonder?
+
+## Headlines
+
+These headlines are all from the New York Times. I'm intentionally only giving you the headline/subheadline, but if you really need/want the context you can go find the article!
+
+-   Glasses Improve Income, Not Just Eyesight. A study found that when older workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.
+-   Why Are Older Americans Drinking So Much? The pandemic played a role in increased consumption, but alcohol use among people 65 and older was climbing even before 2020.
+-   Heat Stress Is Hitting Caribbean Reefs Earlier Than Ever This Year. Scientists in the United States are reporting “unprecedented patterns” of surface warming, an ominous sign for coral.
+-   Does Legalizing Cannabis Increase Adolescent Use? This Expert Found Mixed Results.Contrary to expectation, a major study found that weed use among minors was lower in states where the drug was legal. -What Makes a Society More Resilient? Frequent Hardship. Comparing 30,000 years of human history, researchers found that surviving famine, war or climate change helps groups recover more quickly from future shocks.
+-   Scientists Find an ‘Alphabet’ in Whale Songs. Sperm whales rattle off pulses of clicks while swimming together, raising the possibility that they’re communicating in a complex language.
+
+### More headlines
+
+-   Killer Asteroid Hunters Spot 27,500 Overlooked Space Rocks. With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.
+
+-   When Is the Best Time to Work Out? It’s an age-old question. But a few recent studies have brought us closer to an answer.
+
+-   What Researchers Discovered When They Sent 80,000 Fake Résumés to U.S. Jobs. Some companies discriminated against Black applicants much more than others, and H.R. practices made a big difference.
+
+-   Widening Racial Disparities Underlie Rise in Child Deaths in the U.S. New research finds that the death rate among Black youths soared by 37 percent, and among Native American youths by 22 percent, between 2014 and 2020, compared with less than 5 percent for white youths.
+
+-   Overdose Deaths Dropped in U.S. in 2023 for First Time in Five Years. Preliminary numbers show a nearly 4 percent decrease in deaths from opioids, largely fentanyl, but a rise in deaths from meth and cocaine.
+
+-   Legalized Weed Is Landing More Seniors in the E.R. In Canada, cannabis poisonings rose sharply among people 65 and older after the country legalized the drug, a new study found.

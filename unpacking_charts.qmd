@@ -1,0 +1,50 @@
+---
+title: "Unpacking charts"
+---
+
+Let's practice thinking about the data behind the graphic. For your assigned graphic, consider:
+
+-   The ["what's going on in this graph?" guiding questions](https://www.nytimes.com/2021/07/28/learning/introduction-to-whats-going-on-in-this-graph.html)
+
+    -   What do you notice?
+
+    -   What do you wonder?
+
+    -   How does this relate to you and your community?
+
+    -   Create a catchy headline that captures the graphs’ main idea.
+
+-   Also consider these questions:
+
+    -   How many variable are represented in the chart?
+
+    -   What types of variables are they? (categorical? quantitative?)
+
+    -   What observational units are represented?
+
+    -   What would the original dataset have looked like? Try drawing out a few rows of the data. (Sometimes it's possible to read values directly off the chart, other times you might need to make something up based on the axes.)
+
+    -   What mappings were used (common ones are x, y, color)?
+
+## Example graphics
+
+1.  [Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too](https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html?unlocked_article_code=1.tk0.cdj7.S7xV6ZST0Q9G&smid=url-share). Emily Badger, Robert Gebeloff and Josh Katz. NYTimes.
+2.  [Do voters want Republicans or Democrats in Congress?](https://projects.fivethirtyeight.com/polls/generic-ballot/) FiveThirtyEight.
+3.  [ER visits for Christmas decoration-related injuries increase after Thanksgiving](https://usafacts.org/data-projects/christmas-decorating-injuries). USAFacts.
+4.  [Officials Failed to Act When COVID Hit Prisons. A New Study Shows the Deadly Cost](https://www.themarshallproject.org/2024/04/18/covid-prison-deaths-data). Anna Flagg, Jamiles Lartey and Shannon Heffernan, The Marshall Project.
+5.  [Mapping America’s access to nature, neighborhood by neighborhood](https://wapo.st/4arYYnO). Harry Stevens, The Washington Post.
+6.  [Happiness of the younger, the older, and those in between](https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/). World Happiness Report. (Scroll way down for the graphic!)
+
+## Disciplinary graphics
+
+See if you can find a data visualization related to your discipline, your class, your research, etc. Journal articles can be a good place to start. You can try googling \[discipline\] + "data visualization." Otherwise, some places I tend to look for examples:
+
+-   New York Times "[What's Going On in This Graph?](https://www.nytimes.com/column/whats-going-on-in-this-graph)" discussions
+
+-   Nathan Yau's website, [FlowingData](https://flowingdata.com/)
+
+-   [r/DataIsBeautiful](https://www.reddit.com/r/dataisbeautiful/)
+
+-   [Nightingale](https://nightingaledvs.com/), journal of the Data Visualization Society
+
+-   [Information is Beautiful](https://informationisbeautiful.net/), particularly their [yearly awards](https://www.informationisbeautifulawards.com/)

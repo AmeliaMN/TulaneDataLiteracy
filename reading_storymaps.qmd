@@ -1,0 +1,24 @@
+---
+title: "Reading story maps"
+---
+
+Here are some example storymaps created by folks at Tulane. Take a look through and see the types of elements they have been able to weave together. 
+
+1.   [The Underwood & Underwood Travel System](https://storymaps.arcgis.com/stories/2a13e6b3554b49df836b8ac099b1fb34) by Maria Pautassi Restrepo (Art History MA ‘2021, Newcomb Art Department)
+
+2.   [The Fate of Redlined Neighborhoods in New Orleans](https://storymaps.arcgis.com/stories/560d5ac6f704470587d7a9b71dcce27b) by [Laurel Mire](https://oiss.tulane.edu/laurel-mire) (Environmental Earth Science, Environmental Studies class of 2021)
+
+3.   [The History of Brasília Through the Steps of My Aunt](https://storymaps.arcgis.com/stories/64f7020e9217499fa6acbd61699de45b) by [Luísa Helena Gonçalves de Melo](https://ccc.tulane.edu/lu%C3%ADsa-helena-gon%C3%A7alves-de-melo) (department of Sociology) Also [available in Portuguese](https://storymaps.arcgis.com/stories/6bd6b44ba35849d3a2fe56a59e12375b).
+
+4.   [Racial Landscapes of New Orleans](https://storymaps.arcgis.com/stories/cf6de045bf34446bb94bd20d1d7e3a85) (in-class activity) by [AJ Golio](https://ccc.tulane.edu/aj-golio) (department of Sociology).
+
+5.   [Books Through Their Pages](https://storymaps.arcgis.com/stories/ee34cc0801af4d2888e8c31674fcf61c), by Eli Boyne, Sabrena Johnson, and Sara White (libraries)
+
+6. [Downzoning New Orleans](https://storymaps.arcgis.com/stories/eda1c45da3154b1d9824f60d9111e8ea) by Charlotte Giroux (Master of Sustainable Real Estate class of 2021)
+
+## More examples
+
+- [Dante's Inferno: According to A. Manetti & G. Galilei](https://storymaps.arcgis.com/stories/ad2a09720b75435b922396307e2d6004), Josef Münzberger
+- [A Matter of Air: Visualizing Air Pollution in New York City](https://storymaps.arcgis.com/stories/8723e46dc6c54716808be04457723bc4?mc_cid=cac2e0bb6b&mc_eid=f96cf0c27d), Aurelie Barbier, Katrin Bichler, Aron Cohen and Julie McEldoon 
+
+You might also want to look at the [winners of the 2023 StoryMaps competition](https://www.esri.com/arcgis-blog/products/arcgis-storymaps/announcements/meet-the-2023-storytellers-of-the-year/). 

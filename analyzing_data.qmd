@@ -1,0 +1,54 @@
+---
+title: "Analyzing data"
+---
+
+I'm going to ask you to do some analysis of data, either using Excel (best for rectangular data) or Voyant Tools (best for text data). Here are some resources related to both analysis approaches:
+
+### Analyzing data with Excel
+
+#### Data sources
+
+-   [Louisiana education data](https://www.louisianabelieves.com/resources/library/high-school-performance)
+-   [Gapminder](https://www.gapminder.org/data/)
+
+#### Tool
+
+-   [Tulane Micosoft 365](https://it.tulane.edu/microsoft-365)
+
+#### Resources
+
+-   [How to interview a big pile of data](https://training.npr.org/2015/10/15/what-to-do-with-a-big-pile-of-data/), David Eads, NPR.
+-   [Pivot tables in Excel](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576), to count data or find means by group
+-   [Transposing data with Excel](https://support.microsoft.com/en-us/office/transpose-rotate-data-from-rows-to-columns-or-vice-versa-3419f2e3-beab-4318-aae5-d0f862209744)
+-   [Unpivoting data with Excel](https://support.microsoft.com/en-us/office/unpivot-columns-power-query-0f7bad4b-9ea1-49c1-9d95-f588221c7098) (first you have to [create a Query](https://support.microsoft.com/en-us/office/create-load-or-edit-a-query-in-excel-power-query-ca69e0f0-3db1-4493-900c-6279bef08df4))
+-   The Datawrapper page now has some links to how they expect data
+
+### Analyzing text data with Voyant tools
+
+#### Data sources
+
+-   [Project Gutenberg](https://www.gutenberg.org/)
+-   [Hathi Trust](https://www.gutenberg.org/)
+-   [NORDc Facilities](https://portal-nolagis.opendata.arcgis.com/datasets/NOLAGIS::nordc-facilities/explore?location=29.994347%2C-90.039600%2C12.00&showTable=true)
+
+#### Tool
+
+-   [Voyant tools](https://voyant-tools.org)
+
+#### Resources
+
+-   [Voyant tools documentation](https://voyant-tools.org/docs/)
+
+-   [Tulane libguide on text data](https://libguides.tulane.edu/c.php?g=502551&p=10202693)
+
+-   [University of St Thomas libguide on text data](https://libguides.stthomas.edu/digital_humanities/text)
+
+-   [Sentiment datasets](https://www.tidytextmining.com/sentiment.html#the-sentiments-datasets)
+
+-   [Categories in Voyant](https://voyant-tools.org/docs/#!/guide/categories) (this is where the red and green is coming from!)
+
+-   [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass/)
+
+-   [Semantle](https://semantle.com/), a game based on word2vec
+
+-   [contexto](https://contexto.me/), says it is based on "AI" but I bet it is word2vec

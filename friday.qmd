@@ -1,0 +1,24 @@
+---
+title: "Friday"
+---
+
+
+| Time  | Topic                                                  |
+|-------|--------------------------------------------------------|
+| 9:00  | Breakfast, warm-up                                     |
+| 9:15  | Share out ideas for curricular integration.            |
+| 9:30  | Work time on ideas/lessons/assignments/syllabi         |
+| 10:30 | Share out successes/blockers                           |
+| 10:45 | Break                                                  |
+| 11:00 | Discussion: responses to blockers, ideas and resources |
+| 11:30 | Work time on short presentation for afternoon          |
+| noon  | Lunch                                                  |
+| 12:45 | Participant presentations                              |
+| 2:00  | Break                                                  |
+| 2:15  | Reflection/wrap-up                                     |
+
+
+## {{< fa book >}} Resources
+
+
+## {{< fa flask >}} Activities
