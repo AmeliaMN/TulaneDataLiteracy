@@ -9,11 +9,13 @@ website:
     search: true
     contents:
       - index.qmd
-      - monday.qmd
-      - tuesday.qmd
-      - wednesday.qmd
-      - thursday.qmd
-      - friday.qmd
+      - section: "Daily schedules and resources"
+        contents:
+        - monday.qmd
+        - tuesday.qmd
+        - wednesday.qmd
+        - thursday.qmd
+        - friday.qmd
       - section: "Activities"
         contents:
           - syllabus_review.qmd
