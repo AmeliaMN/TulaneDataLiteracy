@@ -63,109 +63,74 @@
     ]
   },
   {
-    "objectID": "monday.html",
-    "href": "monday.html",
-    "title": "Monday",
+    "objectID": "datawrapper.html",
+    "href": "datawrapper.html",
+    "title": "Datawrapper",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what do you think of when you think of “data”?)\n\n\n9:15\nWelcome and introductions\n\n\n9:45\nPresentation: digital humanities across disciplines.\n\n\n10:45\nBreak\n\n\n11:00\nActivity: syllabus review.\n\n\n11:45\nShare-out and discussion\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: What is data?\n\n\n1:30\nActivity: searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?",
+    "text": "Let’s try making some basic data visualizations using Datawrapper. I’ll do a demo, but it’s usually pretty self-explanatory. And, they have great introductory documentation. To get started, just click “start creating”! Login not required.\nYou’ll need a dataset, probably an Excel or csv file. If you found one yesterday, try that! If not, feel free to use one of these sample datasets:\n\nGeneral Social Survey extract\nPalmer penguins data\n(Tidy Tuesday datasets would also work)\n\nOne thing that can complicate matters is Datawrapper’s expectation of how data will be formatted. However, they have good documentation of the format they expect. For example:\n\nhow to create small multiple line charts\nhow to create a stacked bar chart",
     "crumbs": [
-      "Monday"
+      "Activities",
+      "Datawrapper"
     ]
   },
   {
-    "objectID": "monday.html#resources",
-    "href": "monday.html#resources",
-    "title": "Monday",
+    "objectID": "tuesday.html",
+    "href": "tuesday.html",
+    "title": "Tuesday",
+    "section": "",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (brainstorm common data visualizations)\n\n\n9:15\nPresentation: The Grammar of Graphics.\n\n\n9:45\nActivity: unpacking charts\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: data and art.\n\n\n11:30\nActivity: hand-drawn data.\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: tools for data visualization. Demo: Datawrapper.\n\n\n1:30\nActivity: visualize data from yesterday using paper and pencil or Datawrapper.\n\n\n2:00\nBreak\n\n\n2:15\nActivity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element\n\n\n2:50\nShare out details of assignments.",
+    "crumbs": [
+      "Tuesday"
+    ]
+  },
+  {
+    "objectID": "tuesday.html#resources",
+    "href": "tuesday.html#resources",
+    "title": "Tuesday",
     "section": " Resources",
-    "text": "Resources\n\nHow Not to Teach Digital Humanities, Ryan Cordell\nTulane Data Literacy libguide\nWhat Are Data? The Many Kinds of Data and Their Implications for Data Re-Use, Samuel Carlson, Ben Anderson.\nOpen for who? Jer Thorp.",
+    "text": "Resources\n\nTulane libguide to data visualization\nData is Personal. What We Learned from 42 Interviews in Rural America. Evan Peck.\nThe unspoken rules of visualisation (and when to break them). Kaiser Fung.",
     "crumbs": [
-      "Monday"
+      "Tuesday"
     ]
   },
   {
-    "objectID": "monday.html#activities",
-    "href": "monday.html#activities",
-    "title": "Monday",
+    "objectID": "tuesday.html#activities",
+    "href": "tuesday.html#activities",
+    "title": "Tuesday",
     "section": " Activities",
-    "text": "Activities\n\nSyllabus review\nFinding data",
+    "text": "Activities\n\nUnpacking charts\nHandmade viz\nDatawrapper",
     "crumbs": [
-      "Monday"
+      "Tuesday"
     ]
   },
   {
-    "objectID": "mod_imdb.html",
-    "href": "mod_imdb.html",
-    "title": "Data Literacy Course Redesign Institute",
+    "objectID": "reading_storymaps.html",
+    "href": "reading_storymaps.html",
+    "title": "Reading story maps",
     "section": "",
-    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
-  },
-  {
-    "objectID": "mod_imdb.html#mini-project",
-    "href": "mod_imdb.html#mini-project",
-    "title": "Data Literacy Course Redesign Institute",
-    "section": "",
-    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
-  },
-  {
-    "objectID": "mod_imdb.html#data",
-    "href": "mod_imdb.html#data",
-    "title": "Data Literacy Course Redesign Institute",
-    "section": "Data",
-    "text": "Data\nData are available through the imdb database located on scidb.smith.edu. Please see me for login instructions, or use the special functions built into the mdsr pacakge.\n\nlibrary(mdsr)\nlibrary(RMySQL)\ndb &lt;- dbConnect_scidb(dbname = \"imdb\")\ndb %&gt;%\n  dbGetQuery(\"SELECT * FROM kind_type;\")"
-  },
-  {
-    "objectID": "mod_imdb.html#rubric",
-    "href": "mod_imdb.html#rubric",
-    "title": "Data Literacy Course Redesign Institute",
-    "section": "Rubric",
-    "text": "Rubric\nThere are 14 points available on this Mini-Project.\n\nBaseline\n\n+1 for having an .Rmd that compiles without errors\n+1 for including a problem statement (what are you trying to figure out?)\n+1 for using data from more than one table in your analysis\n+1 for readable, well-documented code (i.e. appropriate comments, using line breaks, breaking code up into logical chunks, following a style guide)\n+1 unnecessary messages from R are hidden from being displayed in the HTML\n\n\n\nAverage\n\n+1 for joining multiple tables using SQL\n+1 for using precise SQL queries (i.e. requesting only the columns you need, rather than requesting everything and filtering in R)\n+1 for using efficient SQL queries (i.e. making use of an index column to speed things up, and including a comment indicating this)\n+1 for using a data graphic to articulate your findings\n+1 for including relevant external information to your analysis (e.g. important cultural context that the reader might not have, historical events that could be related to what you found, etc.)\n\n\n\nAdvanced\n\n+1 for using a GitHub repository and including a link to it at the bottom of your submission\n+1 for including a (well-supported!) alternate hypothesis / explanation for what you found\n+0–2 WOW factor: awarded at the professors’ discretion for submissions that are exceptionally compelling"
-  },
-  {
-    "objectID": "syllabus_review.html",
-    "href": "syllabus_review.html",
-    "title": "Syllabus review",
-    "section": "",
-    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
+    "text": "Here are some example storymaps created by folks at Tulane. Take a look through and see the types of elements they have been able to weave together.",
     "crumbs": [
       "Activities",
-      "Syllabus review"
+      "Reading story maps"
     ]
   },
   {
-    "objectID": "syllabus_review.html#task",
-    "href": "syllabus_review.html#task",
-    "title": "Syllabus review",
-    "section": "",
-    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
+    "objectID": "reading_storymaps.html#more-examples",
+    "href": "reading_storymaps.html#more-examples",
+    "title": "Reading story maps",
+    "section": "More examples",
+    "text": "More examples\n\nDante’s Inferno: According to A. Manetti & G. Galilei, Josef Münzberger\nA Matter of Air: Visualizing Air Pollution in New York City, Aurelie Barbier, Katrin Bichler, Aron Cohen and Julie McEldoon\n\nYou might also want to look at the winners of the 2023 StoryMaps competition.",
     "crumbs": [
       "Activities",
-      "Syllabus review"
+      "Reading story maps"
     ]
-  },
-  {
-    "objectID": "syllabus_review.html#syllabi-to-review",
-    "href": "syllabus_review.html#syllabi-to-review",
-    "title": "Syllabus review",
-    "section": "Syllabi to review",
-    "text": "Syllabi to review\nHere are a few suggested sample syllabi to examine, from least to most technical (“do humanities students need to know how to code?”):\n\nPSYCG1514: Research Methods and Design (PDF download). Kate Jansen, Midwestern University. (no code)\nDH285: Introduction to Digital Humanities. Kristen Mapes, Michigan State University. (no code: Flourish, Ondo)\nDGHM150: Archaeology in a Digital Age. Leigh Anne Lieberman, Claremont McKenna. (no code?)\nDH201: Introduction to Digital Humanities. Miriam Posner, UCLA. (low code, has a little HTML/CSS/p5.js exploration)\nENG790: Quantitative Literary Analysis: Theory and Practice. Lauren Klein and Ben Miller, Emory University. (limited programming but does use Python)\nIS312: Reading and Writing Data. Ryan Cordell, University of Illinois Urbana-Champaign. (R or Python programming)\nBUS607: Data-Driven Decision-Making. Saylor Academy. (limited programming in R)\nSTAT336: Data Communication and Visualization. Amelia McNamara, University of St Thomas. (programming in R)\nLING334: Introduction to Computational Linguistics. Rob Voigt, Northwestern University. (programming in Python)\n\nIf none of those speak to you, here are a few more places to look for syllabi:\n\nThe Society for the Teaching of Psychology Project Syllabus collection.\nHumanities Commons CORE (narrow search to “Syllabus”)\nDigital Pedagogy in the Humanities\nSaylor Academy (lots of business classes) I don’t know anything about this site, but it seems relatively legit.\n\nYou can also feel free to pull examples from your own syllabi! We have a wealth of knowledge in this room, let’s leverage it.",
-    "crumbs": [
-      "Activities",
-      "Syllabus review"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "Summary",
-    "section": "",
-    "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Literacy Course Redesign Institute",
     "section": "",
-    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
+    "text": "May 20-24, 2024\nTulane University, co-sponsored by the Center for Engaged Learning & Teaching (CELT) and the Connolly Alexander Institute for Data Science (CAIDS)\n\n\nDr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
     "crumbs": [
       "Data Literacy Course (Re)Design Institute Description"
     ]
@@ -175,7 +140,7 @@
     "href": "index.html#about-the-course",
     "title": "Data Literacy Course Redesign Institute",
     "section": "",
-    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
+    "text": "May 20-24, 2024\nTulane University, co-sponsored by the Center for Engaged Learning & Teaching (CELT) and the Connolly Alexander Institute for Data Science (CAIDS)\n\n\nDr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
     "crumbs": [
       "Data Literacy Course (Re)Design Institute Description"
     ]
@@ -231,14 +196,88 @@
     ]
   },
   {
-    "objectID": "GitHubPages.html",
-    "href": "GitHubPages.html",
-    "title": "Markdown and GitHub pages",
+    "objectID": "unpacking_headlines.html",
+    "href": "unpacking_headlines.html",
+    "title": "Unpacking headlines",
     "section": "",
-    "text": "A free way to host a website that requires only a small amount of coding is GitHub pages. In order to use GitHub, you need an account (free!) and people can register for an account with more features based on their educator/student status.\nI showed some examples of sites built using GitHub pages:\n\nChris Prener’s biscale R package documentation (source code– Markdown)\nEverest Pipkin’s image scrubber (source code– HTML)\nBrent Pearson’s STAT 490 final project (source code in a private repo)\nKurtis Pykes portfolio page (source code– Markdown)\nCassandra Hamilton portfolio page (source code– Markdown)\nJonathan Soma’s data studio projects page (meta!) (source code– HTML/Markdown)\n\nLaura Kukkonen’s homepage (source code– HTML) and ASMR project (source code— HTML)\nRadhika Rukmangadhan’s homepage (source code– HTML) and rainy weekends project (source code– HTML)\n\nMiriam Posner’s students also make project pages, also mostly in HTML\n\nFeel free to look through these examples for ideas and inspiration. It’s also okay to “fork” (copy) the repo so you have something to start with, although be sure to check for any licensing.\n\nTry it out\n\nMake a GitHub account. Jenny Bryan has suggestions on choosing a username. My GitHub username is AmeliaMN (a reference to my home state and last name, McNamara). I use AmeliaMN across all social media, so it’s easy to find me. You may or may not want this!\nFollow the instructions to create a GitHub page. There are two types:\n\nUser or organization site. This would be your homepage, like the ones Kurtis Pykes, Cassandra Hamilton, Laura Kukkonen and Radhika Rukmangadhan have. (Check the URLs of those sites– mostly githubusername.github.io or github.com/githubusername.)\nProject site. This would be a page for a specific project, like the ones Chris Prener, Everest Pipkin, Brent Pearson, and others made. (Check the URLs of those sites– mostly githubusername.github.io/projectname.)\n\nAs the documentation says,\n\nTo make a user site: “Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.\nIf the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.”\n“Head over to GitHub.com and create a new repository, or go to an existing one.”\n\n“create a new repository” means to click on this green button\n\n\n\n\n\n\n\nThe instructions say you need a git client, but this isn’t really true. For a simple website, you can edit right on the web! To do this, click “creating a new file.”\n\n\n\n\n\n\nIn that document, you can write Markdown. Reference the slides or the Markdown complete reference.",
+    "text": "Like yesterday’s exercise with charts, I want us to practice thinking about the data behind a headline. For your assigned headline, consider:",
     "crumbs": [
       "Activities",
-      "Markdown and GitHub pages"
+      "Unpacking headlines"
+    ]
+  },
+  {
+    "objectID": "unpacking_headlines.html#headlines",
+    "href": "unpacking_headlines.html#headlines",
+    "title": "Unpacking headlines",
+    "section": "Headlines",
+    "text": "Headlines\nThese headlines are all from the New York Times. I’m intentionally only giving you the headline/subheadline, but if you really need/want the context you can go find the article!\n\nGlasses Improve Income, Not Just Eyesight. A study found that when older workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.\nWhy Are Older Americans Drinking So Much? The pandemic played a role in increased consumption, but alcohol use among people 65 and older was climbing even before 2020.\nHeat Stress Is Hitting Caribbean Reefs Earlier Than Ever This Year. Scientists in the United States are reporting “unprecedented patterns” of surface warming, an ominous sign for coral.\nDoes Legalizing Cannabis Increase Adolescent Use? This Expert Found Mixed Results.Contrary to expectation, a major study found that weed use among minors was lower in states where the drug was legal. -What Makes a Society More Resilient? Frequent Hardship. Comparing 30,000 years of human history, researchers found that surviving famine, war or climate change helps groups recover more quickly from future shocks.\nScientists Find an ‘Alphabet’ in Whale Songs. Sperm whales rattle off pulses of clicks while swimming together, raising the possibility that they’re communicating in a complex language.\n\n\nMore headlines\n\nKiller Asteroid Hunters Spot 27,500 Overlooked Space Rocks. With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.\nWhen Is the Best Time to Work Out? It’s an age-old question. But a few recent studies have brought us closer to an answer.\nWhat Researchers Discovered When They Sent 80,000 Fake Résumés to U.S. Jobs. Some companies discriminated against Black applicants much more than others, and H.R. practices made a big difference.\nWidening Racial Disparities Underlie Rise in Child Deaths in the U.S. New research finds that the death rate among Black youths soared by 37 percent, and among Native American youths by 22 percent, between 2014 and 2020, compared with less than 5 percent for white youths.\nOverdose Deaths Dropped in U.S. in 2023 for First Time in Five Years. Preliminary numbers show a nearly 4 percent decrease in deaths from opioids, largely fentanyl, but a rise in deaths from meth and cocaine.\nLegalized Weed Is Landing More Seniors in the E.R. In Canada, cannabis poisonings rose sharply among people 65 and older after the country legalized the drug, a new study found.",
+    "crumbs": [
+      "Activities",
+      "Unpacking headlines"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html",
+    "href": "unpacking_charts.html",
+    "title": "Unpacking charts",
+    "section": "",
+    "text": "Let’s practice thinking about the data behind the graphic. For your assigned graphic, consider:",
+    "crumbs": [
+      "Activities",
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html#example-graphics",
+    "href": "unpacking_charts.html#example-graphics",
+    "title": "Unpacking charts",
+    "section": "Example graphics",
+    "text": "Example graphics\n\nCoastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too. Emily Badger, Robert Gebeloff and Josh Katz. NYTimes.\nDo voters want Republicans or Democrats in Congress? FiveThirtyEight.\nER visits for Christmas decoration-related injuries increase after Thanksgiving. USAFacts.\nOfficials Failed to Act When COVID Hit Prisons. A New Study Shows the Deadly Cost. Anna Flagg, Jamiles Lartey and Shannon Heffernan, The Marshall Project.\nMapping America’s access to nature, neighborhood by neighborhood. Harry Stevens, The Washington Post.\nHappiness of the younger, the older, and those in between. World Happiness Report. (Scroll way down for the graphic!)",
+    "crumbs": [
+      "Activities",
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html#disciplinary-graphics",
+    "href": "unpacking_charts.html#disciplinary-graphics",
+    "title": "Unpacking charts",
+    "section": "Disciplinary graphics",
+    "text": "Disciplinary graphics\nSee if you can find a data visualization related to your discipline, your class, your research, etc. Journal articles can be a good place to start. You can try googling [discipline] + “data visualization.” Otherwise, some places I tend to look for examples:\n\nNew York Times “What’s Going On in This Graph?” discussions\nNathan Yau’s website, FlowingData\nr/DataIsBeautiful\nNightingale, journal of the Data Visualization Society\nInformation is Beautiful, particularly their yearly awards",
+    "crumbs": [
+      "Activities",
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "wednesday.html",
+    "href": "wednesday.html",
+    "title": "Wednesday",
+    "section": "",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n\n\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
+    "crumbs": [
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "wednesday.html#resources",
+    "href": "wednesday.html#resources",
+    "title": "Wednesday",
+    "section": " Resources",
+    "text": "Resources\n\nTidy data\n\nTidy data, Hadley Wickham\nOpen Refine, for data cleaning\n\n\n\nText data\n\nTulane libguide on text data\nSt Thomas libguide on text data\nGendered Language in Teacher Reviews, Ben Schmidt\nThe trouble with sentiment analysis, Rachel Tatman\nAn overview of ethical considerations in TDM, Stacy Reardon; Rachael Samberg; and Timothy Vollmer\nText processing problems with non-English languages, Tena Belinić\n\n\n\nData ethics\n\nGlobal Indigenous Data Alliance\nTurning Data Around, Jer Thorp\nManifesto for data practices\nIntegrated ethics labs for computer and data science",
+    "crumbs": [
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "wednesday.html#activities",
+    "href": "wednesday.html#activities",
+    "title": "Wednesday",
+    "section": " Activities",
+    "text": "Activities\n\nUnpacking headlines\nAnalyzing data",
+    "crumbs": [
+      "Wednesday"
     ]
   },
   {
@@ -286,96 +325,15 @@
     ]
   },
   {
-    "objectID": "wednesday.html",
-    "href": "wednesday.html",
-    "title": "Wednesday",
+    "objectID": "GitHubPages.html",
+    "href": "GitHubPages.html",
+    "title": "Markdown and GitHub pages",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n\n\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
-    "crumbs": [
-      "Wednesday"
-    ]
-  },
-  {
-    "objectID": "wednesday.html#resources",
-    "href": "wednesday.html#resources",
-    "title": "Wednesday",
-    "section": " Resources",
-    "text": "Resources\n\nTidy data\n\nTidy data, Hadley Wickham\nOpen Refine, for data cleaning\n\n\n\nText data\n\nTulane libguide on text data\nSt Thomas libguide on text data\nGendered Language in Teacher Reviews, Ben Schmidt\nThe trouble with sentiment analysis, Rachel Tatman\nAn overview of ethical considerations in TDM, Stacy Reardon; Rachael Samberg; and Timothy Vollmer\nText processing problems with non-English languages, Tena Belinić\n\n\n\nData ethics\n\nGlobal Indigenous Data Alliance\nTurning Data Around, Jer Thorp\nManifesto for data practices\nIntegrated ethics labs for computer and data science",
-    "crumbs": [
-      "Wednesday"
-    ]
-  },
-  {
-    "objectID": "wednesday.html#activities",
-    "href": "wednesday.html#activities",
-    "title": "Wednesday",
-    "section": " Activities",
-    "text": "Activities\n\nUnpacking headlines\nAnalyzing data",
-    "crumbs": [
-      "Wednesday"
-    ]
-  },
-  {
-    "objectID": "unpacking_charts.html",
-    "href": "unpacking_charts.html",
-    "title": "Unpacking charts",
-    "section": "",
-    "text": "Let’s practice thinking about the data behind the graphic. For your assigned graphic, consider:",
+    "text": "A free way to host a website that requires only a small amount of coding is GitHub pages. In order to use GitHub, you need an account (free!) and people can register for an account with more features based on their educator/student status.\nI showed some examples of sites built using GitHub pages:\n\nChris Prener’s biscale R package documentation (source code– Markdown)\nEverest Pipkin’s image scrubber (source code– HTML)\nBrent Pearson’s STAT 490 final project (source code in a private repo)\nKurtis Pykes portfolio page (source code– Markdown)\nCassandra Hamilton portfolio page (source code– Markdown)\nJonathan Soma’s data studio projects page (meta!) (source code– HTML/Markdown)\n\nLaura Kukkonen’s homepage (source code– HTML) and ASMR project (source code— HTML)\nRadhika Rukmangadhan’s homepage (source code– HTML) and rainy weekends project (source code– HTML)\n\nMiriam Posner’s students also make project pages, also mostly in HTML\n\nFeel free to look through these examples for ideas and inspiration. It’s also okay to “fork” (copy) the repo so you have something to start with, although be sure to check for any licensing.\n\nTry it out\n\nMake a GitHub account. Jenny Bryan has suggestions on choosing a username. My GitHub username is AmeliaMN (a reference to my home state and last name, McNamara). I use AmeliaMN across all social media, so it’s easy to find me. You may or may not want this!\nFollow the instructions to create a GitHub page. There are two types:\n\nUser or organization site. This would be your homepage, like the ones Kurtis Pykes, Cassandra Hamilton, Laura Kukkonen and Radhika Rukmangadhan have. (Check the URLs of those sites– mostly githubusername.github.io or github.com/githubusername.)\nProject site. This would be a page for a specific project, like the ones Chris Prener, Everest Pipkin, Brent Pearson, and others made. (Check the URLs of those sites– mostly githubusername.github.io/projectname.)\n\nAs the documentation says,\n\nTo make a user site: “Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.\nIf the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.”\n“Head over to GitHub.com and create a new repository, or go to an existing one.”\n\n“create a new repository” means to click on this green button\n\n\n\n\n\n\n\nThe instructions say you need a git client, but this isn’t really true. For a simple website, you can edit right on the web! To do this, click “creating a new file.”\n\n\n\n\n\n\nIn that document, you can write Markdown. Reference the slides or the Markdown complete reference.",
     "crumbs": [
       "Activities",
-      "Unpacking charts"
+      "Markdown and GitHub pages"
     ]
-  },
-  {
-    "objectID": "unpacking_charts.html#example-graphics",
-    "href": "unpacking_charts.html#example-graphics",
-    "title": "Unpacking charts",
-    "section": "Example graphics",
-    "text": "Example graphics\n\nCoastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too. Emily Badger, Robert Gebeloff and Josh Katz. NYTimes.\nDo voters want Republicans or Democrats in Congress? FiveThirtyEight.\nER visits for Christmas decoration-related injuries increase after Thanksgiving. USAFacts.\nOfficials Failed to Act When COVID Hit Prisons. A New Study Shows the Deadly Cost. Anna Flagg, Jamiles Lartey and Shannon Heffernan, The Marshall Project.\nMapping America’s access to nature, neighborhood by neighborhood. Harry Stevens, The Washington Post.\nHappiness of the younger, the older, and those in between. World Happiness Report. (Scroll way down for the graphic!)",
-    "crumbs": [
-      "Activities",
-      "Unpacking charts"
-    ]
-  },
-  {
-    "objectID": "unpacking_charts.html#disciplinary-graphics",
-    "href": "unpacking_charts.html#disciplinary-graphics",
-    "title": "Unpacking charts",
-    "section": "Disciplinary graphics",
-    "text": "Disciplinary graphics\nSee if you can find a data visualization related to your discipline, your class, your research, etc. Journal articles can be a good place to start. You can try googling [discipline] + “data visualization.” Otherwise, some places I tend to look for examples:\n\nNew York Times “What’s Going On in This Graph?” discussions\nNathan Yau’s website, FlowingData\nr/DataIsBeautiful\nNightingale, journal of the Data Visualization Society\nInformation is Beautiful, particularly their yearly awards",
-    "crumbs": [
-      "Activities",
-      "Unpacking charts"
-    ]
-  },
-  {
-    "objectID": "unpacking_headlines.html",
-    "href": "unpacking_headlines.html",
-    "title": "Unpacking headlines",
-    "section": "",
-    "text": "Like yesterday’s exercise with charts, I want us to practice thinking about the data behind a headline. For your assigned headline, consider:",
-    "crumbs": [
-      "Activities",
-      "Unpacking headlines"
-    ]
-  },
-  {
-    "objectID": "unpacking_headlines.html#headlines",
-    "href": "unpacking_headlines.html#headlines",
-    "title": "Unpacking headlines",
-    "section": "Headlines",
-    "text": "Headlines\nThese headlines are all from the New York Times. I’m intentionally only giving you the headline/subheadline, but if you really need/want the context you can go find the article!\n\nGlasses Improve Income, Not Just Eyesight. A study found that when older workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.\nWhy Are Older Americans Drinking So Much? The pandemic played a role in increased consumption, but alcohol use among people 65 and older was climbing even before 2020.\nHeat Stress Is Hitting Caribbean Reefs Earlier Than Ever This Year. Scientists in the United States are reporting “unprecedented patterns” of surface warming, an ominous sign for coral.\nDoes Legalizing Cannabis Increase Adolescent Use? This Expert Found Mixed Results.Contrary to expectation, a major study found that weed use among minors was lower in states where the drug was legal. -What Makes a Society More Resilient? Frequent Hardship. Comparing 30,000 years of human history, researchers found that surviving famine, war or climate change helps groups recover more quickly from future shocks.\nScientists Find an ‘Alphabet’ in Whale Songs. Sperm whales rattle off pulses of clicks while swimming together, raising the possibility that they’re communicating in a complex language.\n\n\nMore headlines\n\nKiller Asteroid Hunters Spot 27,500 Overlooked Space Rocks. With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.\nWhen Is the Best Time to Work Out? It’s an age-old question. But a few recent studies have brought us closer to an answer.\nWhat Researchers Discovered When They Sent 80,000 Fake Résumés to U.S. Jobs. Some companies discriminated against Black applicants much more than others, and H.R. practices made a big difference.\nWidening Racial Disparities Underlie Rise in Child Deaths in the U.S. New research finds that the death rate among Black youths soared by 37 percent, and among Native American youths by 22 percent, between 2014 and 2020, compared with less than 5 percent for white youths.\nOverdose Deaths Dropped in U.S. in 2023 for First Time in Five Years. Preliminary numbers show a nearly 4 percent decrease in deaths from opioids, largely fentanyl, but a rise in deaths from meth and cocaine.\nLegalized Weed Is Landing More Seniors in the E.R. In Canada, cannabis poisonings rose sharply among people 65 and older after the country legalized the drug, a new study found.",
-    "crumbs": [
-      "Activities",
-      "Unpacking headlines"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "learning_objectives.html",
@@ -410,74 +368,95 @@
     ]
   },
   {
-    "objectID": "reading_storymaps.html",
-    "href": "reading_storymaps.html",
-    "title": "Reading story maps",
+    "objectID": "syllabus_review.html",
+    "href": "syllabus_review.html",
+    "title": "Syllabus review",
     "section": "",
-    "text": "Here are some example storymaps created by folks at Tulane. Take a look through and see the types of elements they have been able to weave together.",
+    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
     "crumbs": [
       "Activities",
-      "Reading story maps"
+      "Syllabus review"
     ]
   },
   {
-    "objectID": "reading_storymaps.html#more-examples",
-    "href": "reading_storymaps.html#more-examples",
-    "title": "Reading story maps",
-    "section": "More examples",
-    "text": "More examples\n\nDante’s Inferno: According to A. Manetti & G. Galilei, Josef Münzberger\nA Matter of Air: Visualizing Air Pollution in New York City, Aurelie Barbier, Katrin Bichler, Aron Cohen and Julie McEldoon\n\nYou might also want to look at the winners of the 2023 StoryMaps competition.",
+    "objectID": "syllabus_review.html#task",
+    "href": "syllabus_review.html#task",
+    "title": "Syllabus review",
+    "section": "",
+    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
     "crumbs": [
       "Activities",
-      "Reading story maps"
+      "Syllabus review"
     ]
   },
   {
-    "objectID": "tuesday.html",
-    "href": "tuesday.html",
-    "title": "Tuesday",
-    "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (brainstorm common data visualizations)\n\n\n9:15\nPresentation: The Grammar of Graphics.\n\n\n9:45\nActivity: unpacking charts\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: data and art.\n\n\n11:30\nActivity: hand-drawn data.\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: tools for data visualization. Demo: Datawrapper.\n\n\n1:30\nActivity: visualize data from yesterday using paper and pencil or Datawrapper.\n\n\n2:00\nBreak\n\n\n2:15\nActivity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element\n\n\n2:50\nShare out details of assignments.",
+    "objectID": "syllabus_review.html#syllabi-to-review",
+    "href": "syllabus_review.html#syllabi-to-review",
+    "title": "Syllabus review",
+    "section": "Syllabi to review",
+    "text": "Syllabi to review\nHere are a few suggested sample syllabi to examine, from least to most technical (“do humanities students need to know how to code?”):\n\nPSYCG1514: Research Methods and Design (PDF download). Kate Jansen, Midwestern University. (no code)\nDH285: Introduction to Digital Humanities. Kristen Mapes, Michigan State University. (no code: Flourish, Ondo)\nDGHM150: Archaeology in a Digital Age. Leigh Anne Lieberman, Claremont McKenna. (no code?)\nDH201: Introduction to Digital Humanities. Miriam Posner, UCLA. (low code, has a little HTML/CSS/p5.js exploration)\nENG790: Quantitative Literary Analysis: Theory and Practice. Lauren Klein and Ben Miller, Emory University. (limited programming but does use Python)\nIS312: Reading and Writing Data. Ryan Cordell, University of Illinois Urbana-Champaign. (R or Python programming)\nBUS607: Data-Driven Decision-Making. Saylor Academy. (limited programming in R)\nSTAT336: Data Communication and Visualization. Amelia McNamara, University of St Thomas. (programming in R)\nLING334: Introduction to Computational Linguistics. Rob Voigt, Northwestern University. (programming in Python)\n\nIf none of those speak to you, here are a few more places to look for syllabi:\n\nThe Society for the Teaching of Psychology Project Syllabus collection.\nHumanities Commons CORE (narrow search to “Syllabus”)\nDigital Pedagogy in the Humanities\nSaylor Academy (lots of business classes) I don’t know anything about this site, but it seems relatively legit.\n\nYou can also feel free to pull examples from your own syllabi! We have a wealth of knowledge in this room, let’s leverage it.",
     "crumbs": [
-      "Tuesday"
+      "Activities",
+      "Syllabus review"
     ]
   },
   {
-    "objectID": "tuesday.html#resources",
-    "href": "tuesday.html#resources",
-    "title": "Tuesday",
+    "objectID": "mod_imdb.html",
+    "href": "mod_imdb.html",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "",
+    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+  },
+  {
+    "objectID": "mod_imdb.html#mini-project",
+    "href": "mod_imdb.html#mini-project",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "",
+    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+  },
+  {
+    "objectID": "mod_imdb.html#data",
+    "href": "mod_imdb.html#data",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "Data",
+    "text": "Data\nData are available through the imdb database located on scidb.smith.edu. Please see me for login instructions, or use the special functions built into the mdsr pacakge.\n\nlibrary(mdsr)\nlibrary(RMySQL)\ndb &lt;- dbConnect_scidb(dbname = \"imdb\")\ndb %&gt;%\n  dbGetQuery(\"SELECT * FROM kind_type;\")"
+  },
+  {
+    "objectID": "mod_imdb.html#rubric",
+    "href": "mod_imdb.html#rubric",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "Rubric",
+    "text": "Rubric\nThere are 14 points available on this Mini-Project.\n\nBaseline\n\n+1 for having an .Rmd that compiles without errors\n+1 for including a problem statement (what are you trying to figure out?)\n+1 for using data from more than one table in your analysis\n+1 for readable, well-documented code (i.e. appropriate comments, using line breaks, breaking code up into logical chunks, following a style guide)\n+1 unnecessary messages from R are hidden from being displayed in the HTML\n\n\n\nAverage\n\n+1 for joining multiple tables using SQL\n+1 for using precise SQL queries (i.e. requesting only the columns you need, rather than requesting everything and filtering in R)\n+1 for using efficient SQL queries (i.e. making use of an index column to speed things up, and including a comment indicating this)\n+1 for using a data graphic to articulate your findings\n+1 for including relevant external information to your analysis (e.g. important cultural context that the reader might not have, historical events that could be related to what you found, etc.)\n\n\n\nAdvanced\n\n+1 for using a GitHub repository and including a link to it at the bottom of your submission\n+1 for including a (well-supported!) alternate hypothesis / explanation for what you found\n+0–2 WOW factor: awarded at the professors’ discretion for submissions that are exceptionally compelling"
+  },
+  {
+    "objectID": "monday.html",
+    "href": "monday.html",
+    "title": "Monday",
+    "section": "",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what do you think of when you think of “data”?)\n\n\n9:15\nWelcome and introductions\n\n\n9:45\nPresentation: digital humanities across disciplines.\n\n\n10:45\nBreak\n\n\n11:00\nActivity: syllabus review.\n\n\n11:45\nShare-out and discussion\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: What is data?\n\n\n1:30\nActivity: searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?",
+    "crumbs": [
+      "Monday"
+    ]
+  },
+  {
+    "objectID": "monday.html#resources",
+    "href": "monday.html#resources",
+    "title": "Monday",
     "section": " Resources",
-    "text": "Resources\n\nTulane libguide to data visualization\nData is Personal. What We Learned from 42 Interviews in Rural America. Evan Peck.\nThe unspoken rules of visualisation (and when to break them). Kaiser Fung.",
+    "text": "Resources\n\nHow Not to Teach Digital Humanities, Ryan Cordell\nTulane Data Literacy libguide\nWhat Are Data? The Many Kinds of Data and Their Implications for Data Re-Use, Samuel Carlson, Ben Anderson.\nOpen for who? Jer Thorp.",
     "crumbs": [
-      "Tuesday"
+      "Monday"
     ]
   },
   {
-    "objectID": "tuesday.html#activities",
-    "href": "tuesday.html#activities",
-    "title": "Tuesday",
+    "objectID": "monday.html#activities",
+    "href": "monday.html#activities",
+    "title": "Monday",
     "section": " Activities",
-    "text": "Activities\n\nUnpacking charts\nHandmade viz\nDatawrapper",
+    "text": "Activities\n\nSyllabus review\nFinding data",
     "crumbs": [
-      "Tuesday"
+      "Monday"
     ]
-  },
-  {
-    "objectID": "datawrapper.html",
-    "href": "datawrapper.html",
-    "title": "Datawrapper",
-    "section": "",
-    "text": "Let’s try making some basic data visualizations using Datawrapper. I’ll do a demo, but it’s usually pretty self-explanatory. And, they have great introductory documentation. To get started, just click “start creating”! Login not required.\nYou’ll need a dataset, probably an Excel or csv file. If you found one yesterday, try that! If not, feel free to use one of these sample datasets:\n\nGeneral Social Survey extract\nPalmer penguins data\n(Tidy Tuesday datasets would also work)\n\nOne thing that can complicate matters is Datawrapper’s expectation of how data will be formatted. However, they have good documentation of the format they expect. For example:\n\nhow to create small multiple line charts\nhow to create a stacked bar chart",
-    "crumbs": [
-      "Activities",
-      "Datawrapper"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "References"
   },
   {
     "objectID": "handmade_viz.html",

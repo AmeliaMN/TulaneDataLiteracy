@@ -2,7 +2,6 @@
 title: "Friday"
 ---
 
-
 | Time  | Topic                                                  |
 |-------|--------------------------------------------------------|
 | 9:00  | Breakfast, warm-up                                     |
@@ -17,8 +16,6 @@ title: "Friday"
 | 2:00  | Break                                                  |
 | 2:15  | Reflection/wrap-up                                     |
 
-
 ## {{< fa book >}} Resources
-
 
 ## {{< fa flask >}} Activities

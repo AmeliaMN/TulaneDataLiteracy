@@ -1,5 +1,9 @@
 ## Data Literacy Course (Re)Design Institute Description {#about-the-course .unnumbered}
 
+May 20-24, 2024
+
+[Tulane University](https://tulane.edu/), co-sponsored by the [Center for Engaged Learning & Teaching](https://celt.tulane.edu/) (CELT) and the [Connolly Alexander Institute for Data Science](https://datainstitute.tulane.edu/) (CAIDS)
+
 ### Leader
 
 Dr. Amelia McNamara (she/her), `amelia.mcnamara@stthomas.edu`
