@@ -3,18 +3,18 @@ title: "Thursday"
 ---
 
 | Time  | Topic                                                                                                                           |
-|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| 9:00  | Breakfast, warm-up                                                                                                              |
-| 9:15  | Presentation: mapping basics                                                                                                    |
-| 9:45  | Activity: reading pre-assigned StoryMaps and discussing connections to disciplines                                              |
-| 10:15 | Presentation: communication. Demo: [StoryMaps](https://storymaps.arcgis.com/).                                                  |
+|----------------|--------------------------------------------------------|
+| 9:00  | Breakfast, warm-up (what sorts of "products" do your students need to know how to produce?)                                     |
+| 9:15  | Presentation: [mapping basics](slides/10_mapping_basics.pdf)                                                                    |
+| 9:45  | Activity: reading StoryMaps and discussing connections to disciplines                                                           |
+| 10:15 | Presentation: [communication](slides/11_communicate.pdf). Demo: [StoryMaps](making_storymaps.qmd).                              |
 | 10:45 | Break                                                                                                                           |
-| 11:00 | Presentation: the machinery of the web. Demo: [GitHub Pages](https://pages.github.com/).                                        |
+| 11:00 | Presentation: [the machinery of the web](slides/12_machinery_of_the_web.pdf). Demo: [GitHub Pages](GitHubPages.qmd).            |
 | 11:30 | Activity: curriculum/syllabus review. Where do students see these skills? Are they necessary?                                   |
 | noon  | Lunch                                                                                                                           |
 | 12:45 | Activity: create a communication using [StoryMaps](https://storymaps.arcgis.com/) or [GitHub Pages](https://pages.github.com/). |
 | 1:15  | Share out and discussion                                                                                                        |
-| 1:30  | Presentation: LLMs. Example tool: [ChatGPT](https://chatgpt.com/) .                                                             |
+| 1:30  | Presentation: [ethics of LLMs](slides/13_why_not_AI.pdf). Example tool: [ChatGPT](https://chatgpt.com/) .                       |
 | 2:00  | Break                                                                                                                           |
 | 2:15  | Activity: playing with ChatGPT and existing assignments                                                                         |
 | 2:45  | Discussion: how LMMs could be used as learning tools. Discuss syllabus statements.                                              |

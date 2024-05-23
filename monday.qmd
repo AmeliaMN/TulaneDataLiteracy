@@ -2,19 +2,19 @@
 title: "Monday"
 ---
 
-| Time  | Topic                                                                                                                                                                                   |
-|-------------------|-----------------------------------------------------|
-| 9:00  | Breakfast, warm-up  (what do you think of when you think of "data"?)                                                                                                                                                                    |
-| 9:15  | Welcome and [introductions](slides/01_intro.pdf)                                                                                                                                                             |
-| 9:45  | Presentation: [digital humanities across disciplines](slides/02_digital_humanities.pdf). |
-| 10:45 | Break                                                                                                                                                                                   |
-| 11:00 | Activity: [syllabus review](syllabus_review.qmd).                                                      |
-| 11:45 | Share-out and discussion                                                                                                                                                                |
-| noon  | Lunch                                                                                                                                                                                   |
-| 12:45 | Presentation: [What is data?](slides/03_data.pdf)                                                                                                 |
-| 1:30  | Activity: [searching online for relevant data, or retrieving data relevant to discipline/research area](finding_data.qmd)                                                                                 |
-| 2:00  | Break                                                                                                                                                                                   |
-| 2:15  | Discussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?                                             |
+| Time  | Topic                                                                                                                                       |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 9:00  | Breakfast, warm-up (what do you think of when you think of "data"?)                                                                         |
+| 9:15  | Welcome and [introductions](slides/01_intro.pdf)                                                                                            |
+| 9:45  | Presentation: [digital humanities across disciplines](slides/02_digital_humanities.pdf).                                                    |
+| 10:45 | Break                                                                                                                                       |
+| 11:00 | Activity: [syllabus review](syllabus_review.qmd).                                                                                           |
+| 11:45 | Share-out and discussion                                                                                                                    |
+| noon  | Lunch                                                                                                                                       |
+| 12:45 | Presentation: [What is data?](slides/03_data.pdf)                                                                                           |
+| 1:30  | Activity: [searching online for relevant data, or retrieving data relevant to discipline/research area](finding_data.qmd)                   |
+| 2:00  | Break                                                                                                                                       |
+| 2:15  | Discussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you? |
 
 ## {{< fa book >}} Resources
 

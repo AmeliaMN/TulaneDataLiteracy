@@ -3,7 +3,7 @@ title: "Wednesday"
 ---
 
 | Time  | Topic                                                                                                                                                       |
-|----------------------|--------------------------------------------------|
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 9:00  | Breakfast, warm-up (what data analysis tools have you used?)                                                                                                |
 | 9:15  | Presentation: [tidy data](slides/07_tidy_data.pdf).                                                                                                         |
 | 9:45  | Activity: [unpacking headlines](unpacking_headlines.qmd).                                                                                                   |
@@ -13,7 +13,6 @@ title: "Wednesday"
 | 11:45 | Discussion: most relevant data/wrangling/analysis                                                                                                           |
 | noon  | Lunch                                                                                                                                                       |
 | 12:45 | Activity: [analyze data](analyzing_data.qmd) using [Excel online](https://www.microsoft365.com/launch/Excel/) or [Voyant Tools](https://voyant-tools.org/). |
-|       |                                                                                                                                                             |
 | 1:15  | Share out and discussion                                                                                                                                    |
 | 1:30  | Presentation: [algorithmic accountability](slides/09_algorithms.pdf).                                                                                       |
 | 2:00  | Break                                                                                                                                                       |

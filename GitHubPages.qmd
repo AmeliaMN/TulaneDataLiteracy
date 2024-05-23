@@ -46,10 +46,10 @@ Feel free to look through these examples for ideas and inspiration. It's also ok
 
 -   "create a new repository" means to click on this green button
 
-![](Screenshot%202024-05-16%20at%202.10.44%20PM.png){fig-align="center" width="247"}
+![](img/new_repo.png){fig-align="center" width="247"}
 
 -   The instructions say you need a git client, but this isn't really true. For a simple website, you can edit right on the web! To do this, click "creating a new file."
 
-![](Screenshot%202024-05-16%20at%202.08.40%20PM.png){fig-align="center"}
+![](img/new_file.png){fig-align="center"}
 
 In that document, you can write Markdown. Reference the slides or the [Markdown complete reference](https://daringfireball.net/projects/markdown/syntax).

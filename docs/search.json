@@ -37,7 +37,7 @@
     "href": "thursday.html",
     "title": "Thursday",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up\n\n\n9:15\nPresentation: mapping basics\n\n\n9:45\nActivity: reading pre-assigned StoryMaps and discussing connections to disciplines\n\n\n10:15\nPresentation: communication. Demo: StoryMaps.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: the machinery of the web. Demo: GitHub Pages.\n\n\n11:30\nActivity: curriculum/syllabus review. Where do students see these skills? Are they necessary?\n\n\nnoon\nLunch\n\n\n12:45\nActivity: create a communication using StoryMaps or GitHub Pages.\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: LLMs. Example tool: ChatGPT .\n\n\n2:00\nBreak\n\n\n2:15\nActivity: playing with ChatGPT and existing assignments\n\n\n2:45\nDiscussion: how LMMs could be used as learning tools. Discuss syllabus statements.",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what sorts of “products” do your students need to know how to produce?)\n\n\n9:15\nPresentation: mapping basics\n\n\n9:45\nActivity: reading StoryMaps and discussing connections to disciplines\n\n\n10:15\nPresentation: communication. Demo: StoryMaps.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: the machinery of the web. Demo: GitHub Pages.\n\n\n11:30\nActivity: curriculum/syllabus review. Where do students see these skills? Are they necessary?\n\n\nnoon\nLunch\n\n\n12:45\nActivity: create a communication using StoryMaps or GitHub Pages.\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: ethics of LLMs. Example tool: ChatGPT .\n\n\n2:00\nBreak\n\n\n2:15\nActivity: playing with ChatGPT and existing assignments\n\n\n2:45\nDiscussion: how LMMs could be used as learning tools. Discuss syllabus statements.",
     "crumbs": [
       "Thursday"
     ]
@@ -255,7 +255,7 @@
     "href": "wednesday.html",
     "title": "Wednesday",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n\n\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
     "crumbs": [
       "Wednesday"
     ]
