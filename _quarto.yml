@@ -14,6 +14,18 @@ website:
       - wednesday.qmd
       - thursday.qmd
       - friday.qmd
+      - section: "Activities"
+        contents:
+          - syllabus_review.qmd
+          - finding_data.qmd
+          - unpacking_charts.qmd
+          - handmade_viz.qmd
+          - datawrapper.qmd
+          - unpacking_headlines.qmd
+          - analyzing_data.qmd
+          - reading_storymaps.qmd
+          - making_storymaps.qmd
+          - GitHubPages.qmd
       - section: "Slides"
         contents:
           - text: "01 intro"
@@ -35,25 +47,14 @@ website:
           - text: "09 algorithmic accountability"
             file: slides/09_algorithms.pdf
           - text: "10 mapping basics"
-            file: slides/10_mapping.basics.pdf
+            file: slides/10_mapping_basics.pdf
           - text: "11 communcation"
             file: slides/11_communicate.pdf
           - text: "12 machinery of the web"
             file: slides/12_machinery_of_the_web.pdf
           - text: "13 why not AI?"
             file: slides/13_why_not_AI.pdf
-      - section: "Activities"
-        contents:
-          - syllabus_review.qmd
-          - finding_data.qmd
-          - unpacking_charts.qmd
-          - handmade_viz.qmd
-          - datawrapper.qmd
-          - unpacking_headlines.qmd
-          - analyzing_data.qmd
-          - reading_storymaps.qmd
-          - making_storymaps.qmd
-          - GitHubPages.qmd
+     
           
 
 
