@@ -1,8 +1,8 @@
 ## Data Literacy Course (Re)Design Institute Description {#about-the-course .unnumbered}
 
-May 20-24, 2024
+##### May 20-24, 2024
 
-[Tulane University](https://tulane.edu/), co-sponsored by the [Center for Engaged Learning & Teaching](https://celt.tulane.edu/) (CELT) and the [Connolly Alexander Institute for Data Science](https://datainstitute.tulane.edu/) (CAIDS)
+#### [Tulane University](https://tulane.edu/), co-sponsored by the [Center for Engaged Learning & Teaching](https://celt.tulane.edu/) (CELT) and the [Connolly Alexander Institute for Data Science](https://datainstitute.tulane.edu/) (CAIDS)
 
 ### Leader
 
@@ -38,7 +38,7 @@ Tidy data and concepts of data wrangling. Unpacking newspaper headlines for unde
 
 ### Thursday: Communication and presentation
 
-Communicating results digitally. Data journalism, digital portfolios. Reading pre-assigned StoryMaps and discussing connections to disciplines. Mapping basics. Example tool: [StoryMaps](https://storymaps.arcgis.com/). The machinery of the web. Example tool: [GitHub Pages](https://pages.github.com/). Curriculum/syllabus review. Where do students see these skills? Are they necessary? LLMs. Ethics-- electricity, water use, copyright/fair use. Example tool: [ChatGPT](https://chatgpt.com/). How could LMMs be used as learning tools? Discuss syllabus statements.
+Communicating results digitally. Data journalism, digital portfolios. Reading StoryMaps and discussing connections to disciplines. Mapping basics. Example tool: [StoryMaps](https://storymaps.arcgis.com/). The machinery of the web. Example tool: [GitHub Pages](https://pages.github.com/). Curriculum/syllabus review. Where do students see these skills? Are they necessary? LLMs. Ethics-- electricity, water use, copyright/fair use. Example tool: [ChatGPT](https://chatgpt.com/). How could LMMs be used as learning tools? Discuss syllabus statements.
 
 ### Friday: Finalizing the connections
 
