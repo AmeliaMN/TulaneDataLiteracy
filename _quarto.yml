@@ -6,6 +6,8 @@ project:
 website:
   title: "Data Literacy Course Redesign Institute"
   page-footer: "[CC BY](https://creativecommons.org/licenses/by/4.0/) Amelia McNamara" 
+  twitter-card: true
+  image: "img/jannekestaaks.jpg"
   sidebar:
     style: "docked"
     search: true
