@@ -7,91 +7,91 @@ An overview of all the slides from the week
 ```{=html}
 <object data="slides/01_intro.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/01_intro.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/02_digital_humanities.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/02_digital_humanities.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/03_data.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/03_data.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/04_grammar_of_graphics.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/04_grammar_of_graphics.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/05_data_art.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/05_data_art.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/06_viz_tools.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/06_viz_tools.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/07_tidy_data.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/07_tidy_data.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/08_text_analysis.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/08_text_analysis.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/09_algorithms.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/09_algorithms.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/10_mapping_basics.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/10_mapping_basics.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/11_communicate.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/11_communicate.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/12_machinery_of_the_web.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/12_machinery_of_the_web.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 ```{=html}
 <object data="slides/13_why_not_AI.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="slides123.pdf">click here to
+    No biggie... you can <a href="slides/13_why_not_AI.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
