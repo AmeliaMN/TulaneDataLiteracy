@@ -456,11 +456,22 @@
     ]
   },
   {
+    "objectID": "learning_R.html#community",
+    "href": "learning_R.html#community",
+    "title": "Resources for learning R",
+    "section": "Community",
+    "text": "Community\nOne of the things that makes R a popular programming language is our great community. I’ve already mentioned the R for data science online community, which is an online community. There are also lots of in-person communities for R:\n\nR Ladies is a group for women and gender minorities who use R. Most major cities have a chapter. For example, there is a New Orleans chapter!\nUsually there is also a general R users group in each city. I don’t see one in New Orleans, but I do see a Tulanians Who Enjoy R Coding (TWERC) group.",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
     "objectID": "learning_R.html#resources",
     "href": "learning_R.html#resources",
     "title": "Resources for learning R",
     "section": "Resources",
-    "text": "Resources\nAs you learn, you will have questions! Here are some resources to help you answer them.\n\nThe Posit cheatsheets are overviews of common functions you might need, including illustrations to help you understand what they do. Some useful cheatsheets:\n\nData visualization with ggplot2\nData wrangling with dplyr\nthere are also “contributed” cheatsheets cheatsheets made by people other than the company itself.\nMy syntax comparison cheatsheet is one\n\nOn the subject of cheatsheets, I have two “Enough R for Intro Stats” cheatsheets, which are given to students in my intro stats courses STAT 220:\n\nFormula syntax (source code, Rmd)\nTidyverse syntax (source code, Rmd)",
+    "text": "Resources\nAs you learn, you will have questions! Here are some resources to help you answer them.\n\nThe Posit cheatsheets are overviews of common functions you might need, including illustrations to help you understand what they do. Some useful cheatsheets:\n\nData visualization with ggplot2\nData wrangling with dplyr\nthere are also “contributed” cheatsheets cheatsheets made by people other than the company itself.\nMy syntax comparison cheatsheet is one\n\nOn the subject of cheatsheets, I have two “Enough R for Intro Stats” cheatsheets, which are given to students in my intro stats courses STAT 220:\n\nFormula syntax (source code, Rmd)\nTidyverse syntax (source code, Rmd)\n\nSometimes you will have a question you need answered. If you search online, a lot of good answers are available on StackOverflow. However, StackOverflow is not a place for beginners to post questions (their policies are not beginner-friendly– you can’t re-ask a question that’s been asked before!). Instead, the place to ask questions is the Posit forum. This forum encourages people to re-ask questions, because they acknowledge we’re all learning!",
     "crumbs": [
       "Resources",
       "For learning R"
