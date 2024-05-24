@@ -5,7 +5,7 @@ project:
 
 website:
   title: "Data Literacy Course (Re)Design Institute"
-  description: "Materials from the May 20-24 Data Literacy Course (Re)Design Institute at Tulane University"
+  description: "Materials from the May 20-24, 2024 Data Literacy Course (Re)Design Institute at Tulane University"
   page-footer: "[CC BY](https://creativecommons.org/licenses/by/4.0/) Amelia McNamara" 
   site-url: "https://ameliamn.github.io/TulaneDataLiteracy"
   twitter-card: true
