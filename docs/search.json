@@ -66,6 +66,17 @@
     ]
   },
   {
+    "objectID": "thursday.html#presentations",
+    "href": "thursday.html#presentations",
+    "title": "Thursday",
+    "section": " Presentations",
+    "text": "Presentations\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Thursday"
+    ]
+  },
+  {
     "objectID": "monday.html",
     "href": "monday.html",
     "title": "Monday",
@@ -93,6 +104,17 @@
     "title": "Monday",
     "section": " Activities",
     "text": "Activities\n\nSyllabus review\nFinding data",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Monday"
+    ]
+  },
+  {
+    "objectID": "monday.html#presentations",
+    "href": "monday.html#presentations",
+    "title": "Monday",
+    "section": " Presentations",
+    "text": "Presentations\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.",
     "crumbs": [
       "Daily schedules and resources",
       "Monday"
@@ -192,124 +214,25 @@
     "text": "Digital humanities\nThe digital humanities use digital tools toward the goal of advancing humanities knowledge. Sometimes there are specific digital humanities courses, other times digital methods get integrated into courses without that term in the title.\nSyllabi\n\nWikiversity has a list of example DH syllabi\nMiriam Posner has a DH course website rich with resources\nChis Alen Sula provides links to current and past syllabi for DH and other related courses\nHumanities Commons is a good place to search for syllabi. (Try “digital humanities” and/or some combination of terms with your discipline name.)\n\nProjects - One page Dr. Posner links to is this Simmons guide to exemplary DH projects - Dr. Posner has links to her students’ past projects\n“small beginnings help instructors focus on what DH they can teach effectively” [@cordell2016]"
   },
   {
-    "objectID": "friday.html",
-    "href": "friday.html",
-    "title": "Friday",
+    "objectID": "slides.html",
+    "href": "slides.html",
+    "title": "Slides",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up\n\n\n9:15\nShare out ideas for curricular integration.\n\n\n9:30\nWork time on ideas/lessons/assignments/syllabi\n\n\n10:30\nShare out successes/blockers\n\n\n10:45\nBreak\n\n\n11:00\nDiscussion: responses to blockers, ideas and resources\n\n\n11:30\nWork time on short presentation for afternoon\n\n\nnoon\nLunch\n\n\n12:45\nParticipant presentations\n\n\n2:00\nBreak\n\n\n2:15\nReflection/wrap-up",
+    "text": "Trying this out\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.",
     "crumbs": [
-      "Daily schedules and resources",
-      "Friday"
+      "Slides",
+      "Slide overview"
     ]
   },
   {
-    "objectID": "friday.html#resources",
-    "href": "friday.html#resources",
-    "title": "Friday",
-    "section": " Resources",
-    "text": "Resources",
-    "crumbs": [
-      "Daily schedules and resources",
-      "Friday"
-    ]
-  },
-  {
-    "objectID": "friday.html#activities",
-    "href": "friday.html#activities",
-    "title": "Friday",
-    "section": " Activities",
-    "text": "Activities",
-    "crumbs": [
-      "Daily schedules and resources",
-      "Friday"
-    ]
-  },
-  {
-    "objectID": "unpacking_headlines.html",
-    "href": "unpacking_headlines.html",
-    "title": "Unpacking headlines",
+    "objectID": "GitHubPages.html",
+    "href": "GitHubPages.html",
+    "title": "Markdown and GitHub pages",
     "section": "",
-    "text": "Like yesterday’s exercise with charts, I want us to practice thinking about the data behind a headline. For your assigned headline, consider:",
+    "text": "A free way to host a website that requires only a small amount of coding is GitHub pages. In order to use GitHub, you need an account (free!) and people can register for an account with more features based on their educator/student status.\nI showed some examples of sites built using GitHub pages:\n\nChris Prener’s biscale R package documentation (source code– Markdown)\nEverest Pipkin’s image scrubber (source code– HTML)\nBrent Pearson’s STAT 490 final project (source code in a private repo)\nKurtis Pykes portfolio page (source code– Markdown)\nCassandra Hamilton portfolio page (source code– Markdown)\nJonathan Soma’s data studio projects page (meta!) (source code– HTML/Markdown)\n\nLaura Kukkonen’s homepage (source code– HTML) and ASMR project (source code— HTML)\nRadhika Rukmangadhan’s homepage (source code– HTML) and rainy weekends project (source code– HTML)\n\nMiriam Posner’s students also make project pages, also mostly in HTML\n\nFeel free to look through these examples for ideas and inspiration. It’s also okay to “fork” (copy) the repo so you have something to start with, although be sure to check for any licensing.\n\nTry it out\n\nMake a GitHub account. Jenny Bryan has suggestions on choosing a username. My GitHub username is AmeliaMN (a reference to my home state and last name, McNamara). I use AmeliaMN across all social media, so it’s easy to find me. You may or may not want this!\nFollow the instructions to create a GitHub page. There are two types:\n\nUser or organization site. This would be your homepage, like the ones Kurtis Pykes, Cassandra Hamilton, Laura Kukkonen and Radhika Rukmangadhan have. (Check the URLs of those sites– mostly githubusername.github.io or github.com/githubusername.)\nProject site. This would be a page for a specific project, like the ones Chris Prener, Everest Pipkin, Brent Pearson, and others made. (Check the URLs of those sites– mostly githubusername.github.io/projectname.)\n\nAs the documentation says,\n\nTo make a user site: “Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.\nIf the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.”\n“Head over to GitHub.com and create a new repository, or go to an existing one.”\n\n“create a new repository” means to click on this green button\n\n\n\n\n\n\n\nThe instructions say you need a git client, but this isn’t really true. For a simple website, you can edit right on the web! To do this, click “creating a new file.”\n\n\n\n\n\n\nIn that document, you can write Markdown. Reference the slides or the Markdown complete reference.",
     "crumbs": [
       "Activities",
-      "Unpacking headlines"
-    ]
-  },
-  {
-    "objectID": "unpacking_headlines.html#headlines",
-    "href": "unpacking_headlines.html#headlines",
-    "title": "Unpacking headlines",
-    "section": "Headlines",
-    "text": "Headlines\nThese headlines are all from the New York Times. I’m intentionally only giving you the headline/subheadline, but if you really need/want the context you can go find the article!\n\nGlasses Improve Income, Not Just Eyesight. A study found that when older workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.\nWhy Are Older Americans Drinking So Much? The pandemic played a role in increased consumption, but alcohol use among people 65 and older was climbing even before 2020.\nHeat Stress Is Hitting Caribbean Reefs Earlier Than Ever This Year. Scientists in the United States are reporting “unprecedented patterns” of surface warming, an ominous sign for coral.\nDoes Legalizing Cannabis Increase Adolescent Use? This Expert Found Mixed Results.Contrary to expectation, a major study found that weed use among minors was lower in states where the drug was legal. -What Makes a Society More Resilient? Frequent Hardship. Comparing 30,000 years of human history, researchers found that surviving famine, war or climate change helps groups recover more quickly from future shocks.\nScientists Find an ‘Alphabet’ in Whale Songs. Sperm whales rattle off pulses of clicks while swimming together, raising the possibility that they’re communicating in a complex language.\n\n\nMore headlines\n\nKiller Asteroid Hunters Spot 27,500 Overlooked Space Rocks. With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.\nWhen Is the Best Time to Work Out? It’s an age-old question. But a few recent studies have brought us closer to an answer.\nWhat Researchers Discovered When They Sent 80,000 Fake Résumés to U.S. Jobs. Some companies discriminated against Black applicants much more than others, and H.R. practices made a big difference.\nWidening Racial Disparities Underlie Rise in Child Deaths in the U.S. New research finds that the death rate among Black youths soared by 37 percent, and among Native American youths by 22 percent, between 2014 and 2020, compared with less than 5 percent for white youths.\nOverdose Deaths Dropped in U.S. in 2023 for First Time in Five Years. Preliminary numbers show a nearly 4 percent decrease in deaths from opioids, largely fentanyl, but a rise in deaths from meth and cocaine.\nLegalized Weed Is Landing More Seniors in the E.R. In Canada, cannabis poisonings rose sharply among people 65 and older after the country legalized the drug, a new study found.",
-    "crumbs": [
-      "Activities",
-      "Unpacking headlines"
-    ]
-  },
-  {
-    "objectID": "unpacking_charts.html",
-    "href": "unpacking_charts.html",
-    "title": "Unpacking charts",
-    "section": "",
-    "text": "Let’s practice thinking about the data behind the graphic. For your assigned graphic, consider:",
-    "crumbs": [
-      "Activities",
-      "Unpacking charts"
-    ]
-  },
-  {
-    "objectID": "unpacking_charts.html#example-graphics",
-    "href": "unpacking_charts.html#example-graphics",
-    "title": "Unpacking charts",
-    "section": "Example graphics",
-    "text": "Example graphics\n\nCoastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too. Emily Badger, Robert Gebeloff and Josh Katz. NYTimes.\nDo voters want Republicans or Democrats in Congress? FiveThirtyEight.\nER visits for Christmas decoration-related injuries increase after Thanksgiving. USAFacts.\nOfficials Failed to Act When COVID Hit Prisons. A New Study Shows the Deadly Cost. Anna Flagg, Jamiles Lartey and Shannon Heffernan, The Marshall Project.\nMapping America’s access to nature, neighborhood by neighborhood. Harry Stevens, The Washington Post.\nHappiness of the younger, the older, and those in between. World Happiness Report. (Scroll way down for the graphic!)",
-    "crumbs": [
-      "Activities",
-      "Unpacking charts"
-    ]
-  },
-  {
-    "objectID": "unpacking_charts.html#disciplinary-graphics",
-    "href": "unpacking_charts.html#disciplinary-graphics",
-    "title": "Unpacking charts",
-    "section": "Disciplinary graphics",
-    "text": "Disciplinary graphics\nSee if you can find a data visualization related to your discipline, your class, your research, etc. Journal articles can be a good place to start. You can try googling [discipline] + “data visualization.” Otherwise, some places I tend to look for examples:\n\nNew York Times “What’s Going On in This Graph?” discussions\nNathan Yau’s website, FlowingData\nr/DataIsBeautiful\nNightingale, journal of the Data Visualization Society\nInformation is Beautiful, particularly their yearly awards",
-    "crumbs": [
-      "Activities",
-      "Unpacking charts"
-    ]
-  },
-  {
-    "objectID": "wednesday.html",
-    "href": "wednesday.html",
-    "title": "Wednesday",
-    "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
-    "crumbs": [
-      "Daily schedules and resources",
-      "Wednesday"
-    ]
-  },
-  {
-    "objectID": "wednesday.html#resources",
-    "href": "wednesday.html#resources",
-    "title": "Wednesday",
-    "section": " Resources",
-    "text": "Resources\n\nTidy data\n\nTidy data, Hadley Wickham\nOpen Refine, for data cleaning\n\n\n\nText data\n\nTulane libguide on text data\nSt Thomas libguide on text data\nGendered Language in Teacher Reviews, Ben Schmidt\nThe trouble with sentiment analysis, Rachel Tatman\nAn overview of ethical considerations in TDM, Stacy Reardon; Rachael Samberg; and Timothy Vollmer\nText processing problems with non-English languages, Tena Belinić\n\n\n\nData ethics\n\nGlobal Indigenous Data Alliance\nTurning Data Around, Jer Thorp\nManifesto for data practices\nIntegrated ethics labs for computer and data science",
-    "crumbs": [
-      "Daily schedules and resources",
-      "Wednesday"
-    ]
-  },
-  {
-    "objectID": "wednesday.html#activities",
-    "href": "wednesday.html#activities",
-    "title": "Wednesday",
-    "section": " Activities",
-    "text": "Activities\n\nUnpacking headlines\nAnalyzing data",
-    "crumbs": [
-      "Daily schedules and resources",
-      "Wednesday"
+      "Markdown and GitHub pages"
     ]
   },
   {
@@ -350,21 +273,142 @@
     "href": "making_storymaps.html#resources",
     "title": "ArcGIS StoryMaps",
     "section": "Resources",
-    "text": "Resources\n\nTulane libguide on GIS software\nTulane libguide to StoryMaps\nStoryMap map tour of image\nMaking an ArcGIS choropleth map\n\nDownload shapefiles appropriate to your data (e.g., states, parishes)\nUpload the shapefiles as a layer\nUpload your data as a different layer\nJoin the data to the shapefiles\nUse a value from the data to color the map. Here’s how– click the dots next to the layers to get into layer properties, edit layer style, then add a field and choose the attribute. Questions? Ask me",
+    "text": "Resources\n\nTulane libguide on GIS software\nTulane libguide to StoryMaps\nStoryMap map tour of image\nMaking an ArcGIS choropleth map\n\nDownload shapefiles appropriate to your data (e.g., states, parishes)\nUpload the shapefiles as a layer\nUpload your data as a different layer\nJoin the data to the shapefiles\nUse a value from the data to color the map. Here’s how– click the dots next to the layers to get into layer properties, edit layer style, then add a field and choose the attribute. Questions? Ask me\n\nIt looks like it is possible to work on StoryMaps collaboratively (e.g., students working on a group project, a class collaborating, etc) but it would need to be turned on by an IT administrator. I don’t know who that is at Tulane!",
     "crumbs": [
       "Activities",
       "ArcGIS StoryMaps"
     ]
   },
   {
-    "objectID": "GitHubPages.html",
-    "href": "GitHubPages.html",
-    "title": "Markdown and GitHub pages",
+    "objectID": "wednesday.html",
+    "href": "wednesday.html",
+    "title": "Wednesday",
     "section": "",
-    "text": "A free way to host a website that requires only a small amount of coding is GitHub pages. In order to use GitHub, you need an account (free!) and people can register for an account with more features based on their educator/student status.\nI showed some examples of sites built using GitHub pages:\n\nChris Prener’s biscale R package documentation (source code– Markdown)\nEverest Pipkin’s image scrubber (source code– HTML)\nBrent Pearson’s STAT 490 final project (source code in a private repo)\nKurtis Pykes portfolio page (source code– Markdown)\nCassandra Hamilton portfolio page (source code– Markdown)\nJonathan Soma’s data studio projects page (meta!) (source code– HTML/Markdown)\n\nLaura Kukkonen’s homepage (source code– HTML) and ASMR project (source code— HTML)\nRadhika Rukmangadhan’s homepage (source code– HTML) and rainy weekends project (source code– HTML)\n\nMiriam Posner’s students also make project pages, also mostly in HTML\n\nFeel free to look through these examples for ideas and inspiration. It’s also okay to “fork” (copy) the repo so you have something to start with, although be sure to check for any licensing.\n\nTry it out\n\nMake a GitHub account. Jenny Bryan has suggestions on choosing a username. My GitHub username is AmeliaMN (a reference to my home state and last name, McNamara). I use AmeliaMN across all social media, so it’s easy to find me. You may or may not want this!\nFollow the instructions to create a GitHub page. There are two types:\n\nUser or organization site. This would be your homepage, like the ones Kurtis Pykes, Cassandra Hamilton, Laura Kukkonen and Radhika Rukmangadhan have. (Check the URLs of those sites– mostly githubusername.github.io or github.com/githubusername.)\nProject site. This would be a page for a specific project, like the ones Chris Prener, Everest Pipkin, Brent Pearson, and others made. (Check the URLs of those sites– mostly githubusername.github.io/projectname.)\n\nAs the documentation says,\n\nTo make a user site: “Head over to GitHub and create a new public repository named username.github.io, where username is your username (or organization name) on GitHub.\nIf the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.”\n“Head over to GitHub.com and create a new repository, or go to an existing one.”\n\n“create a new repository” means to click on this green button\n\n\n\n\n\n\n\nThe instructions say you need a git client, but this isn’t really true. For a simple website, you can edit right on the web! To do this, click “creating a new file.”\n\n\n\n\n\n\nIn that document, you can write Markdown. Reference the slides or the Markdown complete reference.",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what data analysis tools have you used?)\n\n\n9:15\nPresentation: tidy data.\n\n\n9:45\nActivity: unpacking headlines.\n\n\n10:15\nDemo: data analysis basics. Example tool: Excel online.\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: text as data. Demo: Voyant Tools.\n\n\n11:45\nDiscussion: most relevant data/wrangling/analysis\n\n\nnoon\nLunch\n\n\n12:45\nActivity: analyze data using Excel online or Voyant Tools.\n\n\n1:15\nShare out and discussion\n\n\n1:30\nPresentation: algorithmic accountability.\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion: data/digital ethics in disciplines. How can this be integrated into courses?\n\n\n2:45\nActivity: work on ethics integration into existing course. Look at sample syllabi for ideas.",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "wednesday.html#resources",
+    "href": "wednesday.html#resources",
+    "title": "Wednesday",
+    "section": " Resources",
+    "text": "Resources\n\nTidy data\n\nTidy data, Hadley Wickham\nOpen Refine, for data cleaning\n\n\n\nText data\n\nTulane libguide on text data\nSt Thomas libguide on text data\nGendered Language in Teacher Reviews, Ben Schmidt\nThe trouble with sentiment analysis, Rachel Tatman\nAn overview of ethical considerations in TDM, Stacy Reardon; Rachael Samberg; and Timothy Vollmer\nText processing problems with non-English languages, Tena Belinić\n\n\n\nData ethics\n\nGlobal Indigenous Data Alliance\nTurning Data Around, Jer Thorp\nManifesto for data practices\nIntegrated ethics labs for computer and data science",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "wednesday.html#activities",
+    "href": "wednesday.html#activities",
+    "title": "Wednesday",
+    "section": " Activities",
+    "text": "Activities\n\nUnpacking headlines\nAnalyzing data",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "wednesday.html#presentations",
+    "href": "wednesday.html#presentations",
+    "title": "Wednesday",
+    "section": " Presentations",
+    "text": "Presentations\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Wednesday"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html",
+    "href": "unpacking_charts.html",
+    "title": "Unpacking charts",
+    "section": "",
+    "text": "Let’s practice thinking about the data behind the graphic. For your assigned graphic, consider:",
     "crumbs": [
       "Activities",
-      "Markdown and GitHub pages"
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html#example-graphics",
+    "href": "unpacking_charts.html#example-graphics",
+    "title": "Unpacking charts",
+    "section": "Example graphics",
+    "text": "Example graphics\n\nCoastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too. Emily Badger, Robert Gebeloff and Josh Katz. NYTimes.\nDo voters want Republicans or Democrats in Congress? FiveThirtyEight.\nER visits for Christmas decoration-related injuries increase after Thanksgiving. USAFacts.\nOfficials Failed to Act When COVID Hit Prisons. A New Study Shows the Deadly Cost. Anna Flagg, Jamiles Lartey and Shannon Heffernan, The Marshall Project.\nMapping America’s access to nature, neighborhood by neighborhood. Harry Stevens, The Washington Post.\nHappiness of the younger, the older, and those in between. World Happiness Report. (Scroll way down for the graphic!)",
+    "crumbs": [
+      "Activities",
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "unpacking_charts.html#disciplinary-graphics",
+    "href": "unpacking_charts.html#disciplinary-graphics",
+    "title": "Unpacking charts",
+    "section": "Disciplinary graphics",
+    "text": "Disciplinary graphics\nSee if you can find a data visualization related to your discipline, your class, your research, etc. Journal articles can be a good place to start. You can try googling [discipline] + “data visualization.” Otherwise, some places I tend to look for examples:\n\nNew York Times “What’s Going On in This Graph?” discussions\nNathan Yau’s website, FlowingData\nr/DataIsBeautiful\nNightingale, journal of the Data Visualization Society\nInformation is Beautiful, particularly their yearly awards",
+    "crumbs": [
+      "Activities",
+      "Unpacking charts"
+    ]
+  },
+  {
+    "objectID": "unpacking_headlines.html",
+    "href": "unpacking_headlines.html",
+    "title": "Unpacking headlines",
+    "section": "",
+    "text": "Like yesterday’s exercise with charts, I want us to practice thinking about the data behind a headline. For your assigned headline, consider:",
+    "crumbs": [
+      "Activities",
+      "Unpacking headlines"
+    ]
+  },
+  {
+    "objectID": "unpacking_headlines.html#headlines",
+    "href": "unpacking_headlines.html#headlines",
+    "title": "Unpacking headlines",
+    "section": "Headlines",
+    "text": "Headlines\nThese headlines are all from the New York Times. I’m intentionally only giving you the headline/subheadline, but if you really need/want the context you can go find the article!\n\nGlasses Improve Income, Not Just Eyesight. A study found that when older workers in Bangladesh were given free reading glasses, they earned 33 percent more than those who had not.\nWhy Are Older Americans Drinking So Much? The pandemic played a role in increased consumption, but alcohol use among people 65 and older was climbing even before 2020.\nHeat Stress Is Hitting Caribbean Reefs Earlier Than Ever This Year. Scientists in the United States are reporting “unprecedented patterns” of surface warming, an ominous sign for coral.\nDoes Legalizing Cannabis Increase Adolescent Use? This Expert Found Mixed Results.Contrary to expectation, a major study found that weed use among minors was lower in states where the drug was legal. -What Makes a Society More Resilient? Frequent Hardship. Comparing 30,000 years of human history, researchers found that surviving famine, war or climate change helps groups recover more quickly from future shocks.\nScientists Find an ‘Alphabet’ in Whale Songs. Sperm whales rattle off pulses of clicks while swimming together, raising the possibility that they’re communicating in a complex language.\n\n\nMore headlines\n\nKiller Asteroid Hunters Spot 27,500 Overlooked Space Rocks. With the help of Google Cloud, scientists churned through hundreds of thousands of images of the night sky to reveal that the solar system is filled with unseen objects.\nWhen Is the Best Time to Work Out? It’s an age-old question. But a few recent studies have brought us closer to an answer.\nWhat Researchers Discovered When They Sent 80,000 Fake Résumés to U.S. Jobs. Some companies discriminated against Black applicants much more than others, and H.R. practices made a big difference.\nWidening Racial Disparities Underlie Rise in Child Deaths in the U.S. New research finds that the death rate among Black youths soared by 37 percent, and among Native American youths by 22 percent, between 2014 and 2020, compared with less than 5 percent for white youths.\nOverdose Deaths Dropped in U.S. in 2023 for First Time in Five Years. Preliminary numbers show a nearly 4 percent decrease in deaths from opioids, largely fentanyl, but a rise in deaths from meth and cocaine.\nLegalized Weed Is Landing More Seniors in the E.R. In Canada, cannabis poisonings rose sharply among people 65 and older after the country legalized the drug, a new study found.",
+    "crumbs": [
+      "Activities",
+      "Unpacking headlines"
+    ]
+  },
+  {
+    "objectID": "friday.html",
+    "href": "friday.html",
+    "title": "Friday",
+    "section": "",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up\n\n\n9:15\nShare out ideas for curricular integration.\n\n\n9:30\nWork time on ideas/lessons/assignments/syllabi\n\n\n10:30\nShare out successes/blockers\n\n\n10:45\nBreak\n\n\n11:00\nDiscussion: responses to blockers, ideas and resources\n\n\n11:30\nWork time on short presentation for afternoon\n\n\nnoon\nLunch\n\n\n12:45\nParticipant presentations\n\n\n2:00\nBreak\n\n\n2:15\nReflection/wrap-up",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Friday"
+    ]
+  },
+  {
+    "objectID": "friday.html#resources",
+    "href": "friday.html#resources",
+    "title": "Friday",
+    "section": " Resources",
+    "text": "Resources",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Friday"
+    ]
+  },
+  {
+    "objectID": "friday.html#activities",
+    "href": "friday.html#activities",
+    "title": "Friday",
+    "section": " Activities",
+    "text": "Activities",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Friday"
     ]
   },
   {
@@ -556,6 +600,17 @@
     "title": "Tuesday",
     "section": " Activities",
     "text": "Activities\n\nUnpacking charts\nHandmade viz\nDatawrapper",
+    "crumbs": [
+      "Daily schedules and resources",
+      "Tuesday"
+    ]
+  },
+  {
+    "objectID": "tuesday.html#presentations",
+    "href": "tuesday.html#presentations",
+    "title": "Tuesday",
+    "section": " Presentations",
+    "text": "Presentations\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.",
     "crumbs": [
       "Daily schedules and resources",
       "Tuesday"

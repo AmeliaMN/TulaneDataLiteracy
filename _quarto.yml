@@ -37,32 +37,36 @@ website:
             href: learning_Tableau.qmd
       - section: "Slides"
         contents:
-          - text: "01 intro"
-            file: slides/01_intro.pdf
-          - text: "02 digital humanities"
-            file: slides/02_digital_humanities.pdf
-          - text: "03 data"
-            file: slides/03_data.pdf
-          - text: "04 grammar of graphics"
-            file: slides/04_grammar_of_graphics.pdf
-          - text: "05 data art"
-            file: slides/05_data_art.pdf
-          - text: "06 data visualization tools"
-            file: slides/06_viz_tools.pdf
-          - text: "07 tidy data"
-            file: slides/07_tidy_data.pdf
-          - text: "08 text analysis"
-            file: slides/08_text_analysis.pdf
-          - text: "09 algorithmic accountability"
-            file: slides/09_algorithms.pdf
-          - text: "10 mapping basics"
-            file: slides/10_mapping_basics.pdf
-          - text: "11 communcation"
-            file: slides/11_communicate.pdf
-          - text: "12 machinery of the web"
-            file: slides/12_machinery_of_the_web.pdf
-          - text: "13 why not AI?"
-            file: slides/13_why_not_AI.pdf
+          - text: "Slide overview"
+            href: slides.qmd
+          - section: "Slide downloads"
+            contents:
+              - text: "01 intro"
+                file: slides/01_intro.pdf
+              - text: "02 digital humanities"
+                file: slides/02_digital_humanities.pdf
+              - text: "03 data"
+                file: slides/03_data.pdf
+              - text: "04 grammar of graphics"
+                file: slides/04_grammar_of_graphics.pdf
+              - text: "05 data art"
+                file: slides/05_data_art.pdf
+              - text: "06 data visualization tools"
+                file: slides/06_viz_tools.pdf
+              - text: "07 tidy data"
+                file: slides/07_tidy_data.pdf
+              - text: "08 text analysis"
+                file: slides/08_text_analysis.pdf
+              - text: "09 algorithmic accountability"
+                file: slides/09_algorithms.pdf
+              - text: "10 mapping basics"
+                file: slides/10_mapping_basics.pdf
+              - text: "11 communcation"
+                file: slides/11_communicate.pdf
+              - text: "12 machinery of the web"
+                file: slides/12_machinery_of_the_web.pdf
+              - text: "13 why not AI?"
+                file: slides/13_why_not_AI.pdf
      
           
 

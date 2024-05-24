@@ -3,7 +3,7 @@ title: "Tuesday"
 ---
 
 | Time  | Topic                                                                                                                                           |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------|------------------------------------------------------------|
 | 9:00  | Breakfast, warm-up (brainstorm common data visualizations)                                                                                      |
 | 9:15  | Presentation: [The Grammar of Graphics](slides/04_grammar_of_graphics.pdf).                                                                     |
 | 9:45  | Activity: [unpacking charts](unpacking_charts.qmd)                                                                                              |
@@ -28,3 +28,27 @@ title: "Tuesday"
 -   [Unpacking charts](unpacking_charts.qmd)
 -   [Handmade viz](handmade_viz.qmd)
 -   [Datawrapper](datawrapper.qmd)
+
+## {{< fa person-chalkboard >}} Presentations
+
+```{=html}
+<object data="slides/04_grammar_of_graphics.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/05_data_art.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/06_viz_tools.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

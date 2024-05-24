@@ -3,7 +3,7 @@ title: "Thursday"
 ---
 
 | Time  | Topic                                                                                                                           |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | 9:00  | Breakfast, warm-up (what sorts of "products" do your students need to know how to produce?)                                     |
 | 9:15  | Presentation: [mapping basics](slides/10_mapping_basics.pdf)                                                                    |
 | 9:45  | Activity: reading StoryMaps and discussing connections to disciplines                                                           |
@@ -46,3 +46,35 @@ AI
 -   [Reading storymaps](reading_storymaps.qmd)
 -   [Making storymaps](making_storymaps.qmd)
 -   [GitHub pages](GitHubPages.qmd)
+
+## {{< fa person-chalkboard >}} Presentations
+
+```{=html}
+<object data="slides/10_mapping_basics.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/11_communicate.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/12_machinery_of_the_web.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/13_why_not_AI.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+

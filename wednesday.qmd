@@ -3,7 +3,7 @@ title: "Wednesday"
 ---
 
 | Time  | Topic                                                                                                                                                       |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------|------------------------------------------------------------|
 | 9:00  | Breakfast, warm-up (what data analysis tools have you used?)                                                                                                |
 | 9:15  | Presentation: [tidy data](slides/07_tidy_data.pdf).                                                                                                         |
 | 9:45  | Activity: [unpacking headlines](unpacking_headlines.qmd).                                                                                                   |
@@ -46,3 +46,27 @@ title: "Wednesday"
 
 -   [Unpacking headlines](unpacking_headlines.qmd)
 -   [Analyzing data](analyzing_data.qmd)
+
+## {{< fa person-chalkboard >}} Presentations
+
+```{=html}
+<object data="slides/07_tidy_data.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/08_text_analysis.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```
+```{=html}
+<object data="slides/09_algorithms.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="slides123.pdf">click here to
+    download the PDF file.</a></p>
+</object>
+```

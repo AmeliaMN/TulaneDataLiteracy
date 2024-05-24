@@ -34,11 +34,9 @@ If you *want* to include a map in your StoryMap, you have two options:
 -   Making an ArcGIS choropleth map
 
     -   Download shapefiles appropriate to your data (e.g., states, parishes)
-
     -   Upload the shapefiles as a layer
-
     -   Upload your data as a different layer
-
     -   [Join the data to the shapefiles](https://learn.arcgis.com/en/projects/join-a-table-to-a-feature-layer-in-arcgis-online/?rsource=https%3A%2F%2Flinks.esri.com%2Fagol-help%2Ftutorial%2Fjoin-features-example)
-
     -   Use a value from the data to color the map. Here's how-- click the dots next to the layers to get into layer properties, edit layer style, then add a field and choose the attribute. Questions? Ask me
+
+-   It [looks like it is possible to work on StoryMaps collaboratively](https://doc.arcgis.com/en/arcgis-storymaps/author-and-share/co-author-a-story.htm) (e.g., students working on a group project, a class collaborating, etc) but it would need to be turned on by an IT administrator. I don't know who that is at Tulane!
