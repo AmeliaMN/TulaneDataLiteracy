@@ -8,7 +8,8 @@ website:
     style: "docked"
     search: true
     contents:
-      - index.qmd
+      - text: "Home"
+        href: index.qmd
       - section: "Daily schedules and resources"
         contents:
         - monday.qmd
