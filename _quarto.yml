@@ -1,9 +1,11 @@
 project:
   type: website
   output-dir: docs
+  
 
 website:
   title: "Data Literacy Course Redesign Institute"
+  page-footer: "CC BY Amelia McNamara" 
   sidebar:
     style: "docked"
     search: true
