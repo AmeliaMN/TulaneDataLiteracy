@@ -2,7 +2,7 @@
 title: "Slides"
 ---
 
-Trying this out
+An overview of all the slides from the week
 
 ```{=html}
 <object data="slides/01_intro.pdf" type="application/pdf" width="80%" height="200px" style="min-height:50vh;">
