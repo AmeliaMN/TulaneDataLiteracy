@@ -1,0 +1,100 @@
+---
+title: "Resources for learning R"
+---
+
+
+This was a no-code approach to data literacy, but several people have asked for some resources for learning R. Here I'll share a few of my favorite things. One thing to know right off the bat is that R has several different-looking but equally valid "syntaxes"
+
+- Tidyverse syntax uses packages like `ggplot2` and `dplyr`, and needs tidy data. The authors of the tidyverse have a ["tidy tools manifesto"](https://tidyverse.tidyverse.org/articles/manifesto.html) that explains their design philosophy. A lot of the resources I link here will be tidyverse-forward. If you are doing your own data analysis work in R, or teaching courses focused on data analysis, this is what I recommend. My colleagues and I have a paper explaining why: [An educator’s perspective of the tidyverse](https://escholarship.org/uc/item/7kk4d922)
+- Formula syntax is used by modeling functions like `lm()` as well as packages like `mosaic`, designed for teaching introductory statistics in a very consistent way. If you are teaching intro stat, this is the syntax I recommend you teach. It does not have support for data wrangling/tidying, so for big data analysis projects you have to venture outside the syntax. If you want to learn more about this syntax, read my pre-print [Teaching modeling in introductory statistics: A comparison of formula and tidyverse syntaxes](https://arxiv.org/abs/2201.12960)
+- Base R syntax is the syntax in the base of the programming language R. R packages are written in base R. It is characterized by the use of `$` and `[ , ]` operators. If you want to write R packages or have your students write them (unlikely!) teach this syntax. Many "old school" people start with this syntax because they believe it is foundational. It's not! Don't be fooled.
+
+I have a keynote talk I gave at useR! (the international R users conference) titled [Speaking R](https://www.youtube.com/live/ckW9sSdIVAc?si=31XOZ0dhMQra5trv&t=690) about how to vocalize R code in different syntaxes while you're teaching it.
+
+## R and RStudio
+
+R is the programming language, which you need in order to code in R! It is free and open source. You could code in R from the commandline or from the default R Graphical User Interface (GUI) but...
+
+RStudio is the industry-standard Integrated Development Environment (IDE), which makes it easier to code in R. It is free and open source. Some companies buy an enterprise version, which allows them more support but not necessarily more features. 
+
+## Downloading R and RStudio
+
+In order to use R and RStudio, you need access to them! There is [a cloud version](https://posit.cloud/) that allows you a few hours of compute time per month for free, and is pretty cheap after that. If you just want to give R a quick try, this can be a good way to start. I have used this with intro classes where I don't want students to get bogged down in software installs. In upper level classes where we use it more heavily, I ask students to install it locally. 
+
+If you really want to learn R, I suggest installing it locally. 
+
+There are several steps to this process, so I made [a YouTube video](https://www.youtube.com/watch?v=pDuKbv4AOJg&list=PLik6fAQnSI92b9mVU-8wMQfuzQa8I7PmS&index=28) to walk students through it. There are three main steps:
+
+1. Download and install [R](http://cran.us.r-project.org/)
+2. Download and install [RStudio Desktop](http://www.rstudio.com/products/rstudio/)
+3. Install whatever packages you need to do your work. I've made a big list of potential packages, which you may or may not need all of. To install them, run this entire piece of code:
+
+
+```{r}
+#| eval: false
+#| echo: true
+install.packages(c("tidyverse", "babynames", "broom", "coefplot", "cowplot", "devtools", "drat", "fueleconomy", "fivethirtyeight", "formatR", "gapminder", "GGally", "ggforce", "ggraph", "ggrepel", "ggridges", "graphlayouts", "gridExtra", "here", "hexbin", "interplot", "janitor", "margins", "mgcv", "maps", "mapproj", "nycflights13", "RColorBrewer", "rmarkdown", "sf", "skimr", "usethis", "viridis", "viridisLite"))
+```
+
+I'm happy to help troubleshoot if you run into any issues!
+
+## Learning R
+
+-   If you want a self-paced way to learn R, [DataQuest](https://www.dataquest.io/) is the website I recommend. It has R content as well as other programming languages like Python. It does cost money
+
+-   Their competitor that I do **not** recommend is called DataCamp. Here's an overview: [Don't use DataCamp](https://dnlmc.medium.com/dont-use-datacamp-ef04adcf1b7f). There is [so](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup) [much](https://www.vice.com/en_us/article/597p7z/datacamp-teachers-boycott-their-own-classes-following-sexual-misconduct-by-executive) [more](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html) [media](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html) [coverage](https://www.businessinsider.com/datacamp-ceo-made-uninvited-physical-contact-with-employee-sources-say-2019-4). (Oh, and the CEO has been quietly reinstated!)
+-   If you want a free way to learn R, the website [learnR4free](https://www.learnr4free.com/en/) has (you guessed it!) free resources for learning R. They have materials in English, Turkish, and Spanish. 
+    -   one that I know is good: [R Bootcamp](https://r-bootcamp.netlify.app/)
+-   The book [R for data science](https://r4ds.had.co.nz/) (free online) is a common resource for learning R. There is also a supportive online community called the [R for data science online community](https://dslc.io/) that you can join for free. They have a Slack group, and I have heard there is almost always a group of people working their way through the r4ds book together and asking questions online. 
+
+## Resources
+
+As you learn, you will have questions! Here are some resources to help you answer them. 
+
+-   The [Posit cheatsheets](https://posit.co/resources/cheatsheets/) are overviews of common functions you might need, including illustrations to help you understand what they do. Some useful cheatsheets:
+    -   [Data visualization with ggplot2](https://rstudio.github.io/cheatsheets/html/data-visualization.html)
+    -   [Data wrangling with dplyr](https://rstudio.github.io/cheatsheets/html/data-transformation.html)
+    -   there are also ["contributed" cheatsheets](https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html) cheatsheets made by people other than the company itself. 
+    -   [My syntax comparison cheatsheet](https://rstudio.github.io/cheatsheets/syntax.pdf) is one
+-   On the subject of cheatsheets, I have two "Enough R for Intro Stats" cheatsheets, which are given to students in my intro stats courses STAT 220:
+    -   [Formula syntax](https://stthomas.instructure.com/courses/75281/files/8679849?wrap=1 "all_the_R_you_need_formula.pdf") ([source code, Rmd](https://github.com/AmeliaMN/STAT220-labs/blob/main/all_the_R_you_need_formula.Rmd))
+    -   [Tidyverse syntax](https://stthomas.instructure.com/courses/75281/files/8679847?wrap=1 "all_the_R_you_need_tidy.pdf") ([source code, Rmd](https://github.com/AmeliaMN/STAT220-labs/blob/main/all_the_R_you_need_tidy.Rmd))
+
+
+
+## Books
+
+-   Again, the book [R for data science](https://r4ds.had.co.nz/) is very commonly used, for a reason. It's a great intro to the tidyverse, and you can read it free online
+-   [R Graphics Cookbook](http://www.cookbook-r.com/) will help you make your ggplots beautiful. It's also free online, or you can buy a paper book. 
+- [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/) is a data science textbook that uses the tidyverse. Again, free online or you can buy the book.
+- There's also [Statistical Inference via Data Science](https://moderndive.com/) again free online (are you sensing a theme?).
+- [Text Mining with R](https://www.tidytextmining.com/), ditto.
+- [Spatial Data Science With Applications in R](https://r-spatial.org/book/), yep, also free.
+- If you want a recommendation for a book with a particular application, just ask. 
+
+
+## Teaching R
+
+
+-   Again, you might want to read me and my colleague's piece [An educator's perspective of the tidyverse](https://escholarship.org/uc/item/7kk4d922)
+-   Mine Cetinkaya-Rundel (the first author on that piece) has a website [Data Science in a Box](https://datasciencebox.org/), which has lots of materials for teaching data science. It also has her design philosophy, which includes "Start with cake"
+
+
+## Videos
+
+Let's say you're not sick of my voice after a full week of it. I have [a ton of YouTube videos](www.youtube.com/@AmeliaMcNamara) with content related to learning R. For example,
+
+- [full semester of intro statistics labs](https://www.youtube.com/watch?v=0suW9SM5uJY&list=PLik6fAQnSI93eBVuAONFBCVdOd7VFhKQX&pp=gAQBiAQB) taught with the tidyverse, and [accompanying documents](https://github.com/AmeliaMN/STAT220-labs/tree/main/tidy)
+- [full semester of intro statistics labs](https://www.youtube.com/watch?v=0suW9SM5uJY&list=PLik6fAQnSI90bHK9fapPS-eZCUhgROh6S) taught with formula syntax, and [accompanying documents](https://github.com/AmeliaMN/STAT220-labs/tree/main/formula)
+
+
+## Writing reproducible reports
+
+Another powerful thing about R is the tooling around writing reproducible reports. Here are some resources related to that:
+
+-   [Quarto websites](https://quarto.org/docs/websites/). Quarto is a fancy version of Markdown that lets you include code (R, Python, or other languages) and create ["literate programming"](https://en.wikipedia.org/wiki/Literate_programming) documents. 
+    -   [My STAT336 website](https://ameliamn.github.io/STAT336/) was made with Quarto
+    -   That paper on the tidyverse was [written in RMarkdown](https://github.com/mine-cetinkaya-rundel/educators-perspective-tidyverse/blob/main/educators-perspective-tidyverse.Rmd), the previous generation of what is now Quarto. 
+    - My paper on teaching different R syntaxes was also [written in RMarkdown](https://github.com/AmeliaMN/ComparingSyntaxForModeling/blob/main/PaperDraft.Rmd)
+  -   To do this sort of stuff, you would need the [rticles package](https://github.com/rstudio/rticles)
+

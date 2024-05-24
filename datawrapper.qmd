@@ -12,8 +12,10 @@ You'll need a dataset, probably an Excel or csv file. If you found one yesterday
 
 -   ([Tidy Tuesday datasets](https://github.com/rfordatascience/tidytuesday) would also work)
 
-One thing that can complicate matters is Datawrapper's expectation of how data will be formatted. However, they have good documentation of the format they expect. For example:
+One thing that can complicate matters is Datawrapper's expectation of how data will be formatted. (They are not based on tidy data!) However, they have good documentation of the format they expect. For example:
 
 -   [how to create small multiple line charts](https://academy.datawrapper.de/article/384-how-to-create-small-multiple-line-charts)
 
 -   [how to create a stacked bar chart](https://academy.datawrapper.de/article/17-how-to-create-a-stacked-bar-chart)
+
+-   [how to create multiple pie charts](https://www.datawrapper.de/charts/multiple-pies-chart)

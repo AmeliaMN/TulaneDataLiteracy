@@ -28,6 +28,12 @@ website:
           - reading_storymaps.qmd
           - making_storymaps.qmd
           - GitHubPages.qmd
+      - section: "Resources"
+        contents:
+          - text: "For learning R"
+            href: learning_R.qmd
+          - text: "For learning Tableau"
+            href: learning_Tableau.qmd
       - section: "Slides"
         contents:
           - text: "01 intro"

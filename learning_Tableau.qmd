@@ -1,0 +1,31 @@
+---
+title: "Learning Tableau"
+---
+
+In contrast with R, I have relatively few suggestions about learning Tableau!
+
+It doesn't appear that Tulane has a university-wide Tableau license, but it is possible there are departments that have a smaller set of licenses. For my classes, I get a set of student licenses so they can download the software on their own computers *and* I ask Tableau for a Tableau online site. Like with R, if you just want to get a taste, the online version can be good enough. But if you want to become a pro, you need the version you install on your computer.
+
+[Here](https://www.tableau.com/academic/teaching) is where you can request educator access. Click "request course software" and then select Student Licenses and Tableau Cloud Site. If you have admin access on lab computers you could also choose Lab Licenses.
+
+Once you have a Tableau Cloud site, you need to add your students. If Tulane is like St Thomas, the single sign on option won't work, so you will need to add students by email address. I recommend adding students right before the class when you will introduce Tableau, because the emails "expire" after a couple of days and it can be hard to recreate them. Assign the students "creator" role when you add them.
+
+## Getting started
+
+A video I really like is [Tableau in Two Minutes - Tableau Basics for Beginners](https://www.youtube.com/watch?v=jEgVto5QME8), although the title is deceptive– it's a 23-minute video! [Penguin Analytics](https://www.youtube.com/@penguinanalytics1984) has a ton of other good videos. The Tableau documentation itself can be highly variable, sometimes I search something online and get a great answer, other times it doesn't seem to apply to the version of Tableau I'm using.
+
+## Example dashboards
+
+One benefit of Tableau is that you get interactivity (brushing and linking) "for free." They also do some device size customization for free, which is one of the things [people talk about with dashboards](https://nightingaledvs.com/adapting-dasboards-for-different-formats/?mc_cid=dcd40c31be&mc_eid=f96cf0c27d). Lots of people make dashboards using Tableau. Some examples:
+
+
+-   [The Coffees of Twin Peaks](https://public.tableau.com/app/profile/judit.bekker/viz/TheCoffeesofTwinPeaks/TheCoffeesofTwinPeaks)
+-   [Michigan 34, Washington 13: The 2024 College Football National Championship Game](https://public.tableau.com/app/profile/bo.mccready8742/viz/Michigan34Washington13The2024CollegeFootballNationalChampionshipGame/CFPRadial)
+-   [Edmonton, Alberta: Snow](https://public.tableau.com/app/profile/yegwxnerdery/viz/shared/DD5TYJCWJ)
+-   [Press Freedom Index : The Dire State of Authentic Journalism in 2023](https://public.tableau.com/app/profile/chimdi.nwosu/viz/PressFreedomIndexTheDireStateofAuthenticJournalismin2023/2023PressFreedomIndex)
+-   [Ránking de sueldos: El lugar de la Argentina donde se cobran los mejores salarios, pero no es fácil ser feliz](https://www.lanacion.com.ar/sociedad/ranking-de-sueldos-el-lugar-de-la-argentina-donde-se-cobran-los-mejores-salarios-pero-no-es-facil-nid11122022/#/) (La Nacion does a lot with Tableau)
+-   [Popular or Pragmatic Part 2: The Long View](https://mn.gov/deed/newscenter/publications/trends/september-2023/popular.jsp "Link")
+-   [From College Major to Industry of Employment](https://mn.gov/deed/newscenter/publications/trends/march-2024/college-major.jsp)
+-   [Surface with Purpose Tool - by jurisdiction](https://public.tableau.com/app/profile/metcouncilcd/viz/SurfacewithPurposeTool-byjurisdiction/SurfacewithPurposeTool-Jurisdiction)
+
+You can also browse [Tableau Public](https://public.tableau.com/app/discover) to see inspiring examples. 

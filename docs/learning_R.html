@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Data Literacy Course Redesign Institute - Tuesday</title>
+<title>Data Literacy Course Redesign Institute - Resources for learning R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +19,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -39,8 +73,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -81,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./monday.html">Daily schedules and resources</a></li><li class="breadcrumb-item"><a href="./tuesday.html">Tuesday</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./learning_R.html">Resources</a></li><li class="breadcrumb-item"><a href="./learning_R.html">For learning R</a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -129,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./tuesday.html" class="sidebar-item-text sidebar-link active">
+  <a href="./tuesday.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Tuesday</span></a>
   </div>
 </li>
@@ -235,7 +267,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./learning_R.html" class="sidebar-item-text sidebar-link">
+  <a href="./learning_R.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">For learning R</span></a>
   </div>
 </li>
@@ -345,9 +377,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./monday.html">Daily schedules and resources</a></li><li class="breadcrumb-item"><a href="./tuesday.html">Tuesday</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./learning_R.html">Resources</a></li><li class="breadcrumb-item"><a href="./learning_R.html">For learning R</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Tuesday</h1>
+<h1 class="title">Resources for learning R</h1>
 </div>
 
 
@@ -364,78 +396,101 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<table class="table">
-<thead>
-<tr class="header">
-<th>Time</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>9:00</td>
-<td>Breakfast, warm-up (brainstorm common data visualizations)</td>
-</tr>
-<tr class="even">
-<td>9:15</td>
-<td>Presentation: <a href="slides/04_grammar_of_graphics.pdf">The Grammar of Graphics</a>.</td>
-</tr>
-<tr class="odd">
-<td>9:45</td>
-<td>Activity: <a href="./unpacking_charts.html">unpacking charts</a></td>
-</tr>
-<tr class="even">
-<td>10:45</td>
-<td>Break</td>
-</tr>
-<tr class="odd">
-<td>11:00</td>
-<td>Presentation: <a href="slides/05_data_art.pdf">data and art</a>.</td>
-</tr>
-<tr class="even">
-<td>11:30</td>
-<td>Activity: <a href="./handmade_viz.html">hand-drawn data</a>.</td>
-</tr>
-<tr class="odd">
-<td>noon</td>
-<td>Lunch</td>
-</tr>
-<tr class="even">
-<td>12:45</td>
-<td>Presentation: <a href="slides/06_viz_tools.pdf">tools for data visualization</a>. Demo: <a href="https://www.datawrapper.de/">Datawrapper</a>.</td>
-</tr>
-<tr class="odd">
-<td>1:30</td>
-<td>Activity: visualize data from yesterday using paper and pencil or <a href="./datawrapper.html">Datawrapper</a>.</td>
-</tr>
-<tr class="even">
-<td>2:00</td>
-<td>Break</td>
-</tr>
-<tr class="odd">
-<td>2:15</td>
-<td>Activity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element</td>
-</tr>
-<tr class="even">
-<td>2:50</td>
-<td>Share out details of assignments.</td>
-</tr>
-</tbody>
-</table>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources"><i class="fa-solid fa-book" aria-label="book"></i> Resources</h2>
+<p>This was a no-code approach to data literacy, but several people have asked for some resources for learning R. Here I’ll share a few of my favorite things. One thing to know right off the bat is that R has several different-looking but equally valid “syntaxes”</p>
 <ul>
-<li>Tulane <a href="https://libguides.tulane.edu/dataav">libguide to data visualization</a></li>
-<li><a href="https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d">Data is Personal. What We Learned from 42 Interviews in Rural America</a>. Evan Peck.</li>
-<li><a href="https://datajournalism.com/read/longreads/the-unspoken-rules-of-visualisation">The unspoken rules of visualisation (and when to break them)</a>. Kaiser Fung.</li>
+<li>Tidyverse syntax uses packages like <code>ggplot2</code> and <code>dplyr</code>, and needs tidy data. The authors of the tidyverse have a <a href="https://tidyverse.tidyverse.org/articles/manifesto.html">“tidy tools manifesto”</a> that explains their design philosophy. A lot of the resources I link here will be tidyverse-forward. If you are doing your own data analysis work in R, or teaching courses focused on data analysis, this is what I recommend. My colleagues and I have a paper explaining why: <a href="https://escholarship.org/uc/item/7kk4d922">An educator’s perspective of the tidyverse</a></li>
+<li>Formula syntax is used by modeling functions like <code>lm()</code> as well as packages like <code>mosaic</code>, designed for teaching introductory statistics in a very consistent way. If you are teaching intro stat, this is the syntax I recommend you teach. It does not have support for data wrangling/tidying, so for big data analysis projects you have to venture outside the syntax. If you want to learn more about this syntax, read my pre-print <a href="https://arxiv.org/abs/2201.12960">Teaching modeling in introductory statistics: A comparison of formula and tidyverse syntaxes</a></li>
+<li>Base R syntax is the syntax in the base of the programming language R. R packages are written in base R. It is characterized by the use of <code>$</code> and <code>[ , ]</code> operators. If you want to write R packages or have your students write them (unlikely!) teach this syntax. Many “old school” people start with this syntax because they believe it is foundational. It’s not! Don’t be fooled.</li>
+</ul>
+<p>I have a keynote talk I gave at useR! (the international R users conference) titled <a href="https://www.youtube.com/live/ckW9sSdIVAc?si=31XOZ0dhMQra5trv&amp;t=690">Speaking R</a> about how to vocalize R code in different syntaxes while you’re teaching it.</p>
+<section id="r-and-rstudio" class="level2">
+<h2 class="anchored" data-anchor-id="r-and-rstudio">R and RStudio</h2>
+<p>R is the programming language, which you need in order to code in R! It is free and open source. You could code in R from the commandline or from the default R Graphical User Interface (GUI) but…</p>
+<p>RStudio is the industry-standard Integrated Development Environment (IDE), which makes it easier to code in R. It is free and open source. Some companies buy an enterprise version, which allows them more support but not necessarily more features.</p>
+</section>
+<section id="downloading-r-and-rstudio" class="level2">
+<h2 class="anchored" data-anchor-id="downloading-r-and-rstudio">Downloading R and RStudio</h2>
+<p>In order to use R and RStudio, you need access to them! There is <a href="https://posit.cloud/">a cloud version</a> that allows you a few hours of compute time per month for free, and is pretty cheap after that. If you just want to give R a quick try, this can be a good way to start. I have used this with intro classes where I don’t want students to get bogged down in software installs. In upper level classes where we use it more heavily, I ask students to install it locally.</p>
+<p>If you really want to learn R, I suggest installing it locally.</p>
+<p>There are several steps to this process, so I made <a href="https://www.youtube.com/watch?v=pDuKbv4AOJg&amp;list=PLik6fAQnSI92b9mVU-8wMQfuzQa8I7PmS&amp;index=28">a YouTube video</a> to walk students through it. There are three main steps:</p>
+<ol type="1">
+<li>Download and install <a href="http://cran.us.r-project.org/">R</a></li>
+<li>Download and install <a href="http://www.rstudio.com/products/rstudio/">RStudio Desktop</a></li>
+<li>Install whatever packages you need to do your work. I’ve made a big list of potential packages, which you may or may not need all of. To install them, run this entire piece of code:</li>
+</ol>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="fu">c</span>(<span class="st">"tidyverse"</span>, <span class="st">"babynames"</span>, <span class="st">"broom"</span>, <span class="st">"coefplot"</span>, <span class="st">"cowplot"</span>, <span class="st">"devtools"</span>, <span class="st">"drat"</span>, <span class="st">"fueleconomy"</span>, <span class="st">"fivethirtyeight"</span>, <span class="st">"formatR"</span>, <span class="st">"gapminder"</span>, <span class="st">"GGally"</span>, <span class="st">"ggforce"</span>, <span class="st">"ggraph"</span>, <span class="st">"ggrepel"</span>, <span class="st">"ggridges"</span>, <span class="st">"graphlayouts"</span>, <span class="st">"gridExtra"</span>, <span class="st">"here"</span>, <span class="st">"hexbin"</span>, <span class="st">"interplot"</span>, <span class="st">"janitor"</span>, <span class="st">"margins"</span>, <span class="st">"mgcv"</span>, <span class="st">"maps"</span>, <span class="st">"mapproj"</span>, <span class="st">"nycflights13"</span>, <span class="st">"RColorBrewer"</span>, <span class="st">"rmarkdown"</span>, <span class="st">"sf"</span>, <span class="st">"skimr"</span>, <span class="st">"usethis"</span>, <span class="st">"viridis"</span>, <span class="st">"viridisLite"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>I’m happy to help troubleshoot if you run into any issues!</p>
+</section>
+<section id="learning-r" class="level2">
+<h2 class="anchored" data-anchor-id="learning-r">Learning R</h2>
+<ul>
+<li><p>If you want a self-paced way to learn R, <a href="https://www.dataquest.io/">DataQuest</a> is the website I recommend. It has R content as well as other programming languages like Python. It does cost money</p></li>
+<li><p>Their competitor that I do <strong>not</strong> recommend is called DataCamp. Here’s an overview: <a href="https://dnlmc.medium.com/dont-use-datacamp-ef04adcf1b7f">Don’t use DataCamp</a>. There is <a href="https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup">so</a> <a href="https://www.vice.com/en_us/article/597p7z/datacamp-teachers-boycott-their-own-classes-following-sexual-misconduct-by-executive">much</a> <a href="https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html">more</a> <a href="https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html">media</a> <a href="https://www.businessinsider.com/datacamp-ceo-made-uninvited-physical-contact-with-employee-sources-say-2019-4">coverage</a>. (Oh, and the CEO has been quietly reinstated!)</p></li>
+<li><p>If you want a free way to learn R, the website <a href="https://www.learnr4free.com/en/">learnR4free</a> has (you guessed it!) free resources for learning R. They have materials in English, Turkish, and Spanish.</p>
+<ul>
+<li>one that I know is good: <a href="https://r-bootcamp.netlify.app/">R Bootcamp</a></li>
+</ul></li>
+<li><p>The book <a href="https://r4ds.had.co.nz/">R for data science</a> (free online) is a common resource for learning R. There is also a supportive online community called the <a href="https://dslc.io/">R for data science online community</a> that you can join for free. They have a Slack group, and I have heard there is almost always a group of people working their way through the r4ds book together and asking questions online.</p></li>
 </ul>
 </section>
-<section id="activities" class="level2">
-<h2 class="anchored" data-anchor-id="activities"><i class="fa-solid fa-flask" aria-label="flask"></i> Activities</h2>
+<section id="resources" class="level2">
+<h2 class="anchored" data-anchor-id="resources">Resources</h2>
+<p>As you learn, you will have questions! Here are some resources to help you answer them.</p>
 <ul>
-<li><a href="./unpacking_charts.html">Unpacking charts</a></li>
-<li><a href="./handmade_viz.html">Handmade viz</a></li>
-<li><a href="./datawrapper.html">Datawrapper</a></li>
+<li>The <a href="https://posit.co/resources/cheatsheets/">Posit cheatsheets</a> are overviews of common functions you might need, including illustrations to help you understand what they do. Some useful cheatsheets:
+<ul>
+<li><a href="https://rstudio.github.io/cheatsheets/html/data-visualization.html">Data visualization with ggplot2</a></li>
+<li><a href="https://rstudio.github.io/cheatsheets/html/data-transformation.html">Data wrangling with dplyr</a></li>
+<li>there are also <a href="https://rstudio.github.io/cheatsheets/contributed-cheatsheets.html">“contributed” cheatsheets</a> cheatsheets made by people other than the company itself.</li>
+<li><a href="https://rstudio.github.io/cheatsheets/syntax.pdf">My syntax comparison cheatsheet</a> is one</li>
+</ul></li>
+<li>On the subject of cheatsheets, I have two “Enough R for Intro Stats” cheatsheets, which are given to students in my intro stats courses STAT 220:
+<ul>
+<li><a href="https://stthomas.instructure.com/courses/75281/files/8679849?wrap=1" title="all_the_R_you_need_formula.pdf">Formula syntax</a> (<a href="https://github.com/AmeliaMN/STAT220-labs/blob/main/all_the_R_you_need_formula.Rmd">source code, Rmd</a>)</li>
+<li><a href="https://stthomas.instructure.com/courses/75281/files/8679847?wrap=1" title="all_the_R_you_need_tidy.pdf">Tidyverse syntax</a> (<a href="https://github.com/AmeliaMN/STAT220-labs/blob/main/all_the_R_you_need_tidy.Rmd">source code, Rmd</a>)</li>
+</ul></li>
+</ul>
+</section>
+<section id="books" class="level2">
+<h2 class="anchored" data-anchor-id="books">Books</h2>
+<ul>
+<li>Again, the book <a href="https://r4ds.had.co.nz/">R for data science</a> is very commonly used, for a reason. It’s a great intro to the tidyverse, and you can read it free online</li>
+<li><a href="http://www.cookbook-r.com/">R Graphics Cookbook</a> will help you make your ggplots beautiful. It’s also free online, or you can buy a paper book.</li>
+<li><a href="https://mdsr-book.github.io/mdsr3e/">Modern Data Science with R</a> is a data science textbook that uses the tidyverse. Again, free online or you can buy the book.</li>
+<li>There’s also <a href="https://moderndive.com/">Statistical Inference via Data Science</a> again free online (are you sensing a theme?).</li>
+<li><a href="https://www.tidytextmining.com/">Text Mining with R</a>, ditto.</li>
+<li><a href="https://r-spatial.org/book/">Spatial Data Science With Applications in R</a>, yep, also free.</li>
+<li>If you want a recommendation for a book with a particular application, just ask.</li>
+</ul>
+</section>
+<section id="teaching-r" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-r">Teaching R</h2>
+<ul>
+<li>Again, you might want to read me and my colleague’s piece <a href="https://escholarship.org/uc/item/7kk4d922">An educator’s perspective of the tidyverse</a></li>
+<li>Mine Cetinkaya-Rundel (the first author on that piece) has a website <a href="https://datasciencebox.org/">Data Science in a Box</a>, which has lots of materials for teaching data science. It also has her design philosophy, which includes “Start with cake”</li>
+</ul>
+</section>
+<section id="videos" class="level2">
+<h2 class="anchored" data-anchor-id="videos">Videos</h2>
+<p>Let’s say you’re not sick of my voice after a full week of it. I have <a href="www.youtube.com/@AmeliaMcNamara">a ton of YouTube videos</a> with content related to learning R. For example,</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=0suW9SM5uJY&amp;list=PLik6fAQnSI93eBVuAONFBCVdOd7VFhKQX&amp;pp=gAQBiAQB">full semester of intro statistics labs</a> taught with the tidyverse, and <a href="https://github.com/AmeliaMN/STAT220-labs/tree/main/tidy">accompanying documents</a></li>
+<li><a href="https://www.youtube.com/watch?v=0suW9SM5uJY&amp;list=PLik6fAQnSI90bHK9fapPS-eZCUhgROh6S">full semester of intro statistics labs</a> taught with formula syntax, and <a href="https://github.com/AmeliaMN/STAT220-labs/tree/main/formula">accompanying documents</a></li>
+</ul>
+</section>
+<section id="writing-reproducible-reports" class="level2">
+<h2 class="anchored" data-anchor-id="writing-reproducible-reports">Writing reproducible reports</h2>
+<p>Another powerful thing about R is the tooling around writing reproducible reports. Here are some resources related to that:</p>
+<ul>
+<li><a href="https://quarto.org/docs/websites/">Quarto websites</a>. Quarto is a fancy version of Markdown that lets you include code (R, Python, or other languages) and create <a href="https://en.wikipedia.org/wiki/Literate_programming">“literate programming”</a> documents.
+<ul>
+<li><a href="https://ameliamn.github.io/STAT336/">My STAT336 website</a> was made with Quarto</li>
+<li>That paper on the tidyverse was <a href="https://github.com/mine-cetinkaya-rundel/educators-perspective-tidyverse/blob/main/educators-perspective-tidyverse.Rmd">written in RMarkdown</a>, the previous generation of what is now Quarto.</li>
+<li>My paper on teaching different R syntaxes was also <a href="https://github.com/AmeliaMN/ComparingSyntaxForModeling/blob/main/PaperDraft.Rmd">written in RMarkdown</a></li>
+</ul></li>
+<li>To do this sort of stuff, you would need the <a href="https://github.com/rstudio/rticles">rticles package</a></li>
 </ul>
 
 

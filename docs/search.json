@@ -66,110 +66,130 @@
     ]
   },
   {
-    "objectID": "datawrapper.html",
-    "href": "datawrapper.html",
-    "title": "Datawrapper",
+    "objectID": "monday.html",
+    "href": "monday.html",
+    "title": "Monday",
     "section": "",
-    "text": "Let’s try making some basic data visualizations using Datawrapper. I’ll do a demo, but it’s usually pretty self-explanatory. And, they have great introductory documentation. To get started, just click “start creating”! Login not required.\nYou’ll need a dataset, probably an Excel or csv file. If you found one yesterday, try that! If not, feel free to use one of these sample datasets:\n\nGeneral Social Survey extract\nPalmer penguins data\n(Tidy Tuesday datasets would also work)\n\nOne thing that can complicate matters is Datawrapper’s expectation of how data will be formatted. However, they have good documentation of the format they expect. For example:\n\nhow to create small multiple line charts\nhow to create a stacked bar chart",
-    "crumbs": [
-      "Activities",
-      "Datawrapper"
-    ]
-  },
-  {
-    "objectID": "tuesday.html",
-    "href": "tuesday.html",
-    "title": "Tuesday",
-    "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (brainstorm common data visualizations)\n\n\n9:15\nPresentation: The Grammar of Graphics.\n\n\n9:45\nActivity: unpacking charts\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: data and art.\n\n\n11:30\nActivity: hand-drawn data.\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: tools for data visualization. Demo: Datawrapper.\n\n\n1:30\nActivity: visualize data from yesterday using paper and pencil or Datawrapper.\n\n\n2:00\nBreak\n\n\n2:15\nActivity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element\n\n\n2:50\nShare out details of assignments.",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what do you think of when you think of “data”?)\n\n\n9:15\nWelcome and introductions\n\n\n9:45\nPresentation: digital humanities across disciplines.\n\n\n10:45\nBreak\n\n\n11:00\nActivity: syllabus review.\n\n\n11:45\nShare-out and discussion\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: What is data?\n\n\n1:30\nActivity: searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?",
     "crumbs": [
       "Daily schedules and resources",
-      "Tuesday"
+      "Monday"
     ]
   },
   {
-    "objectID": "tuesday.html#resources",
-    "href": "tuesday.html#resources",
-    "title": "Tuesday",
+    "objectID": "monday.html#resources",
+    "href": "monday.html#resources",
+    "title": "Monday",
     "section": " Resources",
-    "text": "Resources\n\nTulane libguide to data visualization\nData is Personal. What We Learned from 42 Interviews in Rural America. Evan Peck.\nThe unspoken rules of visualisation (and when to break them). Kaiser Fung.",
+    "text": "Resources\n\nHow Not to Teach Digital Humanities, Ryan Cordell\nTulane Data Literacy libguide\nWhat Are Data? The Many Kinds of Data and Their Implications for Data Re-Use, Samuel Carlson, Ben Anderson.\nOpen for who? Jer Thorp.",
     "crumbs": [
       "Daily schedules and resources",
-      "Tuesday"
+      "Monday"
     ]
   },
   {
-    "objectID": "tuesday.html#activities",
-    "href": "tuesday.html#activities",
-    "title": "Tuesday",
+    "objectID": "monday.html#activities",
+    "href": "monday.html#activities",
+    "title": "Monday",
     "section": " Activities",
-    "text": "Activities\n\nUnpacking charts\nHandmade viz\nDatawrapper",
+    "text": "Activities\n\nSyllabus review\nFinding data",
     "crumbs": [
       "Daily schedules and resources",
-      "Tuesday"
+      "Monday"
     ]
   },
   {
-    "objectID": "reading_storymaps.html",
-    "href": "reading_storymaps.html",
-    "title": "Reading story maps",
+    "objectID": "mod_imdb.html",
+    "href": "mod_imdb.html",
+    "title": "Data Literacy Course Redesign Institute",
     "section": "",
-    "text": "Here are some example storymaps created by folks at Tulane. Take a look through and see the types of elements they have been able to weave together.",
+    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+  },
+  {
+    "objectID": "mod_imdb.html#mini-project",
+    "href": "mod_imdb.html#mini-project",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "",
+    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+  },
+  {
+    "objectID": "mod_imdb.html#data",
+    "href": "mod_imdb.html#data",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "Data",
+    "text": "Data\nData are available through the imdb database located on scidb.smith.edu. Please see me for login instructions, or use the special functions built into the mdsr pacakge.\n\nlibrary(mdsr)\nlibrary(RMySQL)\ndb &lt;- dbConnect_scidb(dbname = \"imdb\")\ndb %&gt;%\n  dbGetQuery(\"SELECT * FROM kind_type;\")"
+  },
+  {
+    "objectID": "mod_imdb.html#rubric",
+    "href": "mod_imdb.html#rubric",
+    "title": "Data Literacy Course Redesign Institute",
+    "section": "Rubric",
+    "text": "Rubric\nThere are 14 points available on this Mini-Project.\n\nBaseline\n\n+1 for having an .Rmd that compiles without errors\n+1 for including a problem statement (what are you trying to figure out?)\n+1 for using data from more than one table in your analysis\n+1 for readable, well-documented code (i.e. appropriate comments, using line breaks, breaking code up into logical chunks, following a style guide)\n+1 unnecessary messages from R are hidden from being displayed in the HTML\n\n\n\nAverage\n\n+1 for joining multiple tables using SQL\n+1 for using precise SQL queries (i.e. requesting only the columns you need, rather than requesting everything and filtering in R)\n+1 for using efficient SQL queries (i.e. making use of an index column to speed things up, and including a comment indicating this)\n+1 for using a data graphic to articulate your findings\n+1 for including relevant external information to your analysis (e.g. important cultural context that the reader might not have, historical events that could be related to what you found, etc.)\n\n\n\nAdvanced\n\n+1 for using a GitHub repository and including a link to it at the bottom of your submission\n+1 for including a (well-supported!) alternate hypothesis / explanation for what you found\n+0–2 WOW factor: awarded at the professors’ discretion for submissions that are exceptionally compelling"
+  },
+  {
+    "objectID": "syllabus_review.html",
+    "href": "syllabus_review.html",
+    "title": "Syllabus review",
+    "section": "",
+    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
     "crumbs": [
       "Activities",
-      "Reading story maps"
+      "Syllabus review"
     ]
   },
   {
-    "objectID": "reading_storymaps.html#more-examples",
-    "href": "reading_storymaps.html#more-examples",
-    "title": "Reading story maps",
-    "section": "More examples",
-    "text": "More examples\n\nDante’s Inferno: According to A. Manetti & G. Galilei, Josef Münzberger\nA Matter of Air: Visualizing Air Pollution in New York City, Aurelie Barbier, Katrin Bichler, Aron Cohen and Julie McEldoon\n\nYou might also want to look at the winners of the 2023 StoryMaps competition.",
+    "objectID": "syllabus_review.html#task",
+    "href": "syllabus_review.html#task",
+    "title": "Syllabus review",
+    "section": "",
+    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
     "crumbs": [
       "Activities",
-      "Reading story maps"
+      "Syllabus review"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Literacy Course Redesign Institute",
+    "objectID": "syllabus_review.html#syllabi-to-review",
+    "href": "syllabus_review.html#syllabi-to-review",
+    "title": "Syllabus review",
+    "section": "Syllabi to review",
+    "text": "Syllabi to review\nHere are a few suggested sample syllabi to examine, from least to most technical (“do humanities students need to know how to code?”):\n\nPSYCG1514: Research Methods and Design (PDF download). Kate Jansen, Midwestern University. (no code)\nDH285: Introduction to Digital Humanities. Kristen Mapes, Michigan State University. (no code: Flourish, Ondo)\nDGHM150: Archaeology in a Digital Age. Leigh Anne Lieberman, Claremont McKenna. (no code?)\nDH201: Introduction to Digital Humanities. Miriam Posner, UCLA. (low code, has a little HTML/CSS/p5.js exploration)\nENG790: Quantitative Literary Analysis: Theory and Practice. Lauren Klein and Ben Miller, Emory University. (limited programming but does use Python)\nIS312: Reading and Writing Data. Ryan Cordell, University of Illinois Urbana-Champaign. (R or Python programming)\nBUS607: Data-Driven Decision-Making. Saylor Academy. (limited programming in R)\nSTAT336: Data Communication and Visualization. Amelia McNamara, University of St Thomas. (programming in R)\nLING334: Introduction to Computational Linguistics. Rob Voigt, Northwestern University. (programming in Python)\n\nIf none of those speak to you, here are a few more places to look for syllabi:\n\nThe Society for the Teaching of Psychology Project Syllabus collection.\nHumanities Commons CORE (narrow search to “Syllabus”)\nDigital Pedagogy in the Humanities\nSaylor Academy (lots of business classes) I don’t know anything about this site, but it seems relatively legit.\n\nYou can also feel free to pull examples from your own syllabi! We have a wealth of knowledge in this room, let’s leverage it.",
+    "crumbs": [
+      "Activities",
+      "Syllabus review"
+    ]
+  },
+  {
+    "objectID": "analyzing_data.html",
+    "href": "analyzing_data.html",
+    "title": "Analyzing data",
     "section": "",
-    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
+    "text": "I’m going to ask you to do some analysis of data, either using Excel (best for rectangular data) or Voyant Tools (best for text data). Here are some resources related to both analysis approaches:\n\nAnalyzing data with Excel\n\nData sources\n\nLouisiana education data\nGapminder\n\n\n\nTool\n\nTulane Micosoft 365\n\n\n\nResources\n\nHow to interview a big pile of data, David Eads, NPR.\nPivot tables in Excel, to count data or find means by group\nTransposing data with Excel\nUnpivoting data with Excel (first you have to create a Query)\nThe Datawrapper page now has some links to how they expect data\n\n\n\n\nAnalyzing text data with Voyant tools\n\nData sources\n\nProject Gutenberg\nHathi Trust\nNORDc Facilities\n\n\n\nTool\n\nVoyant tools\n\n\n\nResources\n\nVoyant tools documentation\nTulane libguide on text data\nUniversity of St Thomas libguide on text data\nSentiment datasets\nCategories in Voyant (this is where the red and green is coming from!)\nWord2vec: fish + music = bass\nSemantle, a game based on word2vec\ncontexto, says it is based on “AI” but I bet it is word2vec",
     "crumbs": [
-      "Data Literacy Course (Re)Design Institute Description"
+      "Activities",
+      "Analyzing data"
     ]
   },
   {
-    "objectID": "index.html#about-the-course",
-    "href": "index.html#about-the-course",
-    "title": "Data Literacy Course Redesign Institute",
+    "objectID": "learning_objectives.html",
+    "href": "learning_objectives.html",
+    "title": "Learning objectives for digital/data literacy",
     "section": "",
-    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
-    "crumbs": [
-      "Data Literacy Course (Re)Design Institute Description"
-    ]
+    "text": "Digital literacy and data literacy are separate skills, although they have many overlapping concepts."
   },
   {
-    "objectID": "index.html#schedule",
-    "href": "index.html#schedule",
-    "title": "Data Literacy Course Redesign Institute",
-    "section": "Tentative Schedule",
-    "text": "Tentative Schedule\nThe following is an outline of the institute. Please refer to the daily modules for more detailed information.\n\nMonday: Overview, data collection\nDigital humanities across disciplines. Case studies from English, history, linguistics, others as relevant to institute participants. Connections to the rest of the week. Syllabus review. Read sample syllabi of data-infused courses, look at participant’s syllabi for potential opportunities. Consider: What is data? How is it generated? Idea of data exhaust. How to find data? Searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\nTuesday: Data visualization\nThe Grammar of Graphics. How data connects to visual attributes. Reading graphics using the NY Times framework “What’s Going On in This Graph?” Data art versus generative art. Hand-drawn data visualization. Electronic tools for data visualization. Example tool: Datawrapper.\n\n\nWednesday: Data analysis\nTidy data and concepts of data wrangling. Unpacking newspaper headlines for underlying data. Data analysis basics. Example tool: Excel online. Text as data. Topic modeling, word embeddings. Example tool: Voyant Tools. Most relevant data/wrangling/analysis for discipline. Algorithmic accountability and digital ethics. Connection to text analysis and LMMs. Data/digital ethics in disciplines. How can this be integrated into courses?\n\n\nThursday: Communication and presentation\nCommunicating results digitally. Data journalism, digital portfolios. Reading StoryMaps and discussing connections to disciplines. Mapping basics. Example tool: StoryMaps. The machinery of the web. Example tool: GitHub Pages. Curriculum/syllabus review. Where do students see these skills? Are they necessary? LLMs. Ethics– electricity, water use, copyright/fair use. Example tool: ChatGPT. How could LMMs be used as learning tools? Discuss syllabus statements.\n\n\nFriday: Finalizing the connections\nIdeas for curricular integration. Successes/blockers. Ideas and resources. Presentations, reflection and wrap-up.",
-    "crumbs": [
-      "Data Literacy Course (Re)Design Institute Description"
-    ]
+    "objectID": "learning_objectives.html#digital-literacy",
+    "href": "learning_objectives.html#digital-literacy",
+    "title": "Learning objectives for digital/data literacy",
+    "section": "Digital literacy",
+    "text": "Digital literacy\nDigital literacy is one of the indicators for a target in the Sustainable Development Goals (SDGs) of the United Nations. UNESCO has “built on the European Commission’s Digital Competence Framework for Citizens” to develop a new set of goals."
   },
   {
-    "objectID": "index.html#syllabus-statements",
-    "href": "index.html#syllabus-statements",
-    "title": "Data Literacy Course Redesign Institute",
-    "section": "Syllabus statements",
-    "text": "Syllabus statements\nThese are two of my commonly-used syllabus statements that felt relevant to this institute. I’m providing them both as a jumping-off-point for institute ground rules and as inspiration for your syllabus statements.\n\nInclusive classroom\nBecause data is collected by and about humans, it always encodes our viewpoints and biases. As a result, this course will likely touch upon difficult topics related to race, gender, inequality, class, and oppression.\nWe each come into this class with different perspectives that can be shared to enhance our understanding of these issues. I ask that you enter these conversations with respect, curiosity, and cultural humility. You should be open to alternative perspectives and willing to revise beliefs that are based on misinformation. As a general rule, your ideas and experiences can always be shared during these conversation but refrain from dismissing the experiences of others.\nPlease plan to treat me and your classmates with respect. To me, respect includes using peoples’ pronouns and preferred name (both for me and for your classmates), arriving at class on time or coming in quietly if you are late, and focusing on the task at hand. Of course, personal attacks of any kind will not be tolerated.\n\n\nCollaboration and generative AI\nThe goal of this course is to help you develop and strengthen your skills as a data communicator. It is acceptable to work collaboratively with other students, or use generative AI (such as ChatGPT) to help you understand topics, debug code, and clean up written work. However, I expect all work submitted to be substantively yours. This means that copying and pasting large blocks of code or major textual elements from another student, internet websites, or generative AI systems, is not acceptable. If I suspect work you submitted is not substantively yours, I may ask you to come in and discuss the work with me. If you cannot explain how you arrived at the solution, and restate the work in your words, you will receive no credit. All students are bound by the Undergraduate Student Academic Integrity Policy. Cases of dishonesty, plagiarism, etc., will be reported to the dean.",
-    "crumbs": [
-      "Data Literacy Course (Re)Design Institute Description"
-    ]
+    "objectID": "learning_objectives.html#digital-humanities",
+    "href": "learning_objectives.html#digital-humanities",
+    "title": "Learning objectives for digital/data literacy",
+    "section": "Digital humanities",
+    "text": "Digital humanities\nThe digital humanities use digital tools toward the goal of advancing humanities knowledge. Sometimes there are specific digital humanities courses, other times digital methods get integrated into courses without that term in the title.\nSyllabi\n\nWikiversity has a list of example DH syllabi\nMiriam Posner has a DH course website rich with resources\nChis Alen Sula provides links to current and past syllabi for DH and other related courses\nHumanities Commons is a good place to search for syllabi. (Try “digital humanities” and/or some combination of terms with your discipline name.)\n\nProjects - One page Dr. Posner links to is this Simmons guide to exemplary DH projects - Dr. Posner has links to her students’ past projects\n“small beginnings help instructors focus on what DH they can teach effectively” [@cordell2016]"
   },
   {
     "objectID": "friday.html",
@@ -348,129 +368,241 @@
     ]
   },
   {
-    "objectID": "learning_objectives.html",
-    "href": "learning_objectives.html",
-    "title": "Learning objectives for digital/data literacy",
+    "objectID": "learning_R.html",
+    "href": "learning_R.html",
+    "title": "Resources for learning R",
     "section": "",
-    "text": "Digital literacy and data literacy are separate skills, although they have many overlapping concepts."
-  },
-  {
-    "objectID": "learning_objectives.html#digital-literacy",
-    "href": "learning_objectives.html#digital-literacy",
-    "title": "Learning objectives for digital/data literacy",
-    "section": "Digital literacy",
-    "text": "Digital literacy\nDigital literacy is one of the indicators for a target in the Sustainable Development Goals (SDGs) of the United Nations. UNESCO has “built on the European Commission’s Digital Competence Framework for Citizens” to develop a new set of goals."
-  },
-  {
-    "objectID": "learning_objectives.html#digital-humanities",
-    "href": "learning_objectives.html#digital-humanities",
-    "title": "Learning objectives for digital/data literacy",
-    "section": "Digital humanities",
-    "text": "Digital humanities\nThe digital humanities use digital tools toward the goal of advancing humanities knowledge. Sometimes there are specific digital humanities courses, other times digital methods get integrated into courses without that term in the title.\nSyllabi\n\nWikiversity has a list of example DH syllabi\nMiriam Posner has a DH course website rich with resources\nChis Alen Sula provides links to current and past syllabi for DH and other related courses\nHumanities Commons is a good place to search for syllabi. (Try “digital humanities” and/or some combination of terms with your discipline name.)\n\nProjects - One page Dr. Posner links to is this Simmons guide to exemplary DH projects - Dr. Posner has links to her students’ past projects\n“small beginnings help instructors focus on what DH they can teach effectively” [@cordell2016]"
-  },
-  {
-    "objectID": "analyzing_data.html",
-    "href": "analyzing_data.html",
-    "title": "Analyzing data",
-    "section": "",
-    "text": "I’m going to ask you to do some analysis of data, either using Excel (best for rectangular data) or Voyant Tools (best for text data). Here are some resources related to both analysis approaches:\n\nAnalyzing data with Excel\n\nData sources\n\nLouisiana education data\nGapminder\n\n\n\nTool\n\nTulane Micosoft 365\n\n\n\nResources\n\nHow to interview a big pile of data, David Eads, NPR.\nPivot tables in Excel, to count data or find means by group\nTransposing data with Excel\nUnpivoting data with Excel (first you have to create a Query)\nThe Datawrapper page now has some links to how they expect data\n\n\n\n\nAnalyzing text data with Voyant tools\n\nData sources\n\nProject Gutenberg\nHathi Trust\nNORDc Facilities\n\n\n\nTool\n\nVoyant tools\n\n\n\nResources\n\nVoyant tools documentation\nTulane libguide on text data\nUniversity of St Thomas libguide on text data\nSentiment datasets\nCategories in Voyant (this is where the red and green is coming from!)\nWord2vec: fish + music = bass\nSemantle, a game based on word2vec\ncontexto, says it is based on “AI” but I bet it is word2vec",
+    "text": "This was a no-code approach to data literacy, but several people have asked for some resources for learning R. Here I’ll share a few of my favorite things. One thing to know right off the bat is that R has several different-looking but equally valid “syntaxes”\nI have a keynote talk I gave at useR! (the international R users conference) titled Speaking R about how to vocalize R code in different syntaxes while you’re teaching it.",
     "crumbs": [
-      "Activities",
-      "Analyzing data"
+      "Resources",
+      "For learning R"
     ]
   },
   {
-    "objectID": "syllabus_review.html",
-    "href": "syllabus_review.html",
-    "title": "Syllabus review",
-    "section": "",
-    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
+    "objectID": "learning_R.html#r-and-rstudio",
+    "href": "learning_R.html#r-and-rstudio",
+    "title": "Resources for learning R",
+    "section": "R and RStudio",
+    "text": "R and RStudio\nR is the programming language, which you need in order to code in R! It is free and open source. You could code in R from the commandline or from the default R Graphical User Interface (GUI) but…\nRStudio is the industry-standard Integrated Development Environment (IDE), which makes it easier to code in R. It is free and open source. Some companies buy an enterprise version, which allows them more support but not necessarily more features.",
     "crumbs": [
-      "Activities",
-      "Syllabus review"
+      "Resources",
+      "For learning R"
     ]
   },
   {
-    "objectID": "syllabus_review.html#task",
-    "href": "syllabus_review.html#task",
-    "title": "Syllabus review",
-    "section": "",
-    "text": "Choose a syllabus (or two!) to examine. Read through the syllabus, making a note of anything that stands out to you, any questions you have.\n\nHow did the instructor balance data literacy content, technical details, and disciplinary content? Is this balance the same as you want to achieve, or different?\nAre there objectives in the course that align with the data literacy competencies from the Tulane libguide? Those were:\n\nDatabases and Data Formats\nDiscovery and Acquisition of Data\nData Management and Organization\nData Conversion and Interoperability\nQuality Assurance\nMetadata\nData Curation and Reuse\nData Preservation\nData Analytics\nData Visualization\nEthics\n\nAre there elements of the course you could/should emulate? For example\n\nPolicies\nOrder of topics\nPacing of material\nNumber of assignments, mixture of high- and low-stakes assignments\nReadings– number of readings, mixture of academic and popular audience work, specific reading assignments\n\nNot all syllabi include details of assignments. If the one(s) you are examining do, consider whether there elements of those you could/should emulate.",
+    "objectID": "learning_R.html#downloading-r-and-rstudio",
+    "href": "learning_R.html#downloading-r-and-rstudio",
+    "title": "Resources for learning R",
+    "section": "Downloading R and RStudio",
+    "text": "Downloading R and RStudio\nIn order to use R and RStudio, you need access to them! There is a cloud version that allows you a few hours of compute time per month for free, and is pretty cheap after that. If you just want to give R a quick try, this can be a good way to start. I have used this with intro classes where I don’t want students to get bogged down in software installs. In upper level classes where we use it more heavily, I ask students to install it locally.\nIf you really want to learn R, I suggest installing it locally.\nThere are several steps to this process, so I made a YouTube video to walk students through it. There are three main steps:\n\nDownload and install R\nDownload and install RStudio Desktop\nInstall whatever packages you need to do your work. I’ve made a big list of potential packages, which you may or may not need all of. To install them, run this entire piece of code:\n\n\ninstall.packages(c(\"tidyverse\", \"babynames\", \"broom\", \"coefplot\", \"cowplot\", \"devtools\", \"drat\", \"fueleconomy\", \"fivethirtyeight\", \"formatR\", \"gapminder\", \"GGally\", \"ggforce\", \"ggraph\", \"ggrepel\", \"ggridges\", \"graphlayouts\", \"gridExtra\", \"here\", \"hexbin\", \"interplot\", \"janitor\", \"margins\", \"mgcv\", \"maps\", \"mapproj\", \"nycflights13\", \"RColorBrewer\", \"rmarkdown\", \"sf\", \"skimr\", \"usethis\", \"viridis\", \"viridisLite\"))\n\nI’m happy to help troubleshoot if you run into any issues!",
     "crumbs": [
-      "Activities",
-      "Syllabus review"
+      "Resources",
+      "For learning R"
     ]
   },
   {
-    "objectID": "syllabus_review.html#syllabi-to-review",
-    "href": "syllabus_review.html#syllabi-to-review",
-    "title": "Syllabus review",
-    "section": "Syllabi to review",
-    "text": "Syllabi to review\nHere are a few suggested sample syllabi to examine, from least to most technical (“do humanities students need to know how to code?”):\n\nPSYCG1514: Research Methods and Design (PDF download). Kate Jansen, Midwestern University. (no code)\nDH285: Introduction to Digital Humanities. Kristen Mapes, Michigan State University. (no code: Flourish, Ondo)\nDGHM150: Archaeology in a Digital Age. Leigh Anne Lieberman, Claremont McKenna. (no code?)\nDH201: Introduction to Digital Humanities. Miriam Posner, UCLA. (low code, has a little HTML/CSS/p5.js exploration)\nENG790: Quantitative Literary Analysis: Theory and Practice. Lauren Klein and Ben Miller, Emory University. (limited programming but does use Python)\nIS312: Reading and Writing Data. Ryan Cordell, University of Illinois Urbana-Champaign. (R or Python programming)\nBUS607: Data-Driven Decision-Making. Saylor Academy. (limited programming in R)\nSTAT336: Data Communication and Visualization. Amelia McNamara, University of St Thomas. (programming in R)\nLING334: Introduction to Computational Linguistics. Rob Voigt, Northwestern University. (programming in Python)\n\nIf none of those speak to you, here are a few more places to look for syllabi:\n\nThe Society for the Teaching of Psychology Project Syllabus collection.\nHumanities Commons CORE (narrow search to “Syllabus”)\nDigital Pedagogy in the Humanities\nSaylor Academy (lots of business classes) I don’t know anything about this site, but it seems relatively legit.\n\nYou can also feel free to pull examples from your own syllabi! We have a wealth of knowledge in this room, let’s leverage it.",
+    "objectID": "learning_R.html#learning-r",
+    "href": "learning_R.html#learning-r",
+    "title": "Resources for learning R",
+    "section": "Learning R",
+    "text": "Learning R\n\nIf you want a self-paced way to learn R, DataQuest is the website I recommend. It has R content as well as other programming languages like Python. It does cost money\nTheir competitor that I do not recommend is called DataCamp. Here’s an overview: Don’t use DataCamp. There is so much more media coverage. (Oh, and the CEO has been quietly reinstated!)\nIf you want a free way to learn R, the website learnR4free has (you guessed it!) free resources for learning R. They have materials in English, Turkish, and Spanish.\n\none that I know is good: R Bootcamp\n\nThe book R for data science (free online) is a common resource for learning R. There is also a supportive online community called the R for data science online community that you can join for free. They have a Slack group, and I have heard there is almost always a group of people working their way through the r4ds book together and asking questions online.",
     "crumbs": [
-      "Activities",
-      "Syllabus review"
+      "Resources",
+      "For learning R"
     ]
   },
   {
-    "objectID": "mod_imdb.html",
-    "href": "mod_imdb.html",
+    "objectID": "learning_R.html#resources",
+    "href": "learning_R.html#resources",
+    "title": "Resources for learning R",
+    "section": "Resources",
+    "text": "Resources\nAs you learn, you will have questions! Here are some resources to help you answer them.\n\nThe Posit cheatsheets are overviews of common functions you might need, including illustrations to help you understand what they do. Some useful cheatsheets:\n\nData visualization with ggplot2\nData wrangling with dplyr\nthere are also “contributed” cheatsheets cheatsheets made by people other than the company itself.\nMy syntax comparison cheatsheet is one\n\nOn the subject of cheatsheets, I have two “Enough R for Intro Stats” cheatsheets, which are given to students in my intro stats courses STAT 220:\n\nFormula syntax (source code, Rmd)\nTidyverse syntax (source code, Rmd)",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
+    "objectID": "learning_R.html#books",
+    "href": "learning_R.html#books",
+    "title": "Resources for learning R",
+    "section": "Books",
+    "text": "Books\n\nAgain, the book R for data science is very commonly used, for a reason. It’s a great intro to the tidyverse, and you can read it free online\nR Graphics Cookbook will help you make your ggplots beautiful. It’s also free online, or you can buy a paper book.\nModern Data Science with R is a data science textbook that uses the tidyverse. Again, free online or you can buy the book.\nThere’s also Statistical Inference via Data Science again free online (are you sensing a theme?).\nText Mining with R, ditto.\nSpatial Data Science With Applications in R, yep, also free.\nIf you want a recommendation for a book with a particular application, just ask.",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
+    "objectID": "learning_R.html#teaching-r",
+    "href": "learning_R.html#teaching-r",
+    "title": "Resources for learning R",
+    "section": "Teaching R",
+    "text": "Teaching R\n\nAgain, you might want to read me and my colleague’s piece An educator’s perspective of the tidyverse\nMine Cetinkaya-Rundel (the first author on that piece) has a website Data Science in a Box, which has lots of materials for teaching data science. It also has her design philosophy, which includes “Start with cake”",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
+    "objectID": "learning_R.html#videos",
+    "href": "learning_R.html#videos",
+    "title": "Resources for learning R",
+    "section": "Videos",
+    "text": "Videos\nLet’s say you’re not sick of my voice after a full week of it. I have a ton of YouTube videos with content related to learning R. For example,\n\nfull semester of intro statistics labs taught with the tidyverse, and accompanying documents\nfull semester of intro statistics labs taught with formula syntax, and accompanying documents",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
+    "objectID": "learning_R.html#writing-reproducible-reports",
+    "href": "learning_R.html#writing-reproducible-reports",
+    "title": "Resources for learning R",
+    "section": "Writing reproducible reports",
+    "text": "Writing reproducible reports\nAnother powerful thing about R is the tooling around writing reproducible reports. Here are some resources related to that:\n\nQuarto websites. Quarto is a fancy version of Markdown that lets you include code (R, Python, or other languages) and create “literate programming” documents.\n\nMy STAT336 website was made with Quarto\nThat paper on the tidyverse was written in RMarkdown, the previous generation of what is now Quarto.\nMy paper on teaching different R syntaxes was also written in RMarkdown\n\nTo do this sort of stuff, you would need the rticles package",
+    "crumbs": [
+      "Resources",
+      "For learning R"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Data Literacy Course Redesign Institute",
     "section": "",
-    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
+    "crumbs": [
+      "Data Literacy Course (Re)Design Institute Description"
+    ]
   },
   {
-    "objectID": "mod_imdb.html#mini-project",
-    "href": "mod_imdb.html#mini-project",
+    "objectID": "index.html#about-the-course",
+    "href": "index.html#about-the-course",
     "title": "Data Literacy Course Redesign Institute",
     "section": "",
-    "text": "You will investigate a Film and Media Studies question of interest. Your deliverable will be a 5-minute class presentation (to your peers) and a blog post written in R Markdown.\nIn groups of three, please choose a topic from the following list illuminated by Prof. Keller:\n\n\nWesterns over time: The Western is a central U.S. genre, not just to Hollywood and mainstream film (think Stagecoach, 1939 and The Searchers, 1956), but also to independent film production (Brokeback Mountain, 2005). Film critics have pronounced the Western dead repeatedly, and, so far, always wrongly. Between 1900 and 2015, when and how has Western film production peaked and ebbed? What might account for this, and does the IMDB define a Western in the 1950 in the same way as it does in 2000?\n\nSee info_type_id = 3 AND info = 'Western'\n\nGenre Multiplicity: Prof. Keller explained how the labor model in Hollywood has changed over time, specifically with respect to the 1947 court decision that broke up the vertical integration of studios. Is it true that movies made today tend to have overlapping genres in a way that they did not in the past? Is is true that older movies tended to fit squarely in one genre, while more recent movies tend to span multiple genres? Is there a historical moment where this genre complexity begins? Does it have patterns of any discernible kind?\n\nSee info_type_id = 3\n\nSequels with SQL: Hollywood seems to be more repetitive than it used to be. Is this true? We now have not only sequels, but also remakes and reboots. Are these follow-up films more common today than they used to be? Can you trace the evolution of sequels across time in Hollywood? Are sequels more frequent today? Is the spacing between a sequel and its original shorter than it used to be?\n\nSee movie_link table\n\nCommunity Detection and Missingness: In statistics, data are often missing. Yet the difference between data that are missing at random versus missing systematically is crucial. What movies are present in the IMDB? We know there are box office Hollywood movies, independent films, experimental/avant-garde films, adult films, and foreign films. What films are missing? How does a film merit inclusion in the imdb.com data base? Can you think of any films that are not in the database? Are there entire areas of moving image production that imdb.com simply doesn’t recognize (e.g. youtube.com)? If so, what accounts for that? Could you create a visualization showing the source of every film in the IMDB? What communities are present? What communities are not present? When you “map” these data, look beyond geography.\n\n\nYour project will use data stored in the IMDB to address one of the four topics outlined above. You will write several queries in SQL that will pull in data relevant to your question. Examination of that data will inform your response to the question, and you will then formulate your arguments accordingly. Recall that (as always) communication is a critical component of data science, so details like axis labels, figure captions, spelling, and grammar, are just as important as writing your queries correctly and making a logical argument.\nBe extra careful when writing your queries! Just because the query executes without an error does not mean that it will return exactly what you want. The computer is dumb—it just carries out instructions. You are smart—it’s your job to translate your ideas into a syntax that the computer can understand. Know your data!!!"
+    "text": "Dr. Amelia McNamara (she/her), amelia.mcnamara@stthomas.edu\n\n\n\nThis weeklong in-person institute will provide faculty from across a variety of disciplines the knowledge, resources, and support to (re)design a course infused with data literacy principles. Participants will leave with an understanding of digital and data technologies that could be introduced into their courses, sample assignments promoting data literacy, and a new or revised syllabus.\n\n\n\nLearn to identify data products, conceptualize of data structure, and find appropriate data for tasks online.\nFrame disciplinary questions as data questions, both from a professional (research) lens and at the instructional level.\nExperience new tools for data, including Datawrapper for data visualization, Excel online for data collection and analysis, Voyant Tools for text data analysis, StoryMaps for mapping and communication, GitHub Pages for simple webhosting and portfolio presentation, and LMMs like ChatGPT as a potential learning tool. Begin developing technical skills in these tools.\nEngage in sample data literacy assignments, including What’s Going On in This Graph?, Hand Drawn Data Visualization, Data Exhaust, Data Ethics, and more.\nCritique existing assignments and syllabi, and modify pedagogical materials to fit into an updated syllabus.",
+    "crumbs": [
+      "Data Literacy Course (Re)Design Institute Description"
+    ]
   },
   {
-    "objectID": "mod_imdb.html#data",
-    "href": "mod_imdb.html#data",
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
     "title": "Data Literacy Course Redesign Institute",
-    "section": "Data",
-    "text": "Data\nData are available through the imdb database located on scidb.smith.edu. Please see me for login instructions, or use the special functions built into the mdsr pacakge.\n\nlibrary(mdsr)\nlibrary(RMySQL)\ndb &lt;- dbConnect_scidb(dbname = \"imdb\")\ndb %&gt;%\n  dbGetQuery(\"SELECT * FROM kind_type;\")"
+    "section": "Tentative Schedule",
+    "text": "Tentative Schedule\nThe following is an outline of the institute. Please refer to the daily modules for more detailed information.\n\nMonday: Overview, data collection\nDigital humanities across disciplines. Case studies from English, history, linguistics, others as relevant to institute participants. Connections to the rest of the week. Syllabus review. Read sample syllabi of data-infused courses, look at participant’s syllabi for potential opportunities. Consider: What is data? How is it generated? Idea of data exhaust. How to find data? Searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\nTuesday: Data visualization\nThe Grammar of Graphics. How data connects to visual attributes. Reading graphics using the NY Times framework “What’s Going On in This Graph?” Data art versus generative art. Hand-drawn data visualization. Electronic tools for data visualization. Example tool: Datawrapper.\n\n\nWednesday: Data analysis\nTidy data and concepts of data wrangling. Unpacking newspaper headlines for underlying data. Data analysis basics. Example tool: Excel online. Text as data. Topic modeling, word embeddings. Example tool: Voyant Tools. Most relevant data/wrangling/analysis for discipline. Algorithmic accountability and digital ethics. Connection to text analysis and LMMs. Data/digital ethics in disciplines. How can this be integrated into courses?\n\n\nThursday: Communication and presentation\nCommunicating results digitally. Data journalism, digital portfolios. Reading StoryMaps and discussing connections to disciplines. Mapping basics. Example tool: StoryMaps. The machinery of the web. Example tool: GitHub Pages. Curriculum/syllabus review. Where do students see these skills? Are they necessary? LLMs. Ethics– electricity, water use, copyright/fair use. Example tool: ChatGPT. How could LMMs be used as learning tools? Discuss syllabus statements.\n\n\nFriday: Finalizing the connections\nIdeas for curricular integration. Successes/blockers. Ideas and resources. Presentations, reflection and wrap-up.",
+    "crumbs": [
+      "Data Literacy Course (Re)Design Institute Description"
+    ]
   },
   {
-    "objectID": "mod_imdb.html#rubric",
-    "href": "mod_imdb.html#rubric",
+    "objectID": "index.html#syllabus-statements",
+    "href": "index.html#syllabus-statements",
     "title": "Data Literacy Course Redesign Institute",
-    "section": "Rubric",
-    "text": "Rubric\nThere are 14 points available on this Mini-Project.\n\nBaseline\n\n+1 for having an .Rmd that compiles without errors\n+1 for including a problem statement (what are you trying to figure out?)\n+1 for using data from more than one table in your analysis\n+1 for readable, well-documented code (i.e. appropriate comments, using line breaks, breaking code up into logical chunks, following a style guide)\n+1 unnecessary messages from R are hidden from being displayed in the HTML\n\n\n\nAverage\n\n+1 for joining multiple tables using SQL\n+1 for using precise SQL queries (i.e. requesting only the columns you need, rather than requesting everything and filtering in R)\n+1 for using efficient SQL queries (i.e. making use of an index column to speed things up, and including a comment indicating this)\n+1 for using a data graphic to articulate your findings\n+1 for including relevant external information to your analysis (e.g. important cultural context that the reader might not have, historical events that could be related to what you found, etc.)\n\n\n\nAdvanced\n\n+1 for using a GitHub repository and including a link to it at the bottom of your submission\n+1 for including a (well-supported!) alternate hypothesis / explanation for what you found\n+0–2 WOW factor: awarded at the professors’ discretion for submissions that are exceptionally compelling"
+    "section": "Syllabus statements",
+    "text": "Syllabus statements\nThese are two of my commonly-used syllabus statements that felt relevant to this institute. I’m providing them both as a jumping-off-point for institute ground rules and as inspiration for your syllabus statements.\n\nInclusive classroom\nBecause data is collected by and about humans, it always encodes our viewpoints and biases. As a result, this course will likely touch upon difficult topics related to race, gender, inequality, class, and oppression.\nWe each come into this class with different perspectives that can be shared to enhance our understanding of these issues. I ask that you enter these conversations with respect, curiosity, and cultural humility. You should be open to alternative perspectives and willing to revise beliefs that are based on misinformation. As a general rule, your ideas and experiences can always be shared during these conversation but refrain from dismissing the experiences of others.\nPlease plan to treat me and your classmates with respect. To me, respect includes using peoples’ pronouns and preferred name (both for me and for your classmates), arriving at class on time or coming in quietly if you are late, and focusing on the task at hand. Of course, personal attacks of any kind will not be tolerated.\n\n\nCollaboration and generative AI\nThe goal of this course is to help you develop and strengthen your skills as a data communicator. It is acceptable to work collaboratively with other students, or use generative AI (such as ChatGPT) to help you understand topics, debug code, and clean up written work. However, I expect all work submitted to be substantively yours. This means that copying and pasting large blocks of code or major textual elements from another student, internet websites, or generative AI systems, is not acceptable. If I suspect work you submitted is not substantively yours, I may ask you to come in and discuss the work with me. If you cannot explain how you arrived at the solution, and restate the work in your words, you will receive no credit. All students are bound by the Undergraduate Student Academic Integrity Policy. Cases of dishonesty, plagiarism, etc., will be reported to the dean.",
+    "crumbs": [
+      "Data Literacy Course (Re)Design Institute Description"
+    ]
   },
   {
-    "objectID": "monday.html",
-    "href": "monday.html",
-    "title": "Monday",
+    "objectID": "reading_storymaps.html",
+    "href": "reading_storymaps.html",
+    "title": "Reading story maps",
     "section": "",
-    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (what do you think of when you think of “data”?)\n\n\n9:15\nWelcome and introductions\n\n\n9:45\nPresentation: digital humanities across disciplines.\n\n\n10:45\nBreak\n\n\n11:00\nActivity: syllabus review.\n\n\n11:45\nShare-out and discussion\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: What is data?\n\n\n1:30\nActivity: searching online for relevant data, or retrieving data relevant to discipline/research area\n\n\n2:00\nBreak\n\n\n2:15\nDiscussion/reflection : How do you see this connecting to your discipline? What questions/projects/tools/ ideas are most compelling to you?",
+    "text": "Here are some example storymaps created by folks at Tulane. Take a look through and see the types of elements they have been able to weave together.",
+    "crumbs": [
+      "Activities",
+      "Reading story maps"
+    ]
+  },
+  {
+    "objectID": "reading_storymaps.html#more-examples",
+    "href": "reading_storymaps.html#more-examples",
+    "title": "Reading story maps",
+    "section": "More examples",
+    "text": "More examples\n\nDante’s Inferno: According to A. Manetti & G. Galilei, Josef Münzberger\nA Matter of Air: Visualizing Air Pollution in New York City, Aurelie Barbier, Katrin Bichler, Aron Cohen and Julie McEldoon\n\nYou might also want to look at the winners of the 2023 StoryMaps competition.",
+    "crumbs": [
+      "Activities",
+      "Reading story maps"
+    ]
+  },
+  {
+    "objectID": "tuesday.html",
+    "href": "tuesday.html",
+    "title": "Tuesday",
+    "section": "",
+    "text": "Time\nTopic\n\n\n\n\n9:00\nBreakfast, warm-up (brainstorm common data visualizations)\n\n\n9:15\nPresentation: The Grammar of Graphics.\n\n\n9:45\nActivity: unpacking charts\n\n\n10:45\nBreak\n\n\n11:00\nPresentation: data and art.\n\n\n11:30\nActivity: hand-drawn data.\n\n\nnoon\nLunch\n\n\n12:45\nPresentation: tools for data visualization. Demo: Datawrapper.\n\n\n1:30\nActivity: visualize data from yesterday using paper and pencil or Datawrapper.\n\n\n2:00\nBreak\n\n\n2:15\nActivity: assignment creation. Adjust an activity from a sample syllabi, or take an assignment from your existing course and add a data element\n\n\n2:50\nShare out details of assignments.",
     "crumbs": [
       "Daily schedules and resources",
-      "Monday"
+      "Tuesday"
     ]
   },
   {
-    "objectID": "monday.html#resources",
-    "href": "monday.html#resources",
-    "title": "Monday",
+    "objectID": "tuesday.html#resources",
+    "href": "tuesday.html#resources",
+    "title": "Tuesday",
     "section": " Resources",
-    "text": "Resources\n\nHow Not to Teach Digital Humanities, Ryan Cordell\nTulane Data Literacy libguide\nWhat Are Data? The Many Kinds of Data and Their Implications for Data Re-Use, Samuel Carlson, Ben Anderson.\nOpen for who? Jer Thorp.",
+    "text": "Resources\n\nTulane libguide to data visualization\nData is Personal. What We Learned from 42 Interviews in Rural America. Evan Peck.\nThe unspoken rules of visualisation (and when to break them). Kaiser Fung.",
     "crumbs": [
       "Daily schedules and resources",
-      "Monday"
+      "Tuesday"
     ]
   },
   {
-    "objectID": "monday.html#activities",
-    "href": "monday.html#activities",
-    "title": "Monday",
+    "objectID": "tuesday.html#activities",
+    "href": "tuesday.html#activities",
+    "title": "Tuesday",
     "section": " Activities",
-    "text": "Activities\n\nSyllabus review\nFinding data",
+    "text": "Activities\n\nUnpacking charts\nHandmade viz\nDatawrapper",
     "crumbs": [
       "Daily schedules and resources",
-      "Monday"
+      "Tuesday"
+    ]
+  },
+  {
+    "objectID": "datawrapper.html",
+    "href": "datawrapper.html",
+    "title": "Datawrapper",
+    "section": "",
+    "text": "Let’s try making some basic data visualizations using Datawrapper. I’ll do a demo, but it’s usually pretty self-explanatory. And, they have great introductory documentation. To get started, just click “start creating”! Login not required.\nYou’ll need a dataset, probably an Excel or csv file. If you found one yesterday, try that! If not, feel free to use one of these sample datasets:\n\nGeneral Social Survey extract\nPalmer penguins data\n(Tidy Tuesday datasets would also work)\n\nOne thing that can complicate matters is Datawrapper’s expectation of how data will be formatted. (They are not based on tidy data!) However, they have good documentation of the format they expect. For example:\n\nhow to create small multiple line charts\nhow to create a stacked bar chart\nhow to create multiple pie charts",
+    "crumbs": [
+      "Activities",
+      "Datawrapper"
+    ]
+  },
+  {
+    "objectID": "learning_Tableau.html",
+    "href": "learning_Tableau.html",
+    "title": "Learning Tableau",
+    "section": "",
+    "text": "In contrast with R, I have relatively few suggestions about learning Tableau!\nIt doesn’t appear that Tulane has a university-wide Tableau license, but it is possible there are departments that have a smaller set of licenses. For my classes, I get a set of student licenses so they can download the software on their own computers and I ask Tableau for a Tableau online site. Like with R, if you just want to get a taste, the online version can be good enough. But if you want to become a pro, you need the version you install on your computer.\nHere is where you can request educator access. Click “request course software” and then select Student Licenses and Tableau Cloud Site. If you have admin access on lab computers you could also choose Lab Licenses.\nOnce you have a Tableau Cloud site, you need to add your students. If Tulane is like St Thomas, the single sign on option won’t work, so you will need to add students by email address. I recommend adding students right before the class when you will introduce Tableau, because the emails “expire” after a couple of days and it can be hard to recreate them. Assign the students “creator” role when you add them.",
+    "crumbs": [
+      "Resources",
+      "For learning Tableau"
+    ]
+  },
+  {
+    "objectID": "learning_Tableau.html#getting-started",
+    "href": "learning_Tableau.html#getting-started",
+    "title": "Learning Tableau",
+    "section": "Getting started",
+    "text": "Getting started\nA video I really like is Tableau in Two Minutes - Tableau Basics for Beginners, although the title is deceptive– it’s a 23-minute video! Penguin Analytics has a ton of other good videos. The Tableau documentation itself can be highly variable, sometimes I search something online and get a great answer, other times it doesn’t seem to apply to the version of Tableau I’m using.",
+    "crumbs": [
+      "Resources",
+      "For learning Tableau"
+    ]
+  },
+  {
+    "objectID": "learning_Tableau.html#example-dashboards",
+    "href": "learning_Tableau.html#example-dashboards",
+    "title": "Learning Tableau",
+    "section": "Example dashboards",
+    "text": "Example dashboards\nOne benefit of Tableau is that you get interactivity (brushing and linking) “for free.” They also do some device size customization for free, which is one of the things people talk about with dashboards. Lots of people make dashboards using Tableau. Some examples:\n\nThe Coffees of Twin Peaks\nMichigan 34, Washington 13: The 2024 College Football National Championship Game\nEdmonton, Alberta: Snow\nPress Freedom Index : The Dire State of Authentic Journalism in 2023\nRánking de sueldos: El lugar de la Argentina donde se cobran los mejores salarios, pero no es fácil ser feliz (La Nacion does a lot with Tableau)\nPopular or Pragmatic Part 2: The Long View\nFrom College Major to Industry of Employment\nSurface with Purpose Tool - by jurisdiction\n\nYou can also browse Tableau Public to see inspiring examples.",
+    "crumbs": [
+      "Resources",
+      "For learning Tableau"
     ]
   },
   {
